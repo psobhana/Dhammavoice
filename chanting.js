@@ -13,6 +13,8 @@ function loadYoutube2(videoID) {
                 allowfullscreen>
         </iframe>
     `;
+	// Show the share button after video loads
+    document.getElementById("shareBtn").style.display = "inline-block";
 }
 
 function shareVideo() {
@@ -38,6 +40,8 @@ function loadYoutubeStart(videoID, startTime) {
     var playerDiv = document.getElementById("player");
 	currentVideoUrl = 'https://www.youtube.com/watch?v=' + videoID + '&autoplay=1&start=' + startTime;
     playerDiv.innerHTML = '<iframe class="responsive-iframe" src="https://www.youtube.com/embed/' + videoID + '?autoplay=1&start=' + startTime + '" frameborder="0" allowfullscreen></iframe>';
+// Show the share button after video loads
+    document.getElementById("shareBtn").style.display = "inline-block";
 }
 
 function loadYoutubeStartStop(videoID, startTime, stopTime) {
@@ -45,6 +49,8 @@ function loadYoutubeStartStop(videoID, startTime, stopTime) {
 	currentVideoUrl = 'https://www.youtube.com/watch?v=' + videoID + '&autoplay=1&start=' + startTime + '&end=' + stopTime;
     var embedUrl = 'https://www.youtube.com/embed/' + videoID + '?autoplay=1&start=' + startTime + '&end=' + stopTime;
     playerDiv.innerHTML = '<iframe class="responsive-iframe" src="' + embedUrl + '" frameborder="0" allowfullscreen></iframe>';
+// Show the share button after video loads
+    document.getElementById("shareBtn").style.display = "inline-block";
 } 
 
 
@@ -58,6 +64,8 @@ currentVideoUrl = 'https://www.youtube.com/watch?v=' + videoID;
     var playlistParam = '&playlist=' + videoID;
 
     playerDiv.innerHTML = '<iframe class="responsive-iframe" src="https://www.youtube.com/embed/' + videoID + '?autoplay=1' + loopParam + playlistParam + '" frameborder="0" allowfullscreen></iframe>';
+// Show the share button after video loads
+    document.getElementById("shareBtn").style.display = "inline-block";
 }
 
 
@@ -68,6 +76,8 @@ function loadYoutubePlaylistLoop(playlistID, loop = false) {
     // Construct the URL with the loop parameter if needed
     var loopParam = loop ? '&loop=1' : '';   
     playerDiv.innerHTML = '<iframe class="responsive-iframe" src="https://www.youtube.com/embed/videoseries?list=' + playlistID + '&autoplay=1' + loopParam + '" frameborder="0" allowfullscreen></iframe>';
+// Show the share button after video loads
+    document.getElementById("shareBtn").style.display = "inline-block";
 }
 
 
