@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. پَارِوَاسِکَوَتَّں (20min.), 158p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 0, 1239);" icon="images/chetiya.gif"/>
+<tree text="2. مُولَایَپَٹِکَسَّنَارَہَوَتَّں (15min.), 168p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 1239, 2132);" icon="images/chetiya.gif"/>
+<tree text="3. مَانَتَّارَہَوَتَّں (15min.), 176p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 2132, 2881);" icon="images/chetiya.gif"/>
+<tree text="4. مَانَتَّچَارِکَوَتَّں (15min.), 180p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 2881, 3909);" icon="images/chetiya.gif"/>
+<tree text="5. اَبھَّانَارَہَوَتَّں (10min.), 188p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 3909, 4443);" icon="images/chetiya.gif"/>
+<tree text="6. وَتھُّدَّانَں (2min.), 194p" action="javascript:loadYoutubeStart('essjh6Mo3nE', 4443);" icon="images/chetiya.gif"/>
+</tree>
+

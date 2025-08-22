@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. Pabbatavaggo (45min.), 140p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 0, 2667);" icon="images/chetiya.gif"/>
+    <tree text="02. Gilānavaggo (20min.), 162p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 2667, 3835);" icon="images/chetiya.gif"/>
+    <tree text="03. Udāyivaggo (20min.), 172p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 3835, 5084);" icon="images/chetiya.gif"/>
+    <tree text="04. Nīvaraṇavaggo (20min.), 184p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 5084, 6277);" icon="images/chetiya.gif"/>
+    <tree text="05. Cakkavattivaggo (15min.), 196p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 6277, 6976);" icon="images/chetiya.gif"/>
+    <tree text="06. Bojjhaṅgavaggo" src="eS3-5-02-06.xml" />
+    <tree text="07. Ānāpānavaggo (8min.), 240p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 12037, 12538);" icon="images/chetiya.gif"/>
+    <tree text="08. Nirodhavaggo (10min.), 246p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 12538, 13060);" icon="images/chetiya.gif"/>
+    <tree text="09. Gaṅgāpeyyālo (2min.), 252p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13060, 13176);" icon="images/chetiya.gif"/>
+    <tree text="10. Appamādavaggo (1min.), 252p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13176, 13226);" icon="images/chetiya.gif"/>
+    <tree text="11. Balakaraṇīyavaggo (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13226, 13276);" icon="images/chetiya.gif"/>
+    <tree text="12. Esanāvaggo (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13276, 13328);" icon="images/chetiya.gif"/>
+    <tree text="13. Oghavaggo (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13328, 13379);" icon="images/chetiya.gif"/>
+    <tree text="14. Punagaṅgāpeyyālo (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13379, 13420);" icon="images/chetiya.gif"/>
+    <tree text="15. Punaappamādavaggo (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13420, 13457);" icon="images/chetiya.gif"/>
+	<tree text="16. Punabalakaraṇīyavaggo (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13457, 13495);" icon="images/chetiya.gif"/>
+    <tree text="17. Punaesanāvaggo (1min.), 258p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13495, 13533);" icon="images/chetiya.gif"/> 
+    <tree text="18. Punaoghavaggo (1min.), 258p" action="javascript:loadYoutubeStart('3YHgOJvAxDw', 13533);" icon="images/chetiya.gif"/>
+</tree>

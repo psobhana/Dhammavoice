@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. పారివాసికవత్తం (20min.), 158p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 0, 1239);" icon="images/chetiya.gif"/>
+<tree text="2. మూలాయపటికస్సనారహవత్తం (15min.), 168p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 1239, 2132);" icon="images/chetiya.gif"/>
+<tree text="3. మానత్తారహవత్తం (15min.), 176p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 2132, 2881);" icon="images/chetiya.gif"/>
+<tree text="4. మానత్తచారికవత్తం (15min.), 180p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 2881, 3909);" icon="images/chetiya.gif"/>
+<tree text="5. అబ్భానారహవత్తం (10min.), 188p" action="javascript:loadYoutubeStartStop('essjh6Mo3nE', 3909, 4443);" icon="images/chetiya.gif"/>
+<tree text="6. వత్థుద్దానం (2min.), 194p" action="javascript:loadYoutubeStart('essjh6Mo3nE', 4443);" icon="images/chetiya.gif"/>
+</tree>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ತಜ್ಜನೀಯಕಮ್ಮಂ (45min.), 2p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 0, 2640);" icon="images/chetiya.gif"/>
+<tree text="2. ನಿಯಸ್ಸಕಮ್ಮಂ (30min.), 24p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 2640, 4324);" icon="images/chetiya.gif"/>
+<tree text="3. ಪಬ್ಬಾಜನೀಯಕಮ್ಮಂ (55min.), 34p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 4324, 7542);" icon="images/chetiya.gif"/>
+<tree text="4. ಪಟಿಸಾರಣೀಯಕಮ್ಮಂ (40min.), 64p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 7542, 10082);" icon="images/chetiya.gif"/>
+<tree text="5. ಆಪತ್ತಿಯಾ ಅದಸ್ಸನೇ ಉಕ್ಖೇಪನೀಯಕಮ್ಮಂ (40min.), 86p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 10082, 12563);" icon="images/chetiya.gif"/>
+<tree text="6. ಆಪತ್ತಿಯಾ ಅಪ್ಪಟಿಕಮ್ಮೇ ಉಕ್ಖೇಪನೀಯಕಮ್ಮಂ (40min.), 108p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 12563, 14886);" icon="images/chetiya.gif"/>
+<tree text="7. ಪಾಪಿಕಾಯ ದಿಟ್ಠಿಯಾ ಅಪ್ಪಟಿನಿಸ್ಸಗ್ಗೇ ಉಕ್ಖೇಪನೀಯಕಮ್ಮಂ (45min.), 128p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 14886, 17498);" icon="images/chetiya.gif"/>
+<tree text="8. ವತ್ಥುದ್ದಾನಂ (10min.), 152p" action="javascript:loadYoutubeStart('b1_aCYLZnV0', 17498);" icon="images/chetiya.gif"/>
+</tree>

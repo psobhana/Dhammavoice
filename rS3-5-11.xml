@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. 베룻드와러왔고 (1h.), 138p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 0, 3629);" icon="images/chetiya.gif"/>
+    <tree text="02. 라저카러머왔고 (30min.), 168p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 3629, 5362);" icon="images/chetiya.gif"/>
+    <tree text="03. 사러카니왔고 (1h.10min.), 182p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 5362, 9725);" icon="images/chetiya.gif"/>
+    <tree text="04. 분냐비산띠왔고 (30min.), 218p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 9725, 11307);" icon="images/chetiya.gif"/>
+    <tree text="05. 사라터분냐비산띠왔고 (20min.), 232p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 11307, 12455);" icon="images/chetiya.gif"/>
+    <tree text="06. 사반냐왔고 (25min.), 242p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 12455, 13964);" icon="images/chetiya.gif"/>
+    <tree text="07. 마하반냐왔고 (5min.), 256p" action="javascript:loadYoutubeStart('BDKbk35H8vg', 13964);" icon="images/chetiya.gif"/>
+</tree>

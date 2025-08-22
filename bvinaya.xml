@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ပါရာဇိကပါဠိ (BJT 1)" src="bV1.xml" />
+<tree text="2. ပါစိတ္တိယပါဠိ (BJT 2-i,ii)" src="bV2.xml" />
+<tree text="3. မဟာဝဂ္ဂပါဠိ (BJT 3,4)" src="bV3.xml" />
+<tree text="4. စုလ္လဝဂ္ဂပါဠိ (BJT 5-i,ii)" src="bV4.xml" />
+<tree text="5. ပရိဝါရပါဠိ (BJT 6-i,ii)" src="bV5.xml" />
+</tree>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. Gaṅgāpeyyālavaggo (5min.), 426p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 0, 279);" icon="images/chetiya.gif"/>
+    <tree text="02. Appamādavaggo (1min.), 428p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 279, 332);" icon="images/chetiya.gif"/>
+    <tree text="03. Balakaraṇīyavaggo (3min.), 430p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 332, 502);" icon="images/chetiya.gif"/>
+    <tree text="04. Esanāvaggo (2min.), 430p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 502, 624);" icon="images/chetiya.gif"/>
+    <tree text="05. Oghavaggo (3min.), 432p" action="javascript:loadYoutubeStart('FhmS6rJpT-I', 624);" icon="images/chetiya.gif"/>
+</tree>

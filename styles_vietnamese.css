@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifVietnamese-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'vietnamese'; }
+
+.vietnamesefont{
+    font-family: vietnamese;
+}
+
+
+.webfx-tree-item {
+  font-family: vietnamese;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: vietnamese;
+	font-size: 16px;
+}
+	
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF8"?>
+
+<tree>
+    <tree text="01. ᨶᩊᩅᨣ᩠ᨣᩮᩣ (15min.), 2p" action="javascript:loadYoutube2('GkL7YAqkfDM');" icon="images/chetiya.gif"/>
+    <tree text="02. ᨶᨶ᩠ᨴᨶᩅᨣ᩠ᨣᩮᩣ (30min.), 10p" action="javascript:loadYoutube2('WwHY3YABh7s');" icon="images/chetiya.gif"/>
+    <tree text="03. ᩈᨲ᩠ᨲᩥᩅᨣ᩠ᨣᩮᩣ (35min.), 24p" action="javascript:loadYoutube2('OaxEE4BpoTg');" icon="images/chetiya.gif"/>
+    <tree text="04. ᩈᨲᩩᩃ᩠ᩃᨸᨠᩣᨿᩥᨠᩅᨣ᩠ᨣᩮᩣ (40min.), 32p" action="javascript:loadYoutube2('IZGm-NENAlI');" icon="images/chetiya.gif"/>
+    <tree text="05. ᩌᨴᩥᨲ᩠ᨲᩅᨣ᩠ᨣᩮᩣ (20min.), 56p" action="javascript:loadYoutube2('qPyZkxku84E');" icon="images/chetiya.gif"/>
+    <tree text="06. ᨩᩁᩣᩅᨣ᩠ᨣᩮᩣ (15min.), 66p" action="javascript:loadYoutube2('9-A_E49Ciug');" icon="images/chetiya.gif"/>
+    <tree text="07. ᩋᨶ᩠ᩅᩅᨣ᩠ᨣᩮᩣ (15min.), 72p" action="javascript:loadYoutube2('-N1RwoVj-uA');" icon="images/chetiya.gif"/>
+    <tree text="08. ᨫᨲ᩠ᩅᩣᩅᨣ᩠ᨣᩮᩣ (20min.), 76p" action="javascript:loadYoutube2('1tYEFdW4IXA');" icon="images/chetiya.gif"/>
+</tree>

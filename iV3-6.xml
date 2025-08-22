@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. 五藥" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 0, 546);" icon="images/chetiya.gif"/>
+<tree text="02. 根藥" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 546, 1400);" icon="images/chetiya.gif"/>
+<tree text="03. 畢鄰陀村" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 1400, 3004);" icon="images/chetiya.gif"/>
+<tree text="04. 製糖" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 3004, 3168);" icon="images/chetiya.gif"/>
+<tree text="05. 煮于屋內" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 3168, 3529);" icon="images/chetiya.gif"/>
+<tree text="06. 食已施食" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 3529, 3956);" icon="images/chetiya.gif"/>
+<tree text="07. 食已受用" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 3956, 4388);" icon="images/chetiya.gif"/>
+<tree text="08. 手術" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 4388, 4625);" icon="images/chetiya.gif"/>
+<tree text="09. 人肉" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 4625, 5197);" icon="images/chetiya.gif"/>
+<tree text="10. 象肉" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 5197, 5675);" icon="images/chetiya.gif"/>
+<tree text="11. 粥與蜜丸" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 5675, 6087);" icon="images/chetiya.gif"/>
+<tree text="12. 餘人軟粥" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 6087, 6573);" icon="images/chetiya.gif"/>
+<tree text="13. 砂糖" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 6573, 7194);" icon="images/chetiya.gif"/>
+<tree text="14. 巴連弗邑" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 7194, 7685);" icon="images/chetiya.gif"/>
+<tree text="15. 須尼陀與禹舍" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 7685, 8236);" icon="images/chetiya.gif"/>
+<tree text="16. 拘利村" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 8236, 8379);" icon="images/chetiya.gif"/>
+<tree text="17. 菴婆婆梨" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 8379, 8485);" icon="images/chetiya.gif"/>
+<tree text="18. 離車人" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 8485, 8897);" icon="images/chetiya.gif"/>
+<tree text="19. 獅子將軍" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 8897, 10452);" icon="images/chetiya.gif"/>
+<tree text="20. 相應之地" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 10452, 10923);" icon="images/chetiya.gif"/>
+<tree text="21. 居士旻荼" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 10923, 12115);" icon="images/chetiya.gif"/>
+<tree text="22. 牛乳五味" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 12115, 12488);" icon="images/chetiya.gif"/>
+<tree text="23. 梵志翅菟" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 12488, 13008);" icon="images/chetiya.gif"/>
+<tree text="24. 摩羅子盧夷" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 13008, 13664);" icon="images/chetiya.gif"/>
+<tree text="25. 出家人" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 13664, 14047);" icon="images/chetiya.gif"/>
+<tree text="26. 受持四戒" action="javascript:loadYoutubeStartStop('gbtd3RzSo3c', 14047, 14251);" icon="images/chetiya.gif"/>
+<tree text="27. Uddānagāthā" action="javascript:loadYoutubeStart('gbtd3RzSo3c', 14251);" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ガンガーペイヤーラワッゴ (3min.), 84p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 0, 226);" icon="images/chetiya.gif"/>
+    <tree text="02. アッパマーダワッゴ (1min.), 86p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 226, 273);" icon="images/chetiya.gif"/>
+    <tree text="03. バーラカラニヤワッゴ (1min.), 86p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 273, 321);" icon="images/chetiya.gif"/>
+    <tree text="04. エサナーワッゴ (1min.), 86p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 321,. 370);" icon="images/chetiya.gif"/>
+    <tree text="05. オガワッゴ (2min.), 88p" action="javascript:loadYoutubeStart('hCiiqRhgQ2I', 370);" icon="images/chetiya.gif"/>
+</tree>

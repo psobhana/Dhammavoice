@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. 深紅天宮 (2min.), 90p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 0, 132);" icon="images/chetiya.gif"/>
+    <tree text="02. 極光天宮 (2min.), 90p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 132, 267);" icon="images/chetiya.gif"/>
+    <tree text="03. 象天宮 (2min.), 92p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 267, 384);" icon="images/chetiya.gif"/>
+    <tree text="04. 阿羅瑪女天宮 (2min.), 94p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 384, 518);" icon="images/chetiya.gif"/>
+    <tree text="05. 酸粥施者天宮 (3min.), 96p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 518, 701);" icon="images/chetiya.gif"/>
+    <tree text="06. 精舍天宮 (7min.), 98p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 701, 1146);" icon="images/chetiya.gif"/>
+    <tree text="07. 四女人天宮 (8min.), 102p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1146, 1615);" icon="images/chetiya.gif"/>
+    <tree text="08. 芒果天宮 (3min.), 108p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1615, 1800);" icon="images/chetiya.gif"/>
+    <tree text="09. 金色天宮 (3min.), 110p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1800, 1993);" icon="images/chetiya.gif"/>
+    <tree text="10. 甘蔗天宮 (3min.), 112p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1993, 2211);" icon="images/chetiya.gif"/>
+    <tree text="11. 旃陀那天宮 (2min.), 114p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 2211, 2330);" icon="images/chetiya.gif"/>
+    <tree text="12. 拉鳩瑪拉女天宮 (8min.), 116p" action="javascript:loadYoutubeStart('eni-HgtsPPQ', 2330);" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--#include file="tk_header.html" -->
+</head>
+<body>
+
+<!-- Side Bar Start -->
+<!--#include file="tk_left_menu.html" -->
+<!-- Side Bar end -->
+
+
+<div id="main">
+
+  <button class="openbtn" onclick="openNav()">☰ </button>
+
+</div>
+
+
+
+<div class="header">
+  <h1>පූජ්‍ය අම්පිටියේ ශ්‍රී රාහුළ හිමිපාණන් වහන්සේ</h1>
+  <h2>ධර්ම දේශනා</h2>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#f1f1f1;">
+    
+  
+	<div class="center" class="container">    
+	  <!-- add class="center" here for talks -->
+	  
+	 <!--#include file="tk_youtube_window.html" -->
+</div>
+  </div>
+  
+  
+  <div class="column" style="background-color:#f1f1f1;">
+   
+    <p>
+	මහරගම සිරි වජිරඤාණ ධර්මායතනාධිකාරීව වැඩ විසූ මුන් වහන්සේ අද දින ලොව පුරා මහත් සේවාවක් ඉටු කරන විශාල ශිෂ්‍ය පිරිසක් බිහි කිරීමට සමත් වූහ.
+	</p>
+	
+<div class="menu2">
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgomzq4r1CANa30Z9OveSVEwC" target="_blank">YouTube: දේශනා එකතුව 1</a></li>
+<li><a href="https://archive.org/details/AmpitiyeSriRahulaThero" target="_blank">Archive: Ampitiye Sri Rahula Thero</a></li>
+</ul>
+</div>
+
+	
+  </div>
+</div>
+
+<!-- Article links Start -->
+<div class="footer">
+
+<div class="menu2">
+<ul>
+<li><a href="tk_rahula_sin.shtml">ධර්ම දේශනා</a></li>
+<li><a href="tk_rahula_eng.shtml">English Talks</a></li>
+</ul>
+</div>
+<!-- Article links End -->
+
+<!-- Article list Start -->
+<!--#include file="tk_rahula_sin_list.html" -->
+<!-- Article list End -->
+</div>
+
+</body>
+</html>

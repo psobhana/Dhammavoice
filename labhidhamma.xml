@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ధమ్మసఙ్గనిప్పకరణం (BJT 41)" src="lA1.xml" />
+	<tree text="2. విభఙ్గప్పకరణం (BJT 42, 43)" src="lA2.xml" />
+	<tree text="3. ధాతుకథాప్పకరణం (BJT 47)" src="lA3.xml" />
+	<tree text="4. కథావత్థుప్పకరణం (BJT 44, 45, 46)" src="lA4.xml" />
+	<tree text="5. పుగ్గలపఞ్ఞత్తిప్పకరణం (BJT 47)" src="lA5.xml" />
+	<tree text="6. యమకప్పకరణం (BJT 48, 49i, 49ii)" src="lA6.xml" />
+	<tree text="7. పట్ఠానప్పకరణం (BJT 50, 51, 52)" src="lA7.xml" />
+</tree>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. கு²த்³த³கபாட²பாளி (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolXbz5uNiAG_hCq_4nAYFI8', true);" icon="images/chetiya.gif"/>
+<tree text="2. த⁴ம்மபத³பாளி (BJT 24, Repeat)" action="javascript:loadYoutubeLoop('lOwakCUQcaM', true);" icon="images/chetiya.gif"/>
+<tree text="3. உதா³னபாளி (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgokHxdHDay-Y0JpKYBBI8PjT', true);" icon="images/chetiya.gif"/>
+<tree text="4. இதிவுத்தகபாளி (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok-TGIqZEHBa9wnm0-SsEKz', true);" icon="images/chetiya.gif"/>
+<tree text="5. ஸுத்தனிபாதொ" src="fX3-2-5-5.xml" />
+<tree text="6. விமானவத்து²பாளி (BJT 26, Repeat)" action="javascript:loadYoutubeLoop('oyUpZtQo_xU');" icon="images/chetiya.gif"/>
+<tree text="7. பெதவத்து²பாளி (BJT 27, Repeat)" action="javascript:loadYoutubeLoop('muuOm9DPj0Y');" icon="images/chetiya.gif"/>
+<tree text="8. படிஸம்பி⁴தா³மக்³கொ³ (BJT 35.i-ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolIe-MSKKyyeIb9IvNIUEQV', true);" icon="images/chetiya.gif"/>
+</tree>

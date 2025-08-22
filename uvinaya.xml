@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+   <tree text="1. પારાજિકપાળિ (BJT 1)" src="uV1.xml" />
+   <tree text="2. પાચિત્તિયપાળિ (BJT 2-i,ii)" src="uV2.xml" />
+   <tree text="3. મહાવગ્ગપાળિ (BJT 3,4)" src="uV3.xml" />
+   <tree text="4. ચુલ્લવગ્ગપાળિ (BJT 5-i,ii)" src="uV4.xml" />
+   <tree text="5. પરિવારપાળિ (BJT 6-i,ii)" src="uV5.xml" />
+</tree>

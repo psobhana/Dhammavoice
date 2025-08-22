@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifDevanagari-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'nagari'; }
+
+.nagarifont{
+    font-family: nagari;
+}
+
+
+.webfx-tree-item {
+  font-family: nagari;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: nagari;
+	font-size: 16px;
+}
+	
+

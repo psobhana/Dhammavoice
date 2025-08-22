@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ಅಮ್ಬಸಕ್ಖರಪೇತವತ್ಥು (25min.), 100p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 0, 1604);" icon="images/chetiya.gif"/>
+    <tree text="02. ಸೇರಿಸ್ಸಕಪೇತವತ್ಥು (20min.), 120p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 1604, 2630);" icon="images/chetiya.gif"/>
+    <tree text="03. ನನ್ದಕಪೇತವತ್ಥು (15min.), 134p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 2630, 3469);" icon="images/chetiya.gif"/>
+    <tree text="04. ರೇವತೀಪೇತಿವತ್ಥು (5min.), 142p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 3469, 3859);" icon="images/chetiya.gif"/>
+    <tree text="05. ಉಚ್ಛುಪೇತವತ್ಥು (3min.), 146p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 3859, 4032);" icon="images/chetiya.gif"/>
+    <tree text="06. ಕುಮಾರಪೇತವತ್ಥು (2min.), 148p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4032, 4148);" icon="images/chetiya.gif"/>
+    <tree text="07. ರಾಜಪುತ್ತಪೇತವತ್ಥು (3min.), 150p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4148, 4342);" icon="images/chetiya.gif"/>
+    <tree text="08. ಗೂಥಖಾದಕಪೇತವತ್ಥು (2min.), 152p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4342, 4470);" icon="images/chetiya.gif"/>
+    <tree text="09. ಗೂಥಖಾದಕಪೇತಿವತ್ಥು (2min.), 154p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4470, 4594);" icon="images/chetiya.gif"/>
+    <tree text="10. ಗಣಪೇತವತ್ಥು (2min.), 154p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4594, 4755);" icon="images/chetiya.gif"/>
+    <tree text="11. ಪಾಟಲೀಪುತ್ತಪೇತವತ್ಥು (2min.), 156p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4755, 4824);" icon="images/chetiya.gif"/>
+    <tree text="12. ಅಮ್ಬವನಪೇತವತ್ಥು (2min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4824, 4904);" icon="images/chetiya.gif"/>
+    <tree text="13. ಅಕ್ಖರುಕ್ಖಪೇತವತ್ಥು (2min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4904, 4933);" icon="images/chetiya.gif"/>
+    <tree text="14. ಭೋಗಸಂಹರಣಪೇತವತ್ಥು (1min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4933, 4959);" icon="images/chetiya.gif"/>
+    <tree text="15. ಸೇಟ್ಠಿಪುತ್ತಪೇತವತ್ಥು (2min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4959, 5027);" icon="images/chetiya.gif"/>
+    <tree text="16. ಸಟ್ಠಿಕೂಟಸಹಸ್ಸಪೇತವತ್ಥು (3min.), 160p" action="javascript:loadYoutubeStart('WzoBuBan_rI', 5027);" icon="images/chetiya.gif"/>
+</tree>

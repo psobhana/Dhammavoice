@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. Phẩm Veḷudvāra (1h.), 138p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 0, 3629);" icon="images/chetiya.gif"/>
+<tree text="02. Phẩm Vườn Vua (30min.), 168p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 3629, 5362);" icon="images/chetiya.gif"/>
+<tree text="03. Phẩm Sarakāni (1h.10min.), 182p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 5362, 9725);" icon="images/chetiya.gif"/>
+<tree text="04. Phẩm Công Đức Tràn Đầy (30min.), 218p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 9725, 11307);" icon="images/chetiya.gif"/>
+<tree text="05. Phẩm Công Đức Tràn Đầy Có Kệ (20min.), 232p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 11307, 12455);" icon="images/chetiya.gif"/>
+<tree text="06. Phẩm Trí Tuệ (25min.), 242p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 12455, 13964);" icon="images/chetiya.gif"/>
+<tree text="07. Phẩm Đại Trí Tuệ (5min.), 256p" action="javascript:loadYoutubeStart('BDKbk35H8vg', 13964);" icon="images/chetiya.gif"/>
+</tree>

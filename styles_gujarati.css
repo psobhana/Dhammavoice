@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifGujarati-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'gujarati'; }
+
+.gujaratifont{
+    font-family: gujarati;
+}
+
+
+.webfx-tree-item {
+  font-family: gujarati;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: gujarati;
+	font-size: 16px;
+}
+	
+

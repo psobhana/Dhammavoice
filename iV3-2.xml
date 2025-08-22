@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. Uposathasannipātakathā" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 0, 342);" icon="images/chetiya.gif"/>
+<tree text="02. 誦戒因緣" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 342, 1037);" icon="images/chetiya.gif"/>
+<tree text="03. 摩訶劫賓那" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 1037, 1242);" icon="images/chetiya.gif"/>
+<tree text="04. 結界因緣" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 1242, 1486);" icon="images/chetiya.gif"/>
+<tree text="05. Uposathāgārasammuti" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 1486, 1605);" icon="images/chetiya.gif"/>
+<tree text="06. 布薩堂" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 1605, 1714);" icon="images/chetiya.gif"/>
+<tree text="07. 說戒前" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 1714, 1990);" icon="images/chetiya.gif"/>
+<tree text="08. 不離衣處" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 1990, 2335);" icon="images/chetiya.gif"/>
+<tree text="09. 廢不離衣處" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2335, 2532);" icon="images/chetiya.gif"/>
+<tree text="10. 布薩邊界" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2532, 2694);" icon="images/chetiya.gif"/>
+<tree text="11. 二布薩羯磨" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2694, 2719);" icon="images/chetiya.gif"/>
+<tree text="12. 四布薩羯磨" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2719, 2847);" icon="images/chetiya.gif"/>
+<tree text="13. Pañcapātimokkhuddesā" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2847, 2939);" icon="images/chetiya.gif"/>
+<tree text="14. Saṃkhittena pātimokkhuddeseā" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2939, 2970);" icon="images/chetiya.gif"/>
+<tree text="15. 五種誦戒" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 2970, 3110);" icon="images/chetiya.gif"/>
+<tree text="16. 問律" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 3110, 3248);" icon="images/chetiya.gif"/>
+<tree text="17. 答律" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 3248, 3392);" icon="images/chetiya.gif"/>
+<tree text="18. 責罪" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 3392, 3521);" icon="images/chetiya.gif"/>
+<tree text="19. 非法羯磨" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 3521, 3709);" icon="images/chetiya.gif"/>
+<tree text="20. Sagahaṭṭhaparisāya Pātimokkhuddesapaṭikkhepo" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 3709, 3772);" icon="images/chetiya.gif"/>
+<tree text="21. 勸請誦戒" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 3772, 4117);" icon="images/chetiya.gif"/>
+<tree text="22. 學算半月" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 4117, 4271);" icon="images/chetiya.gif"/>
+<tree text="23. Uposathārocanā" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 4271, 4361);" icon="images/chetiya.gif"/>
+<tree text="24. 過失" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 4361, 4692);" icon="images/chetiya.gif"/>
+<tree text="25. 往四方等" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 4692, 4994);" icon="images/chetiya.gif"/>
+<tree text="26. 持清淨" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 4994, 5359);" icon="images/chetiya.gif"/>
+<tree text="27. 清淨欲" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 5359, 5719);" icon="images/chetiya.gif"/>
+<tree text="28. 親族所拘" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 5719, 5934);" icon="images/chetiya.gif"/>
+<tree text="29. 狂者" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 5934, 6260);" icon="images/chetiya.gif"/>
+<tree text="30. 布薩種類" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 6260, 6713);" icon="images/chetiya.gif"/>
+<tree text="31. 出罪" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 6713, 7022);" icon="images/chetiya.gif"/>
+<tree text="32. 同罪" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 7022, 7596);" icon="images/chetiya.gif"/>
+<tree text="33. 無罪" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 7596, 8497);" icon="images/chetiya.gif"/>
+<tree text="34. 別眾十五事" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 8497, 8745);" icon="images/chetiya.gif"/>
+<tree text="35. 疑惑十五事" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 8745, 9002);" icon="images/chetiya.gif"/>
+<tree text="36. 惡作十五事" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 9002, 9267);" icon="images/chetiya.gif"/>
+<tree text="37. 不和合" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 9267, 10179);" icon="images/chetiya.gif"/>
+<tree text="38. 結界廣說" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 10179, 10462);" icon="images/chetiya.gif"/>
+<tree text="39. 居住標誌" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 10462, 10865);" icon="images/chetiya.gif"/>
+<tree text="40. 異住者" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 10865, 11067);" icon="images/chetiya.gif"/>
+<tree text="41. 不得去" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 11067, 11379);" icon="images/chetiya.gif"/>
+<tree text="42. 可去" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 11379, 11482);" icon="images/chetiya.gif"/>
+<tree text="43. 不得誦" action="javascript:loadYoutubeStartStop('WlWZ3In83LU', 11482, 11656);" icon="images/chetiya.gif"/>
+<tree text="44. Uddānagāthā" action="javascript:loadYoutubeStart('WlWZ3In83LU', 11656);" icon="images/chetiya.gif"/>
+</tree>
+

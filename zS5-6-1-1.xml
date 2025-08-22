@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. ﻿פׄתמפׄיתבמאנמ (2min.), 2p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 0, 145);" icon="images/chetiya.gif"/>
+<tree text="02. דתיפׄיתבמאנמ (2min.), 2p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 145, 273);" icon="images/chetiya.gif"/>
+<tree text="03. תתיפׄיתבמאנמ (2min.), 4p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 273, 415);" icon="images/chetiya.gif"/>
+<tree text="04. תשתתתפׄיתבמאנמ (2min.), 6p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 415, 557);" icon="images/chetiya.gif"/>
+<tree text="05. כנגׄרבמאנמ (3min.), 8p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 557, 745);" icon="images/chetiya.gif"/>
+<tree text="06. פׄתמנאבאבמאנמ (3min.), 10p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 745, 922);" icon="images/chetiya.gif"/>
+<tree text="07. דתינאבאבמאנמ (3min.), 12p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 922, 1097);" icon="images/chetiya.gif"/>
+<tree text="08. תתינאבאבמאנמ (3min.), 14p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1097, 1300);" icon="images/chetiya.gif"/>
+<tree text="09. דיפׄבמאנמ (3min.), 16p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1300, 1470);" icon="images/chetiya.gif"/>
+<tree text="10. תלדככנאבמאנמ (2min.), 18p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1470, 1605);" icon="images/chetiya.gif"/>
+<tree text="11. פׄתבבתאבמאנמ (2min.), 20p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1605, 1751);" icon="images/chetiya.gif"/>
+<tree text="12. דתיפׄתבבתאבמאנמ (2min.), 22p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1751, 1888);" icon="images/chetiya.gif"/>
+<tree text="13. סנסאבמאנמ (2min.), 24p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1888, 2026);" icon="images/chetiya.gif"/>
+<tree text="14. דתיסנסאבמאנמ (2min.), 24p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 2026, 2161);" icon="images/chetiya.gif"/>
+<tree text="15. אתתראבמאנמ (4min.), 26p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 2161, 2385);" icon="images/chetiya.gif"/>
+<tree text="16. סרמאבמאנמ (4min.), 28p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 2385, 2640);" icon="images/chetiya.gif"/>
+<tree text="17. כיסכאריבמאנמ (3min.), 32p" action="javascript:loadYoutubeStart('MCmLkE330EQ', 2640);" icon="images/chetiya.gif"/>
+</tree>

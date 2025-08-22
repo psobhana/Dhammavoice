@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. 律藏 (毘奈耶藏)" src="iX3-1.xml" />
+	<tree text="2. 經藏" src="iX3-2.xml" />
+	<tree text="3. 論藏 (阿毘達摩)" src="iX3-3.xml" />
+	<tree text="4. 餘分文獻" src="iX3-4.xml" />
+</tree>

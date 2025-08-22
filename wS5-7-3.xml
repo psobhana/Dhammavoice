@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. Câu Chuyện Ngạ Quỷ Bị Thiêu Cháy (5min.), 76p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 0, 330);" icon="images/chetiya.gif"/>
+<tree text="02. Câu Chuyện Ngạ Quỷ Sānuvāsī (8min.), 78p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 330, 806);" icon="images/chetiya.gif"/>
+<tree text="03. Câu Chuyện Ngạ Quỷ Thợ Xe (2min.), 84p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 806, 960);" icon="images/chetiya.gif"/>
+<tree text="04. Câu Chuyện Ngạ Quỷ Cám Dỗ (2min.), 86p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 960, 1062);" icon="images/chetiya.gif"/>
+<tree text="05. Câu Chuyện Ngạ Quỷ Thiếu Niên (3min.), 88p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1062, 1263);" icon="images/chetiya.gif"/>
+<tree text="06. Câu Chuyện Ngạ Quỷ Seriṇī (4min.), 90p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1263, 1504);" icon="images/chetiya.gif"/>
+<tree text="07. Câu Chuyện Ngạ Quỷ Thợ Săn Nai (2min.), 92p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1504, 1666);" icon="images/chetiya.gif"/>
+<tree text="08. Câu Chuyện Ngạ Quỷ Thợ Săn Nai Thứ Hai (2min.), 94p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1666, 1843);" icon="images/chetiya.gif"/>
+<tree text="09. Câu Chuyện Ngạ Quỷ Quan Tòa (2min.), 96p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1843, 1979);" icon="images/chetiya.gif"/>
+<tree text="10. Câu Chuyện Ngạ Quỷ Phân Tích Xương (3min.), 98p" action="javascript:loadYoutubeStart('5giD8b_HT6I', 1979);" icon="images/chetiya.gif"/>
+</tree>

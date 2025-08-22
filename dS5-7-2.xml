@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. សំសារមោចកបេតវត្ថុ (5min.), 22p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 0, 335);" icon="images/chetiya.gif"/>
+    <tree text="02. សារិបុត្តត្ថេរស្ស មាតុបេតិវត្ថុ (5min.), 26p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 335, 601);" icon="images/chetiya.gif"/>
+    <tree text="03. មត្តាបេតិវត្ថុ (10min.), 28p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 601, 1137);" icon="images/chetiya.gif"/>
+    <tree text="04. នន្ទាបេតិវត្ថុ (15min.), 36p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 1137, 1424);" icon="images/chetiya.gif"/>
+    <tree text="05. មដ្ដកុណ្ឌលីបេតវត្ថុ (5min.), 38p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 1424, 1775);" icon="images/chetiya.gif"/>
+    <tree text="06. កណ្ហបេតវត្ថុ (5min.), 42p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 1775, 2071);" icon="images/chetiya.gif"/>
+    <tree text="07. ធនបាលបេតវត្ថុ (5min.), 46p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 2071, 2366);" icon="images/chetiya.gif"/>
+    <tree text="08. ចុល្លសេដ្ឋិបេតវត្ថុ (5min.), 50p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 2366, 2583);" icon="images/chetiya.gif"/>
+    <tree text="09. អង្កុរបេតវត្ថុ (20min.), 52p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 2583, 3738);" icon="images/chetiya.gif"/>
+    <tree text="10. ឧត្តរមាតុបេតិវត្ថុ (3min.), 66p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 3738, 3900);" icon="images/chetiya.gif"/>
+    <tree text="11. សុត្តបេតវត្ថុ (2min.), 66p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 3900, 4041);" icon="images/chetiya.gif"/>
+    <tree text="12. កណ្ណមុណ្ឌបេតិវត្ថុ (5min.), 68p" action="javascript:loadYoutubeStartStop('RvJSNLk2AJ0', 4041, 4359);" icon="images/chetiya.gif"/>
+    <tree text="13. ឧព្ពរីបេតិវត្ថុ (5min.), 72p" action="javascript:loadYoutubeStart('RvJSNLk2AJ0', 4359);" icon="images/chetiya.gif"/>
+</tree>

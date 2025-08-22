@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ಮಾತಿಕಾ" src="kA1-1.xml" />
+	<tree text="2. ಚಿತ್ತುಪ್ಪಾದಕಣ್ಡಂ" src="kA1-2.xml" />
+	<tree text="3. ರೂಪಕಣ್ಡಂ" src="kA1-3.xml" />
+	<tree text="4. ನಿಕ್ಖೇಪಕಣ್ಡಂ" src="kA1-4.xml" />
+	<tree text="5. ಅಟ್ಠಕಥಾಕಣ್ಡಂ" src="kA1-5.xml" />
+</tree>

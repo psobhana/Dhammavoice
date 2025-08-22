@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. 바라지카 팔리 (BJT 1)" src="rV1.xml" />
+<tree text="2. 바칫티야 팔리 (BJT 2-i,ii)" src="rV2.xml" />
+<tree text="3. 마하왔가 팔리 (BJT 3,4)" src="rV3.xml" />
+<tree text="4. 출라왔가 팔리 (BJT 5-i,ii)" src="rV4.xml" />
+<tree text="5. 바리와러 팔리 (BJT 6-i,ii)" src="rV5.xml" />
+</tree>

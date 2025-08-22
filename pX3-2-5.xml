@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="01. ਖੁਦ੍ਦਕਪਾਠਪਾਲ਼ਿ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolXbz5uNiAG_hCq_4nAYFI8', true);" icon="images/chetiya.gif"/>
+	<tree text="02. ਧਮ੍ਮਪਦਪਾਲ਼ਿ (BJT 24, Repeat)" action="javascript:loadYoutubeLoop('lOwakCUQcaM', true);" icon="images/chetiya.gif"/>
+	<tree text="03. ਉਦਾਨਪਾਲ਼ਿ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgokHxdHDay-Y0JpKYBBI8PjT', true);" icon="images/chetiya.gif"/>
+	<tree text="04. ਇਤਿਵੁਤ੍ਤਕਪਾਲ਼ਿ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok-TGIqZEHBa9wnm0-SsEKz', true);" icon="images/chetiya.gif"/>
+	<tree text="05. ਸੁਤ੍ਤਨਿਪਾਤੋ" src="X3-2-5-5.xml" />
+	<tree text="06. ਵਿਮਾਨਵਤ੍ਥੁਪਾਲ਼ਿ (BJT 26, Repeat)" action="javascript:loadYoutubeLoop('oyUpZtQo_xU');" icon="images/chetiya.gif"/>
+    <tree text="07. ਪੇਤਵਤ੍ਥੁਪਾਲ਼ਿ (BJT 27, Repeat)" action="javascript:loadYoutubeLoop('muuOm9DPj0Y');" icon="images/chetiya.gif"/>
+	<tree text="13. ਪਟਿਸਮ੍ਭਿਦਾਮਗ੍ਗੋ (BJT 35.i-ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolIe-MSKKyyeIb9IvNIUEQV', true);" icon="images/chetiya.gif"/>
+</tree>

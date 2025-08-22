@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifTelugu-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'telugu'; }
+
+.telugufont{
+    font-family: telugu;
+}
+
+
+.webfx-tree-item {
+  font-family: telugu;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: telugu;
+	font-size: 16px;
+}
+	
+

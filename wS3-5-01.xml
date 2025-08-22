@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. Phẩm Vô Minh (35min.), 2p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 0, 2135);" icon="images/chetiya.gif"/>
+<tree text="02. Phẩm Trú Xứ (20min.), 20p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 2136, 3143);" icon="images/chetiya.gif"/>
+<tree text="03. Phẩm Tà Tánh (20min.), 30p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 3143, 3944);" icon="images/chetiya.gif"/>
+<tree text="04. Phẩm Thực Hành (15min.), 38p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 3945, 4585);" icon="images/chetiya.gif"/>
+<tree text="05. Lặp Lại Các Tà Kiến Khác (15min.), 44p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 4586, 5380);" icon="images/chetiya.gif"/>
+<tree text="06. Lặp Lại Mặt Trời (15min.), 50p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 5381, 6273);" icon="images/chetiya.gif"/>
+<tree text="07. Lặp Lại Một Pháp (10min.), 58p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 6274, 6946);" icon="images/chetiya.gif"/>
+<tree text="08. Lặp Lại Một Pháp Thứ Hai (15min.), 66p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 6947, 7769);" icon="images/chetiya.gif"/>
+<tree text="09. Lặp Lại Sông Hằng (10min.), 74p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 7770, 8308);" icon="images/chetiya.gif"/>
+<tree text="10. Lặp Lại Sông Hằng Thứ Hai (10min.), 80p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 8309, 8868);" icon="images/chetiya.gif"/>
+<tree text="11. Lặp Lại Sông Hằng Thứ Ba (10min.), 86p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 8869, 9414);" icon="images/chetiya.gif"/>
+<tree text="12. Lặp Lại Sông Hằng Thứ Tư (10min.), 92p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 9415, 10031);" icon="images/chetiya.gif"/>
+<tree text="13. Phẩm Không Phóng Dật (15min.), 98p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 10032, 10876);" icon="images/chetiya.gif"/>
+<tree text="14. Phẩm Lực Tác Thành (35min.), 106p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 10877, 12865);" icon="images/chetiya.gif"/>
+<tree text="15. Phẩm Tham Muốn (20min.), 122p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 12866, 14043);" icon="images/chetiya.gif"/>
+<tree text="16. Phẩm Lũ Lụt (20min.), 132p" action="javascript:loadYoutubeStart('XSkXD91dQ0c', 14044);" icon="images/chetiya.gif"/>
+</tree>

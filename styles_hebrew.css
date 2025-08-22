@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifHebrew-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'hebrew'; }
+
+.hebrewfont{
+    font-family: hebrew;
+}
+
+
+.webfx-tree-item {
+  font-family: hebrew;
+  font-size: 15px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: hebrew;
+	font-size: 15px;
+}
+	
+

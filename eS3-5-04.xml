@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. Suddhakavaggo (20min.), 346p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 0, 1082);" icon="images/chetiya.gif"/>
+    <tree text="02. Mudutaravaggo (15min.), 356p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 1082, 1888);" icon="images/chetiya.gif"/>
+    <tree text="03. Chaḷindriyavaggo (10min.), 364p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 1888, 2455);" icon="images/chetiya.gif"/>
+    <tree text="04. Sukhindriyavaggo (25min.), 370p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 2455, 3929);" icon="images/chetiya.gif"/>
+    <tree text="05. Jarāvaggo (30min.), 384p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 3929, 5864);" icon="images/chetiya.gif"/>
+    <tree text="06. Sūkarakhatavaggo (25min.), 400p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 5864, 7337);" icon="images/chetiya.gif"/>
+    <tree text="07. Sambodhivaggo (10min.), 412p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 7337, 7948);" icon="images/chetiya.gif"/>
+    <tree text="08. Gaṅgāpeyyālo (1min.), 418p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 7948, 8002);" icon="images/chetiya.gif"/>
+    <tree text="09. Appamādavaggo (1min.), 418p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8002, 8053);" icon="images/chetiya.gif"/>
+    <tree text="10. Balakaraṇīyavaggo (1min.), 418p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8053, 8105);" icon="images/chetiya.gif"/>
+    <tree text="11. Esanāvaggo (1min.), 420p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8105, 8155);" icon="images/chetiya.gif"/>
+    <tree text="12. Oghavaggo (1min.), 420p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8155, 8204);" icon="images/chetiya.gif"/>
+    <tree text="13. Punagaṅgāpeyyālo (1min.), 420p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8204, 8270);" icon="images/chetiya.gif"/>
+    <tree text="14. Punaappamādavaggo (1min.), 422p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8270, 8321);" icon="images/chetiya.gif"/>
+    <tree text="15. Punabalakaraṇīyavaggo (1min.), 422p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8321, 8374);" icon="images/chetiya.gif"/>
+    <tree text="16. Punaesanāvaggo (1min.), 422p" action="javascript:loadYoutubeStartStop('BYoaDdlc-yE', 8374, 8425);" icon="images/chetiya.gif"/>
+    <tree text="17. Punaoghavaggo (1min.), 424p" action="javascript:loadYoutubeStart('BYoaDdlc-yE', 8425);" icon="images/chetiya.gif"/>
+</tree>

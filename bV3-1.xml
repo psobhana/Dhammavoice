@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ဗောဓိကထာ (6min.), 2p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 0, 356);" icon="images/chetiya.gif"/>
+    <tree text="02. အဇပါလကထာ (2min.), 6p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 356, 467);" icon="images/chetiya.gif"/>
+    <tree text="03. မုစလိန္ဒကထာ (2min.), 6p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 467, 620);" icon="images/chetiya.gif"/>
+    <tree text="04. ရာဇာယတနကထာ (3min.), 8p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 620, 835);" icon="images/chetiya.gif"/>
+    <tree text="05. ဗြဟ္မာယာစနကထာ (10min.), 10p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 835, 1339);" icon="images/chetiya.gif"/>
+    <tree text="06. ပဉ္စဝဂ္ဂိယကထာ (35min.), 14p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 1339, 3473);" icon="images/chetiya.gif"/>
+    <tree text="07. ပဗ္ဗဇ္ဇာကထာ (20min.), 30p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 3473, 4757);" icon="images/chetiya.gif"/>
+    <tree text="08. မာရကထာ (5min.), 42p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 4757, 5172);" icon="images/chetiya.gif"/>
+    <tree text="09. တီဟိ သရဏဂမနေဟိ ပဗ္ဗဇ္ဇာ-ဥပသမ္ပဒါကထာ (5min.), 44p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 5172, 5452);" icon="images/chetiya.gif"/>
+    <tree text="10. ဒုတိယမာရကထာ (2min.), 46p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 5452, 5554);" icon="images/chetiya.gif"/>
+    <tree text="11. ဘဒ္ဒဝဂ္ဂိယဝတ္ထု (5min.), 48p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 5554, 5879);" icon="images/chetiya.gif"/>
+    <tree text="12. ဥရုဝေလပါဋိဟာရိယကထာ (45min.), 50p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 5879, 8726);" icon="images/chetiya.gif"/>
+    <tree text="13. ဗိမ္ဗိသာရသမာဂမကထာ (20min.), 74p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 8726, 9795);" icon="images/chetiya.gif"/>
+    <tree text="14. သာရိပုတ္တမောဂ္ဂလ္လာနပဗ္ဗဇ္ဇာကထာ (20min.), 82p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 9795, 10964);" icon="images/chetiya.gif"/>
+    <tree text="15. ဥပဇ္ဈာယဝတ္တံ (30min.), 92p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 10964, 12741);" icon="images/chetiya.gif"/>
+    <tree text="16. သဒ္ဓိဝိဟာရိကဝတ္တံ (20min.), 106p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 12741, 13967);" icon="images/chetiya.gif"/>
+    <tree text="17. ပနာမိတကထာ (20min.), 114p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 13967, 15265);" icon="images/chetiya.gif"/>
+    <tree text="18. အာစရိယဝတ္တံ (35min.), 126p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 15265, 17340);" icon="images/chetiya.gif"/>
+    <tree text="19. အန္တေဝါသိကဝတ္တံ (10min.), 142p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 17340, 18545);" icon="images/chetiya.gif"/>
+    <tree text="20. ပနာမနာ-ခမာပနာ (5min.), 152p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 18545, 18988);" icon="images/chetiya.gif"/>
+    <tree text="21. ဗာလအဗျတ္တဝတ္ထု (2min.), 154p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 18988, 19124);" icon="images/chetiya.gif"/>
+    <tree text="22. နိဿယပဋိပ္ပဿဒ္ဓိ (2min.), 156p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 19124, 19205);" icon="images/chetiya.gif"/>
+    <tree text="23. ဥပသမ္ပာဒေတဗ္ဗပဉ္စကံ (15min.), 156p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 19205, 20139);" icon="images/chetiya.gif"/>
+    <tree text="24. ဥပသမ္ပာဒေတဗ္ဗဆက္ကံ (15min.), 164p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 20139, 21028);" icon="images/chetiya.gif"/>
+    <tree text="25. အညတိတ္ထိယပုဗ္ဗကထာ (10min.), 172p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 21028, 21766);" icon="images/chetiya.gif"/>
+    <tree text="26. ပဉ္စအာဗာဓဝတ္ထု (5min.), 178p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 21766, 22207);" icon="images/chetiya.gif"/>
+    <tree text="27. ရာဇဘဋဝတ္ထု (5min.), 182p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22207, 22497);" icon="images/chetiya.gif"/>
+    <tree text="28. အင်္ဂုလိမာလစောရဝတ္ထု (1min.), 184p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22497, 22563);" icon="images/chetiya.gif"/>
+    <tree text="29. ကာရဘေဒကစောရဝတ္ထု (2min.), 184p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22563, 22687);" icon="images/chetiya.gif"/>
+    <tree text="30. လိခိတကစောရဝတ္ထု (2min.), 186p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22687, 22784);" icon="images/chetiya.gif"/>
+    <tree text="31. ကသာဟတဝတ္ထု (1min.), 186p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22784, 22828);" icon="images/chetiya.gif"/>
+    <tree text="32. လက္ခဏာဟတဝတ္ထု (1min.), 186p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22828, 22871);" icon="images/chetiya.gif"/>
+    <tree text="33. ဣဏာယိကဝတ္ထု (1min.), 186p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22871, 22955);" icon="images/chetiya.gif"/>
+    <tree text="34. ဒါသဝတ္ထု (1min.), 188p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 22955, 23037);" icon="images/chetiya.gif"/>
+    <tree text="35. ကမ္မာရဘဏ္ဍုဝတ္ထု (2min.), 188p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 23037, 23147);" icon="images/chetiya.gif"/>
+    <tree text="36. ဥပါလိဒါရကဝတ္ထု (5min.), 190p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 23147, 23579);" icon="images/chetiya.gif"/>
+    <tree text="37. အဟိဝါတကရောဂဝတ္ထု (2min.), 192p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 23579, 23656);" icon="images/chetiya.gif"/>
+    <tree text="38. ကဏ္ဋကဝတ္ထု (2min.), 194p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 23656, 23750);" icon="images/chetiya.gif"/>
+    <tree text="39. အာဟုန္ဒရိကဝတ္ထု (1min.), 194p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 23750, 23795);" icon="images/chetiya.gif"/>
+    <tree text="40. နိဿယကထာ (15min.), 194p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 23795, 24745);" icon="images/chetiya.gif"/>
+    <tree text="41. ရာဟုလဝတ္ထုကထာ (5min.), 204p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 24745, 25114);" icon="images/chetiya.gif"/>
+    <tree text="42. သိက္ခာပဒကထာ (2min.), 208p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25114, 25290);" icon="images/chetiya.gif"/>
+    <tree text="43. ဒဏ္ဍကမ္မဝတ္ထု (5min.), 208p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25290, 25494);" icon="images/chetiya.gif"/>
+    <tree text="44. အနာပုစ္ဆာဝရဏဝတ္ထု (2min.), 212p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25494, 25557);" icon="images/chetiya.gif"/>
+    <tree text="45. အပလာဠနဝတ္ထု (1min.), 212p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25557, 25589);" icon="images/chetiya.gif"/>
+    <tree text="46. ကဏ္ဋကသာမဏေရဝတ္ထု (1min.), 212p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25589, 25667);" icon="images/chetiya.gif"/>
+    <tree text="47. ပဏ္ဍကဝတ္ထု (2min.), 212p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25667, 25791);" icon="images/chetiya.gif"/>
+    <tree text="48. ထေယျသံဝါသဝတ္ထု (3min.), 214p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25791, 25972);" icon="images/chetiya.gif"/>
+    <tree text="49. တိရစ္ဆာနဂတဝတ္ထု (5min.), 214p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 25972, 26251);" icon="images/chetiya.gif"/>
+    <tree text="50. မာတုဃာတကဝတ္ထု (2min.), 216p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26251, 26375);" icon="images/chetiya.gif"/>
+    <tree text="51. ပိတုဃာတကဝတ္ထု (2min.), 218p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26375, 26496);" icon="images/chetiya.gif"/>
+    <tree text="52. အရဟန္တဃာတကဝတ္ထု (2min.), 218p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26496, 26596);" icon="images/chetiya.gif"/>
+    <tree text="53. ဘိက္ခုဏီဒူသကဝတ္ထု (2min.), 220p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26596, 26715);" icon="images/chetiya.gif"/>
+    <tree text="54. ဥဘတောဗျဉ္ဇနကဝတ္ထု (1min.), 220p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26715, 26748);" icon="images/chetiya.gif"/>
+    <tree text="55. အနုပဇ္ဈာယကာဒိဝတ္ထု (5min.), 222p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26748, 26964);" icon="images/chetiya.gif"/>
+    <tree text="56. အပတ္တကာဒိဝတ္ထူနိ (5min.), 222p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26964, 27200);" icon="images/chetiya.gif"/>
+    <tree text="57. န ဥပသမ္ပာဒေတဗ္ဗေကဝီသတိဝါရံ (10min.), 224p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 26748, 27200);" icon="images/chetiya.gif"/>
+    <tree text="58. ဟတ္ထစ္ဆိန္နကာဒိ န ပဗ္ဗာဇေတဗ္ဗဒွတ္တိံသဝါရံ (5min.), 226p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27200, 27451);" icon="images/chetiya.gif"/>
+    <tree text="59. အလဇ္ဇိနိဿယဝတ္ထူနိ (2min.), 228p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27451, 27539);" icon="images/chetiya.gif"/>    
+	<tree text="60. ဂမိကာဒိ စတ္တာရိ အနိဿိတ ဝတ္ထူနိ (5min.), 228p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27539, 27747 );" icon="images/chetiya.gif"/>
+    <tree text="61. ဂေါတ္တေန အနုသာဝဏာနုဇာနနာ (1min.), 230p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27747, 27794);" icon="images/chetiya.gif"/>
+    <tree text="62. ဒွေ ဥပသမ္ပဒါပေက္ခာ (2min.), 230p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27794, 27873);" icon="images/chetiya.gif"/>
+    <tree text="63. ဂဗ္ဘဝီသူပသမ္ပဒါ (1min.), 230p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27873, 27931);" icon="images/chetiya.gif"/>
+    <tree text="64. ဥပသမ္ပဒါယ အန္တရာယိကဓမ္မပုစ္ဆာ (15min.), 230p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 27931, 28689);" icon="images/chetiya.gif"/>
+    <tree text="65. စတ္တာရော နိဿယာ (2min.), 238p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 28689, 28789);" icon="images/chetiya.gif"/>
+    <tree text="66. စတ္တာရိ အကရဏီယာနိ (5min.), 240p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 28789, 29083);" icon="images/chetiya.gif"/>
+    <tree text="67. အာပတ္တိယာ အဒဿနာဒိသု ဥက္ခိတ္တကာ (5min.), 242p" action="javascript:loadYoutubeStartStop('S7h4M0SZ83A', 29083, 29410);" icon="images/chetiya.gif"/>
+    <tree text="68. ဥဒ္ဒါနဂါထာ (5min.), 244p" action="javascript:loadYoutubeStart('S7h4M0SZ83A', 29410);" icon="images/chetiya.gif"/>
+</tree>

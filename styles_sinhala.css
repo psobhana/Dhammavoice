@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifSinhala-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'sinhala'; }
+
+.sinhalafont{
+    font-family: sinhala;
+}
+
+
+.webfx-tree-item {
+  font-family: sinhala;
+  font-size: 14px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: sinhala;
+	font-size: 14px;
+}
+	
+

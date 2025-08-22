@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. パーラージカパーリ (BJT 1)" src="jV1.xml" />
+<tree text="2. パーチッティヤパーリ (BJT 2-i,ii)" src="jV2.xml" />
+<tree text="3. マハーワッガパーリ (BJT 3,4)" src="jV3.xml" />
+<tree text="4. チュッラワッガパーリ (BJT 5-i,ii)" src="jV4.xml" />
+<tree text="5. パリワーラパーリ (BJT 6-i,ii)" src="jV5.xml" />
+</tree>

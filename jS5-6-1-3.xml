@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ウラーラヴィマーナン (4min.), 60p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 0, 234);" icon="images/chetiya.gif"/>
+    <tree text="02. ウッチュダーイカーヴィマーナン (4min.), 62p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 234, 460);" icon="images/chetiya.gif"/>
+    <tree text="03. パッランカヴィマーナン (3min.), 64p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 460, 647);" icon="images/chetiya.gif"/>
+    <tree text="04. ラターヴィマーナン (3min.), 66p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 647, 865);" icon="images/chetiya.gif"/>
+    <tree text="05. グッティラヴィマーナン (10min.), 70p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 865, 1540);" icon="images/chetiya.gif"/>
+    <tree text="06. ダッダッラヴィマーナン (7min.), 76p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 1540, 1977);" icon="images/chetiya.gif"/>
+    <tree text="07. セサワティーヴィマーナン (4min.), 80p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 1977, 2197);" icon="images/chetiya.gif"/>
+    <tree text="08. マッリカーヴィマーナン (3min.), 84p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 2197, 2328);" icon="images/chetiya.gif"/>
+    <tree text="09. ヴィサーラッキーヴィマーナン (3min.), 86p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 2328, 2539);" icon="images/chetiya.gif"/>
+    <tree text="10. パーリッチャッタカヴィマーナン (3min.), 88p" action="javascript:loadYoutubeStart('JeVA4LBMrV4', 2539);" icon="images/chetiya.gif"/>
+</tree>

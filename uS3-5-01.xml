@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. અવિજ્જાવગ્ગો (35min.), 2p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 0, 2135);" icon="images/chetiya.gif"/>
+    <tree text="02. વિહારવગ્ગો (20min.), 20p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 2136, 3143);" icon="images/chetiya.gif"/>
+    <tree text="03. મિચ્છત્તવગ્ગો (20min.), 30p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 3143, 3944);" icon="images/chetiya.gif"/>
+    <tree text="04. પટિપત્તિવગ્ગો (15min.), 38p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 3945, 4585);" icon="images/chetiya.gif"/>
+    <tree text="05. અઞ્ઞતિત્થિયપેય્યાલો (15min.), 44p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 4586, 5380);" icon="images/chetiya.gif"/>
+    <tree text="06. સૂરિયપેય્યાલો (15min.), 50p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 5381, 6273);" icon="images/chetiya.gif"/>
+    <tree text="07. એકધમ્મપેય્યાલો (10min.), 58p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 6274, 6946);" icon="images/chetiya.gif"/>
+    <tree text="08. દુતિયએકધમ્મપેય્યાલો (15min.), 66p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 6947, 7769);" icon="images/chetiya.gif"/>
+    <tree text="09. ગઙ્ગાપેય્યાલો (10min.), 74p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 7770, 8308);" icon="images/chetiya.gif"/>
+    <tree text="10. દુતિયગઙ્ગાપેય્યાલો (10min.), 80p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 8309, 8868);" icon="images/chetiya.gif"/>
+    <tree text="11. તતિયગઙ્ગાપેય્યાલો (10min.), 86p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 8869, 9414);" icon="images/chetiya.gif"/>
+    <tree text="12. ચતુત્થગઙ્ગાપેય્યાલો (10min.), 92p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 9415, 10031);" icon="images/chetiya.gif"/>
+    <tree text="13. અપ્પમાદવગ્ગો (15min.), 98p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 10032, 10876);" icon="images/chetiya.gif"/>
+    <tree text="14. બલકરણીયવગ્ગો (35min.), 106p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 10877, 12865);" icon="images/chetiya.gif"/>
+    <tree text="15. એસનાવગ્ગો (20min.), 122p" action="javascript:loadYoutubeStartStop('XSkXD91dQ0c', 12866, 14043);" icon="images/chetiya.gif"/>
+    <tree text="16. ઓઘવગ્ગો (20min.), 132p" action="javascript:loadYoutubeStart('XSkXD91dQ0c', 14044);" icon="images/chetiya.gif"/>
+</tree>

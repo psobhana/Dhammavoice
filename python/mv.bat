@@ -1,0 +1,1 @@
+move *.xml ..\up

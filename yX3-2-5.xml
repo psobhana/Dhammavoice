@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ﻿كُدَّكَبَاتَبَالِ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolXbz5uNiAG_hCq_4nAYFI8', true);" icon="images/chetiya.gif"/>
+<tree text="2. دَمَّبَدَبَالِ (BJT 24, Repeat)" action="javascript:loadYoutubeLoop('lOwakCUQcaM', true);" icon="images/chetiya.gif"/>
+<tree text="3. أُدَانَبَالِ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgokHxdHDay-Y0JpKYBBI8PjT', true);" icon="images/chetiya.gif"/>
+<tree text="4. إِتِفُتَّكَبَالِ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok-TGIqZEHBa9wnm0-SsEKz', true);" icon="images/chetiya.gif"/>
+<tree text="5. سُتَّنِبَاتُ" src="yX3-2-5-5.xml" />
+<tree text="6. فِمَانَفَتُّبَالِ (BJT 26, Repeat)" action="javascript:loadYoutubeLoop('oyUpZtQo_xU');" icon="images/chetiya.gif"/>
+<tree text="7. بِتَفَتُّبَالِ (BJT 27, Repeat)" action="javascript:loadYoutubeLoop('muuOm9DPj0Y');" icon="images/chetiya.gif"/>
+<tree text="8. بَتِسَمْبِدَامَغُّ (BJT 35.i-ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolIe-MSKKyyeIb9IvNIUEQV', true);" icon="images/chetiya.gif"/>
+</tree>

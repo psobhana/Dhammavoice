@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ಸಮಾಧಿವಗ್ಗೋ (20min.), 260p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 0, 1106);" icon="images/chetiya.gif"/>
+    <tree text="02. ಧಮ್ಮಚಕ್ಕಪ್ಪವತ್ತನವಗ್ಗೋ (20min.), 270p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 1106, 3133);" icon="images/chetiya.gif"/>
+    <tree text="03. ಕೋಟಿಗಾಮವಗ್ಗೋ (20min.), 286p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 3133, 4141);" icon="images/chetiya.gif"/>
+    <tree text="04. ಸೀಸಪಾವನವಗ್ಗೋ (15min.), 294p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 4141, 5700);" icon="images/chetiya.gif"/>
+    <tree text="05. ಪಪಾತವಗ್ಗೋ (40min.), 306p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 5700, 8009);" icon="images/chetiya.gif"/>
+    <tree text="06. ಅಭಿಸಮಯವಗ್ಗೋ (15min.), 324p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 8009, 8931);" icon="images/chetiya.gif"/>
+    <tree text="07. ಆಮಕಧಞ್ಞಪೇಯ್ಯಾಲವಗ್ಗೋ (5min.), 332p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 8931, 9344);" icon="images/chetiya.gif"/>
+    <tree text="08. ದುತಿಯಆಮಕಧಞ್ಞಪೇಯ್ಯಾಲವಗ್ಗೋ (5min.), 338p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 9344, 9633);" icon="images/chetiya.gif"/>
+    <tree text="09. ತತಿಯಆಮಕಧಞ್ಞಪೇಯ್ಯಾಲವಗ್ಗೋ (5min.), 342p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 9633, 9920);" icon="images/chetiya.gif"/>
+    <tree text="10. ಚತುತ್ಥಆಮಕಧಞ್ಞಪೇಯ್ಯಾಲವಗ್ಗೋ (5min.), 346p" action="javascript:loadYoutubeStartStop('HenGAy7239M', 9920, 10175);" icon="images/chetiya.gif"/>
+    <tree text="11. ಪಞ್ಚಗತಿಪೇಯ್ಯಾಲವಗ್ಗೋ (15min.), 350p" action="javascript:loadYoutubeStart('HenGAy7239M', 10175);" icon="images/chetiya.gif"/>
+</tree>

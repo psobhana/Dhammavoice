@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="01. മഹാക്ഖന്ധകം" src="mV3-1.xml" />
+	<tree text="02. ഉപോസഥക്ഖന്ധകം" src="mV3-2.xml" />
+	<tree text="03. വസ്സൂപനായികക്ഖന്ധകം" src="mV3-3.xml" />
+	<tree text="04. പവാരണക്ഖന്ധകം" src="mV3-4.xml" />
+	<tree text="05. ചമ്മക്ഖന്ധകം" src="mV3-5.xml" />
+	<tree text="06. ഭേസജ്ജക്ഖന്ധകം" src="mV3-6.xml" />
+	<tree text="07. കഠിനക്ഖന്ധകം" src="mV3-7.xml" />
+	<tree text="08. ചീവരക്ഖന്ധകം" src="mV3-8.xml" />
+	<tree text="09. ചമ്പേയ്യക്ഖന്ധകം" src="mV3-9.xml" />
+	<tree text="10. കോസമ്ബക്ഖന്ധകം" src="mV3-10.xml" />
+</tree>

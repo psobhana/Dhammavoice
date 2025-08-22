@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF8"?>
+
+<tree>
+    <tree text="1. ઞાણકથા" src="uS5-13-1-01.xml" />
+    <tree text="2. દિટ્ઠિકથા (2h.20min.), 250p" action="javascript:loadYoutube2('9Q5GzE_xs_Q');" icon="images/chetiya.gif"/>
+    <tree text="3. આનાપાનસતિકથા (2h.40min.), 308p" action="javascript:loadYoutube2('Qx7fcYL_6uE');" icon="images/chetiya.gif"/>
+    <tree text="4. ઇન્દ્રિયકથા (2h.15min.), 378p" action="javascript:loadYoutube2('eNQYHuxA0KY');" icon="images/chetiya.gif"/>
+    <tree text="5. વિમોક્ખકથા (2h.20min.), 436p" action="javascript:loadYoutube2('lTvL6VypIGs');" icon="images/chetiya.gif"/>
+    <tree text="6. ગતિકથા, 7. કમ્મકથા, 8. વિપલ્લાસકથા  (30min.), 496p" action="javascript:loadYoutube2('zwQWpHPWpi0');" icon="images/chetiya.gif"/>
+    <tree text="9. મગ્ગકથા, 10. મણ્ડપેય્યકથા (35min.), 508p" action="javascript:loadYoutube2('xQvOaznCAl4');" icon="images/chetiya.gif"/>
+</tree>

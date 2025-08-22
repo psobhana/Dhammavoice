@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ﻿אהארסתתמ (15min.), 202p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 6976, 7972);" icon="images/chetiya.gif"/>
+<tree text="2. פׄריאיסתתמ (15min.), 210p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 7972, 8724);" icon="images/chetiya.gif"/>
+<tree text="3. אגׄגׄסתתמ (10min.), 216p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 8724, 9256);" icon="images/chetiya.gif"/>
+<tree text="4. מיתתסתתמ (20min.), 218p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 9256, 10436);" icon="images/chetiya.gif"/>
+<tree text="5. סנגׄארבסתתמ (20min.), 228p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 10436, 11588);" icon="images/chetiya.gif"/>
+<tree text="6. אביסתתמ (7min.), 234p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 11588, 12037);" icon="images/chetiya.gif"/>
+</tree>

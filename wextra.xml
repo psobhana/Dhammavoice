@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. Tam Tạng Kinh điển" src="wX1.xml" />
+	<tree text="2. Tạp Kinh" src="wX2.xml" />
+	<tree text="3. Kinh Trùng Lặp" src="wX3.xml" />
+</tree>

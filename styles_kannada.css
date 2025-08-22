@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifKannada-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'kannada'; }
+
+.kannadafont{
+    font-family: kannada;
+}
+
+
+.webfx-tree-item {
+  font-family: kannada;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: kannada;
+	font-size: 16px;
+}
+	
+

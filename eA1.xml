@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. Mātikā" src="eA1-1.xml" />
+	<tree text="2. Cittuppādakaṇḍaṃ" src="eA1-2.xml" />
+	<tree text="3. Rūpakaṇḍaṃ" src="eA1-3.xml" />
+	<tree text="4. Nikkhepakaṇḍaṃ" src="eA1-4.xml" />
+	<tree text="5. Aṭṭhakathākaṇḍaṃ" src="eA1-5.xml" />
+</tree>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. Điều Học Về Tơ Tằm. (5min.), 554p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 0, 332);" icon="images/chetiya.gif"/>
+<tree text="02. Điều Học Về Thuần Màu Đen. (5min.), 556p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 332, 608);" icon="images/chetiya.gif"/>
+<tree text="03. Điều Học Về Hai Phần. (5min.), 558p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 608, 965);" icon="images/chetiya.gif"/>
+<tree text="04. Điều Học Về Sáu Năm. (10min.), 562p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 965, 1593);" icon="images/chetiya.gif"/>
+<tree text="05. Điều Học Về Tấm Lót Ngồi Và Tấm Trải Nằm. (15min.), 566p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 1593, 2425);" icon="images/chetiya.gif"/>
+<tree text="06. Điều Học Về Các Lông Cừu. (5min.), 572p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 2425, 2827);" icon="images/chetiya.gif"/>
+<tree text="07. Điều Học Về Việc Bảo Giặt Lông Cừu. (10min.), 576p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 2827, 3343);" icon="images/chetiya.gif"/>
+<tree text="08. Điều Học Về Vàng Bạc. (10min.), 580p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 3343, 3955);" icon="images/chetiya.gif"/>
+<tree text="09. Điều Học Về Việc Trao Đổi Bằng Vàng Bạc. (10min.), 584p" action="javascript:loadYoutubeStartStop('ClW1C8w00Lg', 3955, 4480);" icon="images/chetiya.gif"/>
+<tree text="10. Điều Học Về Việc Mua Bán. (5min.), 588p" action="javascript:loadYoutubeStart('ClW1C8w00Lg', 4480);" icon="images/chetiya.gif"/>
+</tree>

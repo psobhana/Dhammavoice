@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. චිත‍්තලතාවිමානං (2min.), 180p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 0, 124);" icon="images/chetiya.gif"/>
+    <tree text="02. නන්‍දනවිමානං (2min.), 180p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 124, 239);" icon="images/chetiya.gif"/>
+    <tree text="03. මණිථූණවිමානං (2min.), 182p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 239, 382);" icon="images/chetiya.gif"/>
+    <tree text="04. සුවණ‍්ණවිමානං (3min.), 184p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 382, 561);" icon="images/chetiya.gif"/>
+    <tree text="05. අම‍්බවිමානං (3min.), 186p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 561, 758);" icon="images/chetiya.gif"/>
+    <tree text="06. ගොපාලවිමානං (3min.), 188p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 758, 976);" icon="images/chetiya.gif"/>
+    <tree text="07. කන්‍ථකවිමානං (6min.), 192p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 976, 1362);" icon="images/chetiya.gif"/>
+    <tree text="08. අනෙකවණ‍්ණවිමානං (2min.), 196p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 1362, 1520);" icon="images/chetiya.gif"/>
+    <tree text="09. මට‍්ටකුණ‍්ඩලීවිමානං (5min.), 198p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 1520, 1864);" icon="images/chetiya.gif"/>
+    <tree text="10. සෙරිස‍්සකවිමානං (15min.), 202p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 1864, 2885);" icon="images/chetiya.gif"/>
+    <tree text="11. සුනික‍්ඛිත‍්තවිමානං (3min.), 216p" action="javascript:loadYoutubeStart('39n_Aq8Tu_E', 2885);" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. മാതികാ" src="mA1-1.xml" />
+	<tree text="2. ചിത്തുപ്പാദകണ്ഡം" src="mA1-2.xml" />
+	<tree text="3. രൂപകണ്ഡം" src="mA1-3.xml" />
+	<tree text="4. നിക്ഖേപകണ്ഡം" src="mA1-4.xml" />
+	<tree text="5. അട്ഠകഥാകണ്ഡം" src="mA1-5.xml" />
+</tree>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. دَمَّسَنْغَنِبَّكَرَنَمْ (BJT 41)" src="yA1.xml" />
+	<tree text="2. فِبَنْغَبَّكَرَنَمْ (BJT 42, 43)" src="yA2.xml" />
+	<tree text="3. دَاتُكَتَابَّكَرَنَمْ (BJT 47)" src="yA3.xml" />
+	<tree text="4. كَتَافَتُّبَّكَرَنَمْ (BJT 44, 45, 46)" src="yA4.xml" />
+	<tree text="5. بُغَّلَبَنَّتِّبَّكَرَنَمْ (BJT 47)" src="yA5.xml" />
+	<tree text="6. يَمَكَبَّكَرَنَمْ (BJT 48, 49i, 49ii)" src="yA6.xml" />
+	<tree text="7. بَتَّانَبَّكَرَنَمْ (BJT 50, 51, 52)" src="yA7.xml" />
+</tree>

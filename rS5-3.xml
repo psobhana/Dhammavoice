@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	 <tree text="01. 보디왔고 (보리품 - 菩提品)  (30min.), 130p" action="javascript:loadYoutube2('8kqxNUQsUHA');" icon="images/chetiya.gif"/>
+	<tree text="02. 무차린더왔고 (목진린타품 - 目眞隣陀品)  (40min.), 148p" action="javascript:loadYoutube2('S-0yOWTQONk');" icon="images/chetiya.gif"/>
+	<tree text="03. 난더너왔고 (난타품 - 難陀品)  (45min.), 170p" action="javascript:loadYoutube2('MtT69jPZr6A');" icon="images/chetiya.gif"/>
+	<tree text="04. 메기여왔고 (미혜품 - 彌醯品)  (1h.), 194p" action="javascript:loadYoutube2('AoV6sNjfbO4');" icon="images/chetiya.gif"/>
+	<tree text="05. 소너왔꼬 (소나장로품 - 蘇那長老品)  (1h.), 220p" action="javascript:loadYoutube2('Z7VCdoV-5YI');" icon="images/chetiya.gif"/>
+	<tree text="06. 찿찬더왔고 (생맹품 - 生盲品)  (1h), 250p" action="javascript:loadYoutube2('MpgddW3uNhs');" icon="images/chetiya.gif"/>
+	<tree text="07. 출러왔고 (소품 - 小品)  (20min.), 278p" action="javascript:loadYoutube2('tjvsacEVFlo');" icon="images/chetiya.gif"/>
+	<tree text="08. 파터리가미여왔고 (파타리촌인품 - 波睰離村人品)  (1h.), 290p" action="javascript:loadYoutube2('kNtsN2cMPIg');" icon="images/chetiya.gif"/>
+</tree>

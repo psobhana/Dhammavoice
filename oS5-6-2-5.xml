@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ມຓ຺ຑູກເທວປຸຕ຺ຕວິມານໍ (1min.), 122p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 0, 78);" icon="images/chetiya.gif"/>
+    <tree text="02. ເຣວຕີວິມານໍ (7min.), 122p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 78, 526);" icon="images/chetiya.gif"/>
+    <tree text="03. ຉຕ຺ຕມາຓວກວິມານໍ (7min.), 126p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 526, 971);" icon="images/chetiya.gif"/>
+    <tree text="04. ກກ຺ກຏກຣສທາຍກວິມານໍ (2min.), 132p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 971, 1115);" icon="images/chetiya.gif"/>
+    <tree text="05. ທ຺ວາຣປາລກວິມານໍ (2min.), 134p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 1115, 1263);" icon="images/chetiya.gif"/>
+    <tree text="06. ກຣຓີຍວິມານໍ (2min.), 136p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 1263, 1419);" icon="images/chetiya.gif"/>
+    <tree text="07. ທຸຕິຍກຣຓີຍວິມານໍ (2min.), 138p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 1419, 1577);" icon="images/chetiya.gif"/>
+    <tree text="08. ສູຈີວິມານໍ (2min.), 140p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 1577, 1720);" icon="images/chetiya.gif"/>
+    <tree text="09. ທຸຕິຍສູຈິວິມານໍ (2min.), 142p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 1720, 1874);" icon="images/chetiya.gif"/>
+    <tree text="10. ນາຄວິມານໍ (2min.), 144p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 1874, 2002);" icon="images/chetiya.gif"/>
+    <tree text="11. ທຸຕິຍນາຄວິມານໍ (3min.), 146p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 2002, 2150);" icon="images/chetiya.gif"/>
+    <tree text="12. ຕຕິຍນາຄວິມານໍ (1min.), 146p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 2150, 2233);" icon="images/chetiya.gif"/>
+    <tree text="13. ຈູຬຣຖວິມານໍ (9min.), 148p" action="javascript:loadYoutubeStartStop('EeVTabU-h9c', 2233, 2780);" icon="images/chetiya.gif"/>
+    <tree text="14. ມຫາຣຖວິມານໍ (10min.), 154p" action="javascript:loadYoutubeStart('EeVTabU-h9c', 2780);" icon="images/chetiya.gif"/>
+</tree>

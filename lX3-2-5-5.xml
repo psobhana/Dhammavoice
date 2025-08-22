@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="సుత్తనిపాతో (BJT 25, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgokd8fChwZ7RqBDPoBZkHObu', true);" icon="images/chetiya.gif"/>
+	<tree text="1. ఉరగవగ్గో (Repeat)" action="javascript:loadYoutubeLoop('ewNldKMBxdc', true);" icon="images/chetiya.gif"/>
+	<tree text="2. చుల్లవగ్గో (Repeat)" action="javascript:loadYoutubeLoop('TgtuzytajGk', true);" icon="images/chetiya.gif"/>
+	<tree text="3. మహావగ్గో (Repeat)" action="javascript:loadYoutubeLoop('dl3asoruUWs', true);" icon="images/chetiya.gif"/>
+	<tree text="4. అట్ఠకవగ్గో (Repeat)" action="javascript:loadYoutubeLoop('1x9syBbDNYY', true);" icon="images/chetiya.gif"/>
+	<tree text="5. పారాయనవగ్గో (Repeat)" action="javascript:loadYoutubeLoop('OFZpaDzN1cc', true);" icon="images/chetiya.gif"/>
+</tree>

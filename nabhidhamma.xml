@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. धम्मसङ्गनिप्पकरणं (BJT 41)" src="nA1.xml" />
+	<tree text="2. विभङ्गप्पकरणं (BJT 42, 43)" src="nA2.xml" />
+	<tree text="3. धातुकथाप्पकरणं (BJT 47)" src="nA3.xml" />
+	<tree text="4. कथावत्थुप्पकरणं (BJT 44, 45, 46)" src="nA4.xml" />
+	<tree text="5. पुग्गलपञ्ञत्तिप्पकरणं (BJT 47)" src="nA5.xml" />
+	<tree text="6. यमकप्पकरणंयमकप्पकरणं (BJT 48, 49i, 49ii)" src="nA6.xml" />
+	<tree text="7. पट्ठानप्पकरणं (BJT 50, 51, 52)" src="nA7.xml" />
+</tree>

@@ -1,0 +1,1 @@
+clinesh.py %1.xml

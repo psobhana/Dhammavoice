@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. મૂલયમકં (BJT 48)" src="uA6-01.xml" />
+    <tree text="02. ખન્ધયમકં" src="uA6-02.xml" />
+    <tree text="03. આયતનયમકં" src="uA6-03.xml" />
+    <tree text="04. ધાતુયમકં" src="uA6-04.xml" />
+    <tree text="05. સચ્ચયમકં" src="uA6-05.xml" />
+    <tree text="06. સઙ્ખારયમકં (BJT 49.i)" src="uA6-06.xml" />
+    <tree text="07. અનુસયયમકં" src="uA6-07.xml" />
+    <tree text="08. ચિત્તયમકં" src="uA6-08.xml" />
+    <tree text="09. ધમ્મયમકં" src="uA6-09.xml" />
+    <tree text="10. ઇન્દ્રિયયમકં (BJT 49.ii)" src="uA6-10.xml" />
+</tree>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. ကဿပဂေါတ္တဝတ္ထု (15min.), 756p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 0, 1005);" icon="images/chetiya.gif"/>
+<tree text="02. အဓမ္မေန ဝဂ္ဂါဒိကထာ (8min.), 762p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 1005, 1481);" icon="images/chetiya.gif"/>
+<tree text="03. ဉတ္တိဝိပန္နကမ္မာဒိကထာ (15min.), 766p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 1481, 2420);" icon="images/chetiya.gif"/>
+<tree text="04. စတုဝဂ္ဂကရဏာဒိကထာ (5min.), 772p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 2420, 3097);" icon="images/chetiya.gif"/>
+<tree text="05. ပါရိဝါသကာဒိကထာ (5min.), 778p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 3097, 3376);" icon="images/chetiya.gif"/>
+<tree text="06. ဒွေနိဿာရဏာဒိကထာ (8min.), 780p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 3376, 3774);" icon="images/chetiya.gif"/>
+<tree text="07. အဓမ္မကမ္မာဒိကထာ (12min.), 784p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 3774, 4509);" icon="images/chetiya.gif"/>
+<tree text="08. ဥပါလိပုစ္ဆာ (25min.), 788p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 4509, 6031);" icon="images/chetiya.gif"/>
+<tree text="09. တဇ္ဇနီယကမ္မံ (15min.), 798p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 6031, 6853);" icon="images/chetiya.gif"/>
+<tree text="10. နိယဿကမ္မံ (2min.), 804p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 6853, 6948);" icon="images/chetiya.gif"/>
+<tree text="11. ပဗ္ဗာဇနီယကမ္မံ (2min.), 804p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 6948, 7025);" icon="images/chetiya.gif"/>
+<tree text="12. ပဋိသာရဏီယကမ္မံ (2min.), 804p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 7025, 7101);" icon="images/chetiya.gif"/>
+<tree text="13. အာပတ္တိယာ အဒဿနေ ဥက္ခေပနီယကမ္မံ (2min.), 804p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 7101, 7194);" icon="images/chetiya.gif"/>
+<tree text="14. အာပတ္တိယာ အပ္ပဋိကမ္မေ ဥက္ခေပနီယကမ္မံ (2min.), 806p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 7194, 7292);" icon="images/chetiya.gif"/>
+<tree text="15. အာပတ္တိယာ အပ္ပဋိနိဿဂ္ဂေ ဥက္ခေပနီယကမ္မံ (2min.), 806p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 7292, 7393);" icon="images/chetiya.gif"/>
+<tree text="16. တဇ္ဇနီယကမ္မပဋိပ္ပဿဒ္ဓိ (15min.), 808p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 7393, 8364);" icon="images/chetiya.gif"/>
+<tree text="17. နိယဿကမ္မပဋိပ္ပဿဒ္ဓိ (2min.), 814p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 8364, 8466);" icon="images/chetiya.gif"/>
+<tree text="18. ပဗ္ဗာဇနီယကမ္မပဋိပ္ပဿဒ္ဓိ (2min.), 814p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 8466, 8574);" icon="images/chetiya.gif"/>
+<tree text="19. ပဋိသာရဏီယကမ္မပဋိပ္ပဿဒ္ဓိ (2min.), 816p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 8574, 8681);" icon="images/chetiya.gif"/>
+<tree text="20. အာပတ္တိယာ အဒဿနေ ဥက္ခေပနီယကမ္မပဋိပ္ပဿဒ္ဓိ (2min.), 816p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 8681, 8809);" icon="images/chetiya.gif"/>
+<tree text="21. အာပတ္တိယာ အပ္ပဋိကမ္မေ ဥက္ခေပနီယကမ္မပဋိပ္ပဿဒ္ဓိ (2min.), 816p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 8809, 8940);" icon="images/chetiya.gif"/>
+<tree text="22. အာပတ္တိယာ အပ္ပဋိနိဿဂ္ဂေ ဥက္ခေပနီယကမ္မပဋိပ္ပဿဒ္ဓိ (2min.), 818p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 8940, 9082);" icon="images/chetiya.gif"/>
+<tree text="23. တဇ္ဇနီယကမ္မဝိဝါဒကထာ (7min.), 818p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 9082, 9517);" icon="images/chetiya.gif"/>
+<tree text="24. နိယဿကမ္မဝိဝါဒကထာ (2min.), 822p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 9517, 9633);" icon="images/chetiya.gif"/>
+<tree text="25. ပဗ္ဗာဇနီယကမ္မဝိဝါဒကထာ (2min.), 822p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 9633, 9732);" icon="images/chetiya.gif"/>
+<tree text="26. ပဋိသာရဏီယကမ္မဝိဝါဒကထာ (2min.), 824p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 9732, 9833);" icon="images/chetiya.gif"/>
+<tree text="27. အာပတ္တိယာ အဒဿနေ ဥက္ခေပနီယကမ္မဝိဝါဒကထာ (2min.), 824p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 9833, 9943);" icon="images/chetiya.gif"/>
+<tree text="28. အာပတ္တိယာ အပ္ပဋိကမ္မေ ဥက္ခေပနီယကမ္မဝိဝါဒကထာ (2min.), 824p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 9943, 10055);" icon="images/chetiya.gif"/>
+<tree text="29. အာပတ္တိယာ အပ္ပဋိနိဿဂ္ဂေ ဥက္ခေပနီယကမ္မဝိဝါဒကထာ (2min.), 826p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 10055, 10164);" icon="images/chetiya.gif"/>
+<tree text="30. တဇ္ဇနီယကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (10min.), 826p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 10164, 10682);" icon="images/chetiya.gif"/>
+<tree text="31. နိယဿကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (2min.), 830p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 10682, 10805);" icon="images/chetiya.gif"/>
+<tree text="32. ပဗ္ဗာဇနီယကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (2min.), 830p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 10805, 10938);" icon="images/chetiya.gif"/>
+<tree text="33. ပဋိသာရဏီယကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (2min.), 830p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 10938, 11063);" icon="images/chetiya.gif"/>
+<tree text="34. အာပတ္တိယာ အဒဿနေ ဥက္ခေပနီယကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (2min.), 832p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 11063, 11205);" icon="images/chetiya.gif"/>
+<tree text="35. အာပတ္တိယာ အပ္ပဋိကမ္မေ ဥက္ခေပနီယကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (2min.), 832p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 11205, 11347);" icon="images/chetiya.gif"/>
+<tree text="36. အာပတ္တိယာ အပ္ပဋိနိဿဂ္ဂေ ဥက္ခေပနီယကမ္မပဋိပ္ပဿဒ္ဓိဝိဝါဒကထာ (2min.), 834p" action="javascript:loadYoutubeStartStop('gNqf-WXFRl4', 11347, 11496);" icon="images/chetiya.gif"/>
+<tree text="37. ဥဒ္ဒါနဂါထာ (10min.), 834p" action="javascript:loadYoutubeStart('gNqf-WXFRl4', 11496);" icon="images/chetiya.gif"/>
+</tree>

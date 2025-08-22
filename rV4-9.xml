@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. 바티먹쿳데서야처너 (5min), 424p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 0, 352);" icon="images/chetiya.gif"/>
+<tree text="2. 마하사뭇데 앗터 앛차리야 (5min), 426p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 352, 741);" icon="images/chetiya.gif"/>
+<tree text="3. 담머위너에 앗터 앛차리야 (1h.15min.), 430p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 741, 5144);" icon="images/chetiya.gif"/>
+<tree text="4. 닸수따낭 (5min.), 464p" action="javascript:loadYoutubeStart('5oGjDdhldeo', 5144);" icon="images/chetiya.gif"/>
+</tree>

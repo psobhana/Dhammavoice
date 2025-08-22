@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--#include file="tk_header.html" -->
+</head>
+<body>
+
+<!-- Side Bar Start -->
+<!--#include file="tk_left_menu.html" -->
+<!-- Side Bar end -->
+
+
+<div id="main">
+
+  <button class="openbtn" onclick="openNav()">☰ </button>
+
+</div>
+
+
+
+<div class="header">
+  <h1>උස්ගොඩ ධම්‍මගරු හිමි</h1>
+  <h1>Ven. Usgoda Dhammagaru</h1>
+  <p style="font-size:12px">(Royal Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#f1f1f1;">
+    
+  
+	<div class="container">
+  <img src="images/dhammagaru.jpg">
+  
+</div>
+  </div>
+  
+  
+  <div class="column" style="background-color:#f1f1f1;">
+   
+<p>
+පූජ්‍ය උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ සිංහල විශ්වකෝෂයේ සහකාර කර්තෘවරයකු වශයෙන් මෙන් ම නිට්ටඹුව සාරිපුත්ත අධ්‍යාපන විද්‍යාපීඨයේ කථිකාචාර්යවරයකු වශයෙන් ද  කටයුතු කළ අතර වර්තමානයේ ඇමරිකාවේ ලොස්ඇන්ජලීස් බෞද්ධ විහාරයේ වැඩ වසති.  
+</p>
+<p>
+Rev. Usgoda Dhammagaru Thero lives in Los Angeles Buddhist Vihara, California, USA. He was an Assistant Editor in Sinhala Encyclopaedia and a former Lecturer of Sariputta National College of Education in Nittambuwa.
+</p>
+	
+<div class="menu2">
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgom96jmEgAhzgYbPHCSof1Ls" target="_blank">YouTube: සිංහල ධර්ම දේශනා</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgolUb_U3OTRNjWHS2dSuDvJu" target="_blank">YouTube: Dhamma Talks in English</a></li>
+<li><a href="https://archive.org/details/Index_201704" target="_blank">Archive: Usgoda Dhammagaru Thero</a></li>
+</ul>
+</div>
+
+	<p style="font-size:12px">
+	YouTube වීඩියෝ වල description එක තුලින් අදාල ලිපි බාගත කරගත හැකිය.<br>
+	Dhamma articles are available for download through the links provided in YouTube video descriptions.
+	</p>
+	
+  </div>
+</div>
+
+<!-- Article links Start -->
+<div class="footer">
+
+<div class="menu2">
+<ul>
+<li><a href="index_sinhala.shtml">ත්‍රිපිටක සජ්ඣායනය</a></li>
+<li><a href="tk_dhammagaru_long_sin.shtml">ධර්ම දේශනා</a></li>
+<li><a href="tk_dhammagaru_savanata_sin.shtml">සවනට බුදුබණ</a></li>
+<li><a href="tk_dhammagaru_discussions_sin.shtml">සඟසරණ නැණකිරණ ධර්මසාකච්ඡා</a></li>
+<li><a href="tk_dhammagaru_sadahammaga_sin.shtml">සදහම් මග සවිස්තරාත්මකව</a></li>
+<li><a href="tk_dhammagaru_novice_sin.shtml">නවකයන් සඳහා බුදුදහම</a></li>
+<li><a href="tk_dhammagaru_bhikkhu_sin.shtml">භික්ඛු දේශනා</a></li>
+<li><a href="cl_dhammagaru_sin.shtml">දහම් ලිපි</a></li>
+<li><a href="cl_dhammagaru_gra.shtml">ව්‍යාකරණ</a></li>
+<li><a href="index.shtml">Tipitaka Chanting</a></li>
+<li><a href="tk_dhammagaru_long_eng.shtml">Dhamma Talks</a></li>
+<li><a href="tk_dhammagaru_meditation_eng.shtml">Meditation Programs</a></li>
+<li><a href="cl_dhammagaru_eng.shtml">Dhamma Articles</a></li>
+</ul>
+</div>
+<!-- Article links End -->
+
+
+</div>
+
+</body>
+</html>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. സഗാഥവഗ്ഗോ (SN 1, BJT 13)" src="mS3-1.xml" />
+<tree text="2. നിദാനവഗ്ഗോ (SN 2, BJT 14)" src="mS3-2.xml" />
+<tree text="3. ഖന്ധകവഗ്ഗോ (SN 3, BJT 15)" src="mS3-3.xml" />
+<tree text="4. സളായതനവഗ്ഗോ (SN 4, BJT 16)" src="mS3-4.xml" />
+<tree text="5. മഹാവഗ്ഗോ (SN 5, 6, BJT 17.1, 17.2)" src="mS3-5.xml" />
+</tree>

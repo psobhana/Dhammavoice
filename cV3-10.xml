@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. Косамбакавива̄Дакатха̄ (30min.), 842p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 0, 1642);" icon="images/chetiya.gif"/>
+<tree text="02. ДӣГха̄Вуваттху (35min.), 854p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 1642, 3861);" icon="images/chetiya.gif"/>
+<tree text="03. Ба̄Лакалон̣Акагаманакатха̄ (2min.), 870p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 3861, 3968);" icon="images/chetiya.gif"/>
+<tree text="04. Па̄ЧӣНавам̣Сада̄Йагаманакатха̄ (10min.), 872p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 3968, 4497);" icon="images/chetiya.gif"/>
+<tree text="05. Па̄Рилеййакагаманакатха̄ (7min.), 876p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 4497, 4944);" icon="images/chetiya.gif"/>
+<tree text="06. Ат̣Т̣Ха̄Расаваттху (20min.), 878p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 4944, 6053);" icon="images/chetiya.gif"/>
+<tree text="07. Оса̄Ран̣А̄Нуджа̄Нана̄ (2min.), 886p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 6053, 6229);" icon="images/chetiya.gif"/>
+<tree text="08. Сан̇Гхаса̄Магги (5min.), 888p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 6229, 6515);" icon="images/chetiya.gif"/>
+<tree text="09. Упа̄Лисан̇Гхаса̄Маггипуччха̄ (10min.), 890p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 6515, 7007);" icon="images/chetiya.gif"/>
+<tree text="10. Удда̄Нага̄Тха̄ (2min.), 894p" action="javascript:loadYoutubeStart('-VxRHxOyeQY', 7007);" icon="images/chetiya.gif"/>
+</tree>

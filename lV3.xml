@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="01. మహాక్ఖన్ధకం" src="lV3-1.xml" />
+	<tree text="02. ఉపోసథక్ఖన్ధకం" src="lV3-2.xml" />
+	<tree text="03. వస్సూపనాయికక్ఖన్ధకం" src="lV3-3.xml" />
+	<tree text="04. పవారణక్ఖన్ధకం" src="lV3-4.xml" />
+	<tree text="05. చమ్మక్ఖన్ధకం" src="lV3-5.xml" />
+	<tree text="06. భేసజ్జక్ఖన్ధకం" src="lV3-6.xml" />
+	<tree text="07. కఠినక్ఖన్ధకం" src="lV3-7.xml" />
+	<tree text="08. చీవరక్ఖన్ధకం" src="lV3-8.xml" />
+	<tree text="09. చమ్పేయ్యక్ఖన్ధకం" src="lV3-9.xml" />
+	<tree text="10. కోసమ్బక్ఖన్ధకం" src="lV3-10.xml" />
+</tree>

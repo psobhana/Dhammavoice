@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ﻿גׄנגׄאפׄיייאלבגׄגׄו (5min.), 426p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 0, 279);" icon="images/chetiya.gif"/>
+<tree text="2. אפׄפׄמאדבגׄגׄו (1min.), 428p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 279, 332);" icon="images/chetiya.gif"/>
+<tree text="3. בלכרנייבגׄגׄו (3min.), 430p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 332, 502);" icon="images/chetiya.gif"/>
+<tree text="4. איסנאבגׄגׄו (2min.), 430p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 502, 624);" icon="images/chetiya.gif"/>
+<tree text="5. אוגׄבגׄגׄו (3min.), 432p" action="javascript:loadYoutubeStart('FhmS6rJpT-I', 624);" icon="images/chetiya.gif"/>
+</tree>

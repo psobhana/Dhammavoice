@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ﻿வெளுத்³வாரவக்³கொ³ (1h.), 138p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 0, 3629);" icon="images/chetiya.gif"/>
+<tree text="2. ராஜகாராமவக்³கொ³ (30min.), 168p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 3629, 5362);" icon="images/chetiya.gif"/>
+<tree text="3. ஸரகானிவக்³கொ³ (1h.10min.), 182p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 5362, 9725);" icon="images/chetiya.gif"/>
+<tree text="4. புஞ்ஞாபி⁴ஸந்த³வக்³கொ³ (30min.), 218p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 9725, 11307);" icon="images/chetiya.gif"/>
+<tree text="5. ஸகா³த²புஞ்ஞாபி⁴ஸந்த³வக்³கொ³ (20min.), 232p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 11307, 12455);" icon="images/chetiya.gif"/>
+<tree text="6. ஸப்பஞ்ஞவக்³கொ³ (25min.), 242p" action="javascript:loadYoutubeStartStop('BDKbk35H8vg', 12455, 13964);" icon="images/chetiya.gif"/>
+<tree text="7. மஹாபஞ்ஞவக்³கொ³ (5min.), 256p" action="javascript:loadYoutubeStart('BDKbk35H8vg', 13964);" icon="images/chetiya.gif"/>
+</tree>

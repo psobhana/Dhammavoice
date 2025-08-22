@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. പാരാജികപാളി (BJT 1)" src="mV1.xml" />
+<tree text="2. പാചിത്തിയപാളി (BJT 2-i,ii)" src="mV2.xml" />
+<tree text="3. മഹാവഗ്ഗപാളി (BJT 3,4)" src="mV3.xml" />
+<tree text="4. ചുല്ലവഗ്ഗപാളി (BJT 5-i,ii)" src="mV4.xml" />
+<tree text="5. പരിവാരപാളി (BJT 6-i,ii)" src="mV5.xml" />
+	
+</tree>

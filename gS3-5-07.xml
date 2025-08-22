@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. চাপালৰগ্গো (30min.), 2p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 0, 1745);" icon="images/chetiya.gif"/>
+    <tree text="02. পাসাদকম্পনৰগ্গো (1h.), 18p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 1745, 5240);" icon="images/chetiya.gif"/>
+    <tree text="03. অযোগুল়ৰগ্গো (25min.), 46p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 5240, 6820);" icon="images/chetiya.gif"/>
+    <tree text="04. গঙ্গাপেয্যালৰগ্গো (1min.), 58p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6820,. 6874);" icon="images/chetiya.gif"/>
+    <tree text="05. অপ্পমাদৰগ্গো (1min.), 58p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6874, 6918);" icon="images/chetiya.gif"/>
+    <tree text="06. বলকরণীযৰগ্গো (1min.), 58p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6918, 6963);" icon="images/chetiya.gif"/>
+    <tree text="07. এসনাৰগ্গো (1min.), 60p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6963, 7024);" icon="images/chetiya.gif"/>
+    <tree text="08. ওঘৰগ্গো (2min.), 60p" action="javascript:loadYoutubeStart('rm-nZD2uD2I', 7024);" icon="images/chetiya.gif"/>
+</tree>

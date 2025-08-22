@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ಪಾರಾಜಿಕಪಾಳಿ (BJT 1, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgom18N4S8yUjBJ57U6R3kzmg', true);" icon="images/chetiya.gif"/>
+	<tree text="2. ಪಾಚಿತ್ತಿಯಪಾಳಿ - ಭಿಕ್ಖುವಿಭಙ್ಗೋ (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomXgI2RC-pD55dHuLIq5PfR', true);" icon="images/chetiya.gif"/>
+	<tree text="3. ಭಿಕ್ಖುನೀವಿಭಙ್ಗೋ (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomEfkzytDgd9tohpPj8KbI-', true);" icon="images/chetiya.gif"/>
+	<tree text="4. ಮಹಾವಗ್ಗಪಾಳಿ (BJT 3,4, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomm8ucb3SpYzAiWYkuMqQMT', true);" icon="images/chetiya.gif"/>
+	<tree text="5. ಚುಲ್ಲವಗ್ಗಪಾಳಿ (BJT 5-i,ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok1h2_O-GMps0eQaySf1xVJ', true);" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifBengali-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'bengali'; }
+
+.bengalifont{
+    font-family: bengali;
+}
+
+
+.webfx-tree-item {
+  font-family: bengali;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: bengali;
+	font-size: 16px;
+}
+	
+

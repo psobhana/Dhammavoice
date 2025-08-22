@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	 <tree text="01. Бодхивагго  (30min.), 130p" action="javascript:loadYoutube2('8kqxNUQsUHA');" icon="images/chetiya.gif"/>
+	<tree text="02. Мучалиндавагго  (40min.), 148p" action="javascript:loadYoutube2('S-0yOWTQONk');" icon="images/chetiya.gif"/>
+	<tree text="03. Нанданавагго  (45min.), 170p" action="javascript:loadYoutube2('MtT69jPZr6A');" icon="images/chetiya.gif"/>
+	<tree text="04. Мегхийавагго  (1h.), 194p" action="javascript:loadYoutube2('AoV6sNjfbO4');" icon="images/chetiya.gif"/>
+	<tree text="05. Сон̣авагго  (1h.), 220p" action="javascript:loadYoutube2('Z7VCdoV-5YI');" icon="images/chetiya.gif"/>
+	<tree text="06. Джаччандавагго  (1h), 250p" action="javascript:loadYoutube2('MpgddW3uNhs');" icon="images/chetiya.gif"/>
+	<tree text="07. Чуллавагго  (20min.), 278p" action="javascript:loadYoutube2('tjvsacEVFlo');" icon="images/chetiya.gif"/>
+	<tree text="08. Па̄т̣алига̄мийавагго  (1h.), 290p" action="javascript:loadYoutube2('kNtsN2cMPIg');" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ﻿תשאפׄאלבגׄגׄו (30min.), 2p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 0, 1745);" icon="images/chetiya.gif"/>
+<tree text="2. פׄאסאדכמפׄנבגׄגׄו (1h.), 18p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 1745, 5240);" icon="images/chetiya.gif"/>
+<tree text="3. איוגׄלבגׄגׄו (25min.), 46p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 5240, 6820);" icon="images/chetiya.gif"/>
+<tree text="4. גׄנגׄאפׄיייאלבגׄגׄו (1min.), 58p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6820,. 6874);" icon="images/chetiya.gif"/>
+<tree text="5. אפׄפׄמאדבגׄגׄו (1min.), 58p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6874, 6918);" icon="images/chetiya.gif"/>
+<tree text="6. בלכרנייבגׄגׄו (1min.), 58p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6918, 6963);" icon="images/chetiya.gif"/>
+<tree text="7. איסנאבגׄגׄו (1min.), 60p" action="javascript:loadYoutubeStartStop('rm-nZD2uD2I', 6963, 7024);" icon="images/chetiya.gif"/>
+<tree text="8. אוגׄבגׄגׄו (2min.), 60p" action="javascript:loadYoutubeStart('rm-nZD2uD2I', 7024);" icon="images/chetiya.gif"/>
+</tree>

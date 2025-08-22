@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. អាគន្តុកវត្តំ (15min), 334p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 0, 858);" icon="images/chetiya.gif"/>
+<tree text="02. អាវាសិកវត្តំ (5min), 340p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 858, 1180);" icon="images/chetiya.gif"/>
+<tree text="03. គមិកវត្តំ (10min), 344p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 1180, 1682);" icon="images/chetiya.gif"/>
+<tree text="04. ភត្តគ្គវត្តំ (10min), 348p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 1682, 2380);" icon="images/chetiya.gif"/>
+<tree text="05. បិណ្ឌចារិក វត្តំ (10min), 354p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 2380, 2959);" icon="images/chetiya.gif"/>
+<tree text="06. អារញ្ញិកវត្តំ (7min), 358p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 2959, 3406);" icon="images/chetiya.gif"/>
+<tree text="07. សេនាសនវត្តំ (10min), 362p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 3406, 4003);" icon="images/chetiya.gif"/>
+<tree text="08. ជន្តាឃរវត្តំ (5min), 368p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 4003, 4331);" icon="images/chetiya.gif"/>
+<tree text="09. វច្ចកុដិវត្តំ (7min), 370p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 4331, 4765);" icon="images/chetiya.gif"/>
+<tree text="10. ឧបជ្ឈាយវត្តំ (20min), 376p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 4765, 6142);" icon="images/chetiya.gif"/>
+<tree text="11. សទ្ធិវិហារិកវត្តំ (15min), 386p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 6142, 7038);" icon="images/chetiya.gif"/>
+<tree text="12. អាចរិយវត្តំ (20min), 394p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 7038, 8400);" icon="images/chetiya.gif"/>
+<tree text="13. អន្តេវាសិកវត្តំ (15min), 404p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 8400, 9337);" icon="images/chetiya.gif"/>
+<tree text="14. តស្សុទ្ទានំ (20min.), 410p" action="javascript:loadYoutubeStart('hFUL0pnnw7E', 9337);" icon="images/chetiya.gif"/>
+</tree>

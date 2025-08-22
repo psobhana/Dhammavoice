@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. അഗാരിയവിമാനം (2min.), 164p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 0, 108);" icon="images/chetiya.gif"/>
+    <tree text="02. ദുതിയഅഗാരിയവിമാനം (2min.), 164p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 108, 212);" icon="images/chetiya.gif"/>
+    <tree text="03. ഫലദായകവിമാനം (2min.), 166p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 212, 363);" icon="images/chetiya.gif"/>
+    <tree text="04. പഠമഉപസ്സയദായകവിമാനം (2min.), 168p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 363, 469);" icon="images/chetiya.gif"/>
+    <tree text="05. ദുതിയഉപസ്സയദായകവിമാനം (2min.), 170p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 469, 578);" icon="images/chetiya.gif"/>
+    <tree text="06. ഭിക്ഖാദായകവിമാനം (2min.), 170p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 578, 684);" icon="images/chetiya.gif"/>
+    <tree text="07. യവപാലകവിമാനം (2min.), 172p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 684, 825);" icon="images/chetiya.gif"/>
+    <tree text="08. പഠമകുണ്ഡലീവിമാനം (2min.), 174p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 825, 958);" icon="images/chetiya.gif"/>
+    <tree text="09. ദുതിയകുണ്ഡലീവിമാനം (2min.), 176p" action="javascript:loadYoutubeStartStop('UTlx7h0XEBE', 958, 1090);" icon="images/chetiya.gif"/>
+    <tree text="10. ഉത്തരവിമാനം (2min.), 178p" action="javascript:loadYoutubeStart('UTlx7h0XEBE', 1090);" icon="images/chetiya.gif"/>
+</tree>

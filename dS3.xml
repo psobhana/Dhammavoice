@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. សគាថវគ្គោ (SN 1, BJT 13)" src="dS3-1.xml" />
+<tree text="2. និទានវគ្គោ (SN 2, BJT 14)" src="dS3-2.xml" />
+<tree text="3. ខន្ធកវគ្គោ (SN 3, BJT 15)" src="dS3-3.xml" />
+<tree text="4. សឡាយតនវគ្គោ (SN 4, BJT 16)" src="dS3-4.xml" />
+<tree text="5. មហាវគ្គោ (SN 5, 6, BJT 17.1, 17.2)" src="dS3-5.xml" />
+</tree>

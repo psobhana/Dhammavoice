@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. અભિજ્જમાનપેતવત્થુ (5min.), 76p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 0, 330);" icon="images/chetiya.gif"/>
+    <tree text="02. સાનુવાસીપેતવત્થુ (8min.), 78p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 330, 806);" icon="images/chetiya.gif"/>
+    <tree text="03. રથકારપેતવત્થુ (2min.), 84p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 806, 960);" icon="images/chetiya.gif"/>
+    <tree text="04. ભુસપેતવત્થુ (2min.), 86p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 960, 1062);" icon="images/chetiya.gif"/>
+    <tree text="05. કુમારપેતવત્થુ (3min.), 88p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1062, 1263);" icon="images/chetiya.gif"/>
+    <tree text="06. સેરિણીપેતિવત્થુ (4min.), 90p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1263, 1504);" icon="images/chetiya.gif"/>
+    <tree text="07. મિગલુદ્દકપેતવત્થુ (2min.), 92p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1504, 1666);" icon="images/chetiya.gif"/>
+    <tree text="08. દુતિયમિગલુદ્દકપેતવત્થુ (2min.), 94p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1666, 1843);" icon="images/chetiya.gif"/>
+    <tree text="09. કૂટવિનિચ્છયિકપેતવત્થુ (2min.), 96p" action="javascript:loadYoutubeStartStop('5giD8b_HT6I', 1843, 1979);" icon="images/chetiya.gif"/>
+    <tree text="10. ધાતુવિવિણ્ણિકપેતવત્થુ (3min.), 98p" action="javascript:loadYoutubeStart('5giD8b_HT6I', 1979);" icon="images/chetiya.gif"/>
+</tree>

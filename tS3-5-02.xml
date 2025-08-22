@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. པབྦཏཝགྒོ (45min.), 140p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 0, 2667);" icon="images/chetiya.gif"/>
+    <tree text="02. གིལཱནཝགྒོ (20min.), 162p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 2667, 3835);" icon="images/chetiya.gif"/>
+    <tree text="03. ཨུདཱཡིཝགྒོ (20min.), 172p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 3835, 5084);" icon="images/chetiya.gif"/>
+    <tree text="04. ནཱིཝརཎཝགྒོ (20min.), 184p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 5084, 6277);" icon="images/chetiya.gif"/>
+    <tree text="05. ཙཀྐཝཏྟིཝགྒོ (15min.), 196p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 6277, 6976);" icon="images/chetiya.gif"/>
+    <tree text="06. བོཛ྄ཛྷངྒཝགྒོ" src="tS3-5-02-06.xml" />
+    <tree text="07. ཨཱནཱཔཱནཝགྒོ (8min.), 240p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 12037, 12538);" icon="images/chetiya.gif"/>
+    <tree text="08. ནིརོདྷཝགྒོ (10min.), 246p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 12538, 13060);" icon="images/chetiya.gif"/>
+    <tree text="09. གངྒཱཔེཡྻཱལོ (2min.), 252p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13060, 13176);" icon="images/chetiya.gif"/>
+    <tree text="10. ཨཔྤམཱདཝགྒོ (1min.), 252p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13176, 13226);" icon="images/chetiya.gif"/>
+    <tree text="11. བལཀརཎཱིཡཝགྒོ (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13226, 13276);" icon="images/chetiya.gif"/>
+    <tree text="12. ཨེསནཱཝགྒོ (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13276, 13328);" icon="images/chetiya.gif"/>
+    <tree text="13. ཨོགྷཝགྒོ (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13328, 13379);" icon="images/chetiya.gif"/>
+    <tree text="14. པུནགངྒཱཔེཡྻཱལོ (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13379, 13420);" icon="images/chetiya.gif"/>
+    <tree text="15. པུནཨཔྤམཱདཝགྒོ (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13420, 13457);" icon="images/chetiya.gif"/>
+	<tree text="16. པུནབལཀརཎཱིཡཝགྒོ (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13457, 13495);" icon="images/chetiya.gif"/>
+    <tree text="17. པུནཨེསནཱཝགྒོ (1min.), 258p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13495, 13533);" icon="images/chetiya.gif"/> 
+    <tree text="18. པུནཨོགྷཝགྒོ (1min.), 258p" action="javascript:loadYoutubeStart('3YHgOJvAxDw', 13533);" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,20 @@
+
+@font-face { src: url('Pyidaungsu-2.4-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'burmese'; }
+
+.burmesefont{
+    font-family: burmese;
+}
+
+
+.webfx-tree-item {
+  font-family: burmese;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: burmese;
+	font-size: 16px;
+}
+	
+

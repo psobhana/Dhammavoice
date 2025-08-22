@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--#include file="cl_header.html" -->
+</head>
+<body>
+
+<!-- Side Bar Start -->
+<!--#include file="cl_left_menu.html" -->
+<!-- Side Bar end -->
+
+
+<div id="main">
+
+  <button class="openbtn" onclick="openNav()">☰ </button>
+
+</div>
+
+
+
+<div class="header">
+  <h1>Professor Dhammavihari Thero</h1>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#f1f1f1;">
+    
+  
+	<div class="container">
+  <img src="images/dhammavihari.jpg">
+  
+</div>
+  </div>
+  
+  
+  <div class="column" style="background-color:#f1f1f1;">
+   
+    <p>The writer Bhikku Dhammavihari (Prof. Jotiya Dhirasekera) took to the life of a Buddhist monk at the age of sixtynine on May 18,1990. At the time of his retirement he was the Director of the Postgraduate Institute of Pali and Buddhist Studies, University of Kelaniya. His last University teaching assignment was as the Professor of Buddhist Studies at the University of Toronto.</p>
+	
+	<div class="menu2">
+<ul>
+<li><a href="https://archive.org/details/DhammavihariThero" target="_blank">Archive: Dhammavihari Thero</a></li>
+</ul>
+</div>
+
+  </div>
+</div>
+
+<!-- Article links Start -->
+<div class="footer">
+
+<div class="menu2">
+<ul>
+<li><a href="cl_dhammavihari_eng.shtml">English Articles</a></li>
+</ul>
+</div>
+<!-- Article links End -->
+
+<!-- Article list Start -->
+<!--#include file="cl_dhammavihari_eng_list.html" -->
+<!-- Article list End -->
+
+</div>
+
+</body>
+</html>
+

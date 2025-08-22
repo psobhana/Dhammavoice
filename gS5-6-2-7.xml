@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. চিত্তলতাৰিমানং (2min.), 180p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 0, 124);" icon="images/chetiya.gif"/>
+    <tree text="02. নন্দনৰিমানং (2min.), 180p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 124, 239);" icon="images/chetiya.gif"/>
+    <tree text="03. মণিথূণৰিমানং (2min.), 182p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 239, 382);" icon="images/chetiya.gif"/>
+    <tree text="04. সুৰণ্ণৰিমানং (3min.), 184p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 382, 561);" icon="images/chetiya.gif"/>
+    <tree text="05. অম্বৰিমানং (3min.), 186p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 561, 758);" icon="images/chetiya.gif"/>
+    <tree text="06. গোপালৰিমানং (3min.), 188p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 758, 976);" icon="images/chetiya.gif"/>
+    <tree text="07. কন্থকৰিমানং (6min.), 192p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 976, 1362);" icon="images/chetiya.gif"/>
+    <tree text="08. অনেকৰণ্ণৰিমানং (2min.), 196p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 1362, 1520);" icon="images/chetiya.gif"/>
+    <tree text="09. মট্টকুণ্ডলীৰিমানং (5min.), 198p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 1520, 1864);" icon="images/chetiya.gif"/>
+    <tree text="10. সেরিস্সকৰিমানং (15min.), 202p" action="javascript:loadYoutubeStartStop('39n_Aq8Tu_E', 1864, 2885);" icon="images/chetiya.gif"/>
+    <tree text="11. সুনিক্খিত্তৰিমানং (3min.), 216p" action="javascript:loadYoutubeStart('39n_Aq8Tu_E', 2885);" icon="images/chetiya.gif"/>
+</tree>

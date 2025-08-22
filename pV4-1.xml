@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ਤਜ੍ਜਨੀਯਕਮ੍ਮਂ (45min.), 2p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 0, 2640);" icon="images/chetiya.gif"/>
+<tree text="2. ਨਿਯਸ੍ਸਕਮ੍ਮਂ (30min.), 24p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 2640, 4324);" icon="images/chetiya.gif"/>
+<tree text="3. ਪਬ੍ਬਾਜਨੀਯਕਮ੍ਮਂ (55min.), 34p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 4324, 7542);" icon="images/chetiya.gif"/>
+<tree text="4. ਪਟਿਸਾਰਣੀਯਕਮ੍ਮਂ (40min.), 64p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 7542, 10082);" icon="images/chetiya.gif"/>
+<tree text="5. ਆਪਤ੍ਤਿਯਾ ਅਦਸ੍ਸਨੇ ਉਕ੍ਖੇਪਨੀਯਕਮ੍ਮਂ (40min.), 86p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 10082, 12563);" icon="images/chetiya.gif"/>
+<tree text="6. ਆਪਤ੍ਤਿਯਾ ਅਪ੍ਪਟਿਕਮ੍ਮੇ ਉਕ੍ਖੇਪਨੀਯਕਮ੍ਮਂ (40min.), 108p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 12563, 14886);" icon="images/chetiya.gif"/>
+<tree text="7. ਪਾਪਿਕਾਯ ਦਿਟ੍ਠਿਯਾ ਅਪ੍ਪਟਿਨਿਸ੍ਸਗ੍ਗੇ ਉਕ੍ਖੇਪਨੀਯਕਮ੍ਮਂ (45min.), 128p" action="javascript:loadYoutubeStartStop('b1_aCYLZnV0', 14886, 17498);" icon="images/chetiya.gif"/>
+<tree text="8. ਵਤ੍ਥੁਦ੍ਦਾਨਂ (10min.), 152p" action="javascript:loadYoutubeStart('b1_aCYLZnV0', 17498);" icon="images/chetiya.gif"/>
+</tree>

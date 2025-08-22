@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="01. មហាក្ខន្ធកំ" src="dV3-1.xml" />
+	<tree text="02. ឧបោសថក្ខន្ធកំ" src="dV3-2.xml" />
+	<tree text="03. វស្សូបនាយិកក្ខន្ធកំ" src="dV3-3.xml" />
+	<tree text="04. បវារណក្ខន្ធកំ" src="dV3-4.xml" />
+	<tree text="05. ចម្មក្ខន្ធកំ" src="dV3-5.xml" />
+	<tree text="06. ភេសជ្ជក្ខន្ធកំ" src="dV3-6.xml" />
+	<tree text="07. កឋិនក្ខន្ធកំ" src="dV3-7.xml" />
+	<tree text="08. ចីវរក្ខន្ធកំ" src="dV3-8.xml" />
+	<tree text="09. ចម្បេយ្យក្ខន្ធកំ" src="dV3-9.xml" />
+	<tree text="10. កោសម្ពក្ខន្ធកំ" src="dV3-10.xml" />
+</tree>

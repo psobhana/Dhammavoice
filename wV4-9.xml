@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. Lời thỉnh cầu tụng Giới bổn (5min), 424p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 0, 352);" icon="images/chetiya.gif"/>
+<tree text="2. Tám điều kỳ diệu trong đại dương (5min), 426p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 352, 741);" icon="images/chetiya.gif"/>
+<tree text="3. Tám điều kỳ diệu trong Pháp và Luật (1h.15min.), 430p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 741, 5144);" icon="images/chetiya.gif"/>
+<tree text="4. Tóm lược chương (5min.), 464p" action="javascript:loadYoutubeStart('5oGjDdhldeo', 5144);" icon="images/chetiya.gif"/>
+</tree>

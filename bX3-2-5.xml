@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="01. ခုဒ္ဒကပါဌပါဠိ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolXbz5uNiAG_hCq_4nAYFI8', true);" icon="images/chetiya.gif"/>
+	<tree text="02. ဓမ္မပဒပါဠိ (BJT 24, Repeat)" action="javascript:loadYoutubeLoop('lOwakCUQcaM', true);" icon="images/chetiya.gif"/>
+	<tree text="03. ဥဒါနပါဠိ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgokHxdHDay-Y0JpKYBBI8PjT', true);" icon="images/chetiya.gif"/>
+	<tree text="04. ဣတိဝုတ္တကပါဠိ (BJT 24, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok-TGIqZEHBa9wnm0-SsEKz', true);" icon="images/chetiya.gif"/>
+	<tree text="05. သုတ္တနိပါတော" src="bX3-2-5-5.xml" />
+	<tree text="06. ဝိမာနဝတ္ထုပါဠိ (BJT 26, Repeat)" action="javascript:loadYoutubeLoop('oyUpZtQo_xU');" icon="images/chetiya.gif"/>
+    <tree text="07. පෙතවත්‍ථුපාළි (BJT 27, Repeat)" action="javascript:loadYoutubeLoop('muuOm9DPj0Y');" icon="images/chetiya.gif"/>
+	<tree text="13. ပေတဝတ္ထုပါဠိ (BJT 35.i-ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgolIe-MSKKyyeIb9IvNIUEQV', true);" icon="images/chetiya.gif"/>
+</tree>

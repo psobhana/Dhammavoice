@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. మఞ్జేట్ఠకవిమానం (2min.), 90p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 0, 132);" icon="images/chetiya.gif"/>
+    <tree text="02. పభస్సరవిమానం (2min.), 90p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 132, 267);" icon="images/chetiya.gif"/>
+    <tree text="03. నాగవిమానం (2min.), 92p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 267, 384);" icon="images/chetiya.gif"/>
+    <tree text="04. అలోమావిమానం (2min.), 94p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 384, 518);" icon="images/chetiya.gif"/>
+    <tree text="05. కఞ్జికదాయికావిమానం (3min.), 96p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 518, 701);" icon="images/chetiya.gif"/>
+    <tree text="06. విహారవిమానం (7min.), 98p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 701, 1146);" icon="images/chetiya.gif"/>
+    <tree text="07. చతురిత్థివిమానం (8min.), 102p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1146, 1615);" icon="images/chetiya.gif"/>
+    <tree text="08. అమ్బవిమానం (3min.), 108p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1615, 1800);" icon="images/chetiya.gif"/>
+    <tree text="09. పీతవిమానం (3min.), 110p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1800, 1993);" icon="images/chetiya.gif"/>
+    <tree text="10. ఉచ్ఛువిమానం (3min.), 112p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 1993, 2211);" icon="images/chetiya.gif"/>
+    <tree text="11. చన్దనవిమానం (2min.), 114p" action="javascript:loadYoutubeStartStop('eni-HgtsPPQ', 2211, 2330);" icon="images/chetiya.gif"/>
+    <tree text="12. రజ్జుమాలావిమానం (8min.), 116p" action="javascript:loadYoutubeStart('eni-HgtsPPQ', 2330);" icon="images/chetiya.gif"/>
+</tree>

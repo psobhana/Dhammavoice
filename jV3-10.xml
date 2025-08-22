@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. コサンバカヴィワーダカテャ (30min.), 842p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 0, 1642);" icon="images/chetiya.gif"/>
+<tree text="02. ヂーガーウワッテュ (35min.), 854p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 1642, 3861);" icon="images/chetiya.gif"/>
+<tree text="03. バーラカローナカガマナカテャ (2min.), 870p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 3861, 3968);" icon="images/chetiya.gif"/>
+<tree text="04. パーチーナワンサダーヤガマナカテャ (10min.), 872p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 3968, 4497);" icon="images/chetiya.gif"/>
+<tree text="05. パーリレッヤカガマナカテャ (7min.), 876p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 4497, 4944);" icon="images/chetiya.gif"/>
+<tree text="06. アッターラサワッテュ (20min.), 878p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 4944, 6053);" icon="images/chetiya.gif"/>
+<tree text="07. オサーラナーヌジャーナナー (2min.), 886p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 6053, 6229);" icon="images/chetiya.gif"/>
+<tree text="08. サンガサマーッギ (5min.), 888p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 6229, 6515);" icon="images/chetiya.gif"/>
+<tree text="09. ウパーリサンガサーマッギプッチャー (10min.), 890p" action="javascript:loadYoutubeStartStop('-VxRHxOyeQY', 6515, 7007);" icon="images/chetiya.gif"/>
+<tree text="10. ウッデャーナガーテャ (2min.), 894p" action="javascript:loadYoutubeStart('-VxRHxOyeQY', 7007);" icon="images/chetiya.gif"/>
+</tree>

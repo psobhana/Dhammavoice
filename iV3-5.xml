@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. 二十億耳" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 0, 1673);" icon="images/chetiya.gif"/>
+<tree text="02. 著重履" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 1673, 1816);" icon="images/chetiya.gif"/>
+<tree text="03. 全青履" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 1816, 2260);" icon="images/chetiya.gif"/>
+<tree text="04. Gaṇaṅgaṇūpāhanānujānanā" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 2260, 2365);" icon="images/chetiya.gif"/>
+<tree text="05. 著履經行" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 2365, 2697);" icon="images/chetiya.gif"/>
+<tree text="06. 穿木履" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 2697, 3661);" icon="images/chetiya.gif"/>
+<tree text="07. 乘車" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 3661, 3823);" icon="images/chetiya.gif"/>
+<tree text="08. 高廣大床" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 3823, 3929);" icon="images/chetiya.gif"/>
+<tree text="09. 獸皮" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 3929, 4338);" icon="images/chetiya.gif"/>
+<tree text="10. 皮紐" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 4338, 4445);" icon="images/chetiya.gif"/>
+<tree text="11. 首樓那" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 4445, 5387);" icon="images/chetiya.gif"/>
+<tree text="12. Paccantimajanapadesu Vinayadharapañcamena Upasampadā Anujānanā" action="javascript:loadYoutubeStartStop('BOPJv7Uf66M', 5387, 5593);" icon="images/chetiya.gif"/>
+<tree text="13. Uddānagāthā" action="javascript:loadYoutubeStart('BOPJv7Uf66M', 5593);" icon="images/chetiya.gif"/>
+</tree>

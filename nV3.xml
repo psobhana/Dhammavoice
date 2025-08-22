@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="01. महाक्खन्धकं" src="nV3-1.xml" />
+	<tree text="02. उपोसथक्खन्धकं" src="nV3-2.xml" />
+	<tree text="03. वस्सूपनायिकक्खन्धकं" src="nV3-3.xml" />
+	<tree text="04. पवारणक्खन्धकं" src="nV3-4.xml" />
+	<tree text="05. चम्मक्खन्धकं" src="nV3-5.xml" />
+	<tree text="06. भेसज्जक्खन्धकं" src="nV3-6.xml" />
+	<tree text="07. कठिनक्खन्धकं" src="nV3-7.xml" />
+	<tree text="08. चीवरक्खन्धकं" src="nV3-8.xml" />
+	<tree text="09. चम्पेय्यक्खन्धकं" src="nV3-9.xml" />
+	<tree text="10. कोसम्बक्खन्धकं" src="nV3-10.xml" />
+</tree>

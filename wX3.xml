@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. Luật Tạng" src="wX3-1.xml" />
+	<tree text="2. Kinh Tạng" src="wX3-2.xml" />
+	<tree text="3. Luận Tạng" src="wX3-3.xml" />
+	<tree text="4. Tạp Kinh" src="wX3-4.xml" />
+</tree>
+
+

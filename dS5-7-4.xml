@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. អម្ពសក្ខរបេតវត្ថុ (25min.), 100p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 0, 1604);" icon="images/chetiya.gif"/>
+    <tree text="02. សេរិស្សកបេតវត្ថុ (20min.), 120p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 1604, 2630);" icon="images/chetiya.gif"/>
+    <tree text="03. នន្ទកបេតវត្ថុ (15min.), 134p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 2630, 3469);" icon="images/chetiya.gif"/>
+    <tree text="04. រេវតីបេតិវត្ថុ (5min.), 142p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 3469, 3859);" icon="images/chetiya.gif"/>
+    <tree text="05. ឧច្ឆុបេតវត្ថុ (3min.), 146p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 3859, 4032);" icon="images/chetiya.gif"/>
+    <tree text="06. កុមារបេតវត្ថុ (2min.), 148p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4032, 4148);" icon="images/chetiya.gif"/>
+    <tree text="07. រាជបុត្តបេតវត្ថុ (3min.), 150p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4148, 4342);" icon="images/chetiya.gif"/>
+    <tree text="08. គូថខាទកបេតវត្ថុ (2min.), 152p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4342, 4470);" icon="images/chetiya.gif"/>
+    <tree text="09. គូថខាទកបេតិវត្ថុ (2min.), 154p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4470, 4594);" icon="images/chetiya.gif"/>
+    <tree text="10. គណបេតវត្ថុ (2min.), 154p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4594, 4755);" icon="images/chetiya.gif"/>
+    <tree text="11. បាដលីបុត្តបេតវត្ថុ (2min.), 156p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4755, 4824);" icon="images/chetiya.gif"/>
+    <tree text="12. អម្ពវនបេតវត្ថុ (2min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4824, 4904);" icon="images/chetiya.gif"/>
+    <tree text="13. អក្ខរុក្ខបេតវត្ថុ (2min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4904, 4933);" icon="images/chetiya.gif"/>
+    <tree text="14. ភោគសំហរណបេតវត្ថុ (1min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4933, 4959);" icon="images/chetiya.gif"/>
+    <tree text="15. សេដ្ឋិបុត្តបេតវត្ថុ (2min.), 158p" action="javascript:loadYoutubeStartStop('WzoBuBan_rI', 4959, 5027);" icon="images/chetiya.gif"/>
+    <tree text="16. សដ្ឋិកូដសហស្សបេតវត្ថុ (3min.), 160p" action="javascript:loadYoutubeStart('WzoBuBan_rI', 5027);" icon="images/chetiya.gif"/>
+</tree>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. আহারসুত্তং (15min.), 202p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 6976, 7972);" icon="images/chetiya.gif"/>
+    <tree text="02. পরিযাযসুত্তং (15min.), 210p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 7972, 8724);" icon="images/chetiya.gif"/>
+    <tree text="03. অগ্গিসুত্তং (10min.), 216p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 8724, 9256);" icon="images/chetiya.gif"/>
+    <tree text="04. মেত্তসুত্তং (20min.), 218p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 9256, 10436);" icon="images/chetiya.gif"/>
+    <tree text="05. সঙ্গারৰসুত্তং (20min.), 228p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 10436, 11588);" icon="images/chetiya.gif"/>
+    <tree text="06. অভযসুত্তং (7min.), 234p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 11588, 12037);" icon="images/chetiya.gif"/>
+</tree>

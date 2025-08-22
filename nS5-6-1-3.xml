@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. उळारविमानं (4min.), 60p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 0, 234);" icon="images/chetiya.gif"/>
+    <tree text="02. उच्छुदायिकाविमानं (4min.), 62p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 234, 460);" icon="images/chetiya.gif"/>
+    <tree text="03. पल्लङ्कविमानं (3min.), 64p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 460, 647);" icon="images/chetiya.gif"/>
+    <tree text="04. लताविमानं (3min.), 66p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 647, 865);" icon="images/chetiya.gif"/>
+    <tree text="05. गुत्तिलविमानं (10min.), 70p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 865, 1540);" icon="images/chetiya.gif"/>
+    <tree text="06. दद्दल्लविमानं (7min.), 76p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 1540, 1977);" icon="images/chetiya.gif"/>
+    <tree text="07. सेसवतीविमानं (4min.), 80p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 1977, 2197);" icon="images/chetiya.gif"/>
+    <tree text="08. मल्लिकाविमानं (3min.), 84p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 2197, 2328);" icon="images/chetiya.gif"/>
+    <tree text="09. विसालक्खीविमानं (3min.), 86p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 2328, 2539);" icon="images/chetiya.gif"/>
+    <tree text="10. पारिच्छत्तकविमानं (3min.), 88p" action="javascript:loadYoutubeStart('JeVA4LBMrV4', 2539);" icon="images/chetiya.gif"/>
+</tree>

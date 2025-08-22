@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. Паббатавагго (45min.), 140p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 0, 2667);" icon="images/chetiya.gif"/>
+    <tree text="02. Гила̄навагго (20min.), 162p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 2667, 3835);" icon="images/chetiya.gif"/>
+    <tree text="03. Уда̄йивагго (20min.), 172p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 3835, 5084);" icon="images/chetiya.gif"/>
+    <tree text="04. Нӣваран̣авагго (20min.), 184p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 5084, 6277);" icon="images/chetiya.gif"/>
+    <tree text="05. Чаккаваттивагго (15min.), 196p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 6277, 6976);" icon="images/chetiya.gif"/>
+    <tree text="06. Боджджхан̇гавагго" src="cS3-5-02-06.xml" />
+    <tree text="07. А̄на̄па̄навагго (8min.), 240p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 12037, 12538);" icon="images/chetiya.gif"/>
+    <tree text="08. Ниродхавагго (10min.), 246p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 12538, 13060);" icon="images/chetiya.gif"/>
+    <tree text="09. Ган̇га̄пеййа̄ло (2min.), 252p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13060, 13176);" icon="images/chetiya.gif"/>
+    <tree text="10. Аппама̄давагго (1min.), 252p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13176, 13226);" icon="images/chetiya.gif"/>
+    <tree text="11. Балакаран̣ӣйавагго (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13226, 13276);" icon="images/chetiya.gif"/>
+    <tree text="12. Есана̄вагго (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13276, 13328);" icon="images/chetiya.gif"/>
+    <tree text="13. Огхавагго (1min.), 254p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13328, 13379);" icon="images/chetiya.gif"/>
+    <tree text="14. Пунаган̇га̄пеййа̄ло (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13379, 13420);" icon="images/chetiya.gif"/>
+    <tree text="15. Пунааппама̄давагго (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13420, 13457);" icon="images/chetiya.gif"/>
+	<tree text="16. Пунабалакаран̣ӣйавагго (1min.), 256p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13457, 13495);" icon="images/chetiya.gif"/>
+    <tree text="17. Пунаесана̄вагго (1min.), 258p" action="javascript:loadYoutubeStartStop('3YHgOJvAxDw', 13495, 13533);" icon="images/chetiya.gif"/> 
+    <tree text="18. Пунаогхавагго (1min.), 258p" action="javascript:loadYoutubeStart('3YHgOJvAxDw', 13533);" icon="images/chetiya.gif"/>
+</tree>

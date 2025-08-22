@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ダッマサンガニッパカラナン (BJT 41)" src="jA1.xml" />
+	<tree text="2. ヴィバンガッパカラナン (BJT 42, 43)" src="jA2.xml" />
+	<tree text="3. ダートゥカターッパカラナン (BJT 47)" src="jA3.xml" />
+	<tree text="4. カターワットゥッパカラナン (BJT 44, 45, 46)" src="jA4.xml" />
+	<tree text="5. プッガラパンナッティッパカラナン (BJT 47)" src="jA5.xml" />
+	<tree text="6. ヤマカッパカラナン (BJT 48, 49i, 49ii)" src="jA6.xml" />
+	<tree text="7. パッターナッパカラナン (BJT 50, 51, 52)" src="jA7.xml" />
+</tree>

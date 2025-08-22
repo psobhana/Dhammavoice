@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. आगन्तुकवत्तं (15min), 334p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 0, 858);" icon="images/chetiya.gif"/>
+<tree text="02. आवासिकवत्तं (5min), 340p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 858, 1180);" icon="images/chetiya.gif"/>
+<tree text="03. गमिकवत्तं (10min), 344p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 1180, 1682);" icon="images/chetiya.gif"/>
+<tree text="04. भत्तग्गवत्तं (10min), 348p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 1682, 2380);" icon="images/chetiya.gif"/>
+<tree text="05. पिण्डचारिक वत्तं (10min), 354p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 2380, 2959);" icon="images/chetiya.gif"/>
+<tree text="06. आरञ्ञिकवत्तं (7min), 358p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 2959, 3406);" icon="images/chetiya.gif"/>
+<tree text="07. सेनासनवत्तं (10min), 362p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 3406, 4003);" icon="images/chetiya.gif"/>
+<tree text="08. जन्ताघरवत्तं (5min), 368p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 4003, 4331);" icon="images/chetiya.gif"/>
+<tree text="09. वच्चकुटिवत्तं (7min), 370p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 4331, 4765);" icon="images/chetiya.gif"/>
+<tree text="10. उपज्झायवत्तं (20min), 376p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 4765, 6142);" icon="images/chetiya.gif"/>
+<tree text="11. सद्धिविहारिकवत्तं (15min), 386p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 6142, 7038);" icon="images/chetiya.gif"/>
+<tree text="12. आचरियवत्तं (20min), 394p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 7038, 8400);" icon="images/chetiya.gif"/>
+<tree text="13. अन्तेवासिकवत्तं (15min), 404p" action="javascript:loadYoutubeStartStop('hFUL0pnnw7E', 8400, 9337);" icon="images/chetiya.gif"/>
+<tree text="14. तस्सुद्दानं (20min.), 410p" action="javascript:loadYoutubeStart('hFUL0pnnw7E', 9337);" icon="images/chetiya.gif"/>
+</tree>

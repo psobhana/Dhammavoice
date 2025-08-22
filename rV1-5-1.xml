@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. 바타머카티너시까바당 (10min.), 498p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 0, 639);" icon="images/chetiya.gif"/>
+    <tree text="02. 두티여카티너시까바당 (20min.), 502p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 639, 1942);" icon="images/chetiya.gif"/>
+    <tree text="03. 다티여카티너시까바당 (10min.), 512p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 1942, 2683);" icon="images/chetiya.gif"/>
+    <tree text="04. 부라너치와러시까바당 (10min.), 516p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 2683, 3238);" icon="images/chetiya.gif"/>
+    <tree text="05. 치와러바티까하너시까바당 (10min.), 522p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 3238, 3906);" icon="images/chetiya.gif"/>
+    <tree text="06. 안냐터커윈냤티시까바당 (10min.), 526p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 3906, 4655);" icon="images/chetiya.gif"/>
+    <tree text="07. 다툿타리시까바당 (10min.), 532p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 4655, 5065);" icon="images/chetiya.gif"/>
+    <tree text="08. 바타머우팍카더시까바당 (10min.), 536p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 5065, 5643);" icon="images/chetiya.gif"/>
+    <tree text="09. 두티여우팍카더시까바당 (10min.), 540p" action="javascript:loadYoutubeStartStop('MmpDLbYFAvo', 5643, 6263);" icon="images/chetiya.gif"/>
+	<tree text="10. 라저시까바당 (20min.), 546p" action="javascript:loadYoutubeStart('MmpDLbYFAvo', 6263);" icon="images/chetiya.gif"/>
+</tree>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .row {
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Header Line</h1>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Box One</h2>
+    <p>Text Box One</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Box Two</h2>
+    <p>Text Box Two</p>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Bottom Page with Text.</p>
+</div>
+
+</body>
+</html>
+

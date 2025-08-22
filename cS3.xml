@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. Сага̄тхавагго (SN 1, BJT 13)" src="cS3-1.xml" />
+<tree text="2. Нида̄навагго (SN 2, BJT 14)" src="cS3-2.xml" />
+<tree text="3. Кхандхакавагго (SN 3, BJT 15)" src="cS3-3.xml" />
+<tree text="4. Сал̣а̄йатанавагго (SN 4, BJT 16)" src="cS3-4.xml" />
+<tree text="5. Маха̄вагго (SN 5, 6, BJT 17.1, 17.2)" src="cS3-5.xml" />
+</tree>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. 波羅夷 (BJT 1)" src="iV1.xml" />
+<tree text="2. 波逸提 (BJT 2-i,ii)" src="iV2.xml" />
+<tree text="3. 大品 (BJT 3,4)" src="iV3.xml" />
+<tree text="4. 小品 (BJT 5-i,ii)" src="iV4.xml" />
+<tree text="5. 附篇 (BJT 6-i,ii)" src="iV5.xml" />
+</tree>

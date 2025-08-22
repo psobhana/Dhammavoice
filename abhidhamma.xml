@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ධම්මසඞ්‍ගනිප්‍පකරණං (BJT 41)" src="A1.xml" />
+	<tree text="2. විභඞ‍්ගප‍්පකරණං (BJT 42, 43)" src="A2.xml" />
+	<tree text="3. ධාතුකථාප‍්පකරණං (BJT 47)" src="A3.xml" />
+	<tree text="4. කථාවත්‍ථුප‍්පකරණං (BJT 44, 45, 46)" src="A4.xml" />
+	<tree text="5. පුග‍්ගලපඤ‍්ඤත‍්තිප‍්පකරණං (BJT 47)" src="A5.xml" />
+	<tree text="6. යමකප‍්පකරණං (BJT 48, 49i, 49ii)" src="A6.xml" />
+	<tree text="7. පට‍්ඨානප‍්පකරණං (BJT 50, 51, 52)" src="A7.xml" />
+</tree>

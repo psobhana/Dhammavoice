@@ -1,0 +1,20 @@
+
+@font-face { src: url('NotoSerifKhmer-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'cambodian'; }
+
+.cambodianfont{
+    font-family: cambodian;
+}
+
+
+.webfx-tree-item {
+  font-family: cambodian;
+  font-size: 14px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: sinhala;
+	font-size: 14px;
+}
+	
+

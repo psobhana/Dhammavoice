@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. 디거니카여 (장부 - 長部)" src="rS1.xml" />
+<tree text="2. 맞지머니키여 (중부 - 中部)" src="rS2.xml" />
+<tree text="3. 상응부 (相應部)" src="rS3.xml" />
+<tree text="4. 증지부(增支部)" src="rS4.xml" />
+<tree text="5. 쿳다카니카여(소부 - 小部)" src="rS5.xml" />
+</tree>

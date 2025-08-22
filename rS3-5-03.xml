@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. 암버파리왔고 (50min.), 260p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 0, 3055);" icon="images/chetiya.gif"/>
+    <tree text="02. 나란더왔고 (40min.), 286p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 3055, 5292);" icon="images/chetiya.gif"/>
+    <tree text="03. 시릿티티왔고 (25min.), 306p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 5292, 6727);" icon="images/chetiya.gif"/>
+    <tree text="04. 아누눗수터왔고 (15min.), 320p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 6727, 7704);" icon="images/chetiya.gif"/>
+    <tree text="05. 아머터왔고 (20min.), 330p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 7704, 8865);" icon="images/chetiya.gif"/>
+    <tree text="06. 강가베이여로왔고 (1min.), 340p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 8865, 8942);" icon="images/chetiya.gif"/>
+    <tree text="07. 아빠마더왔고 (1min.), 340p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 8942, 9004);" icon="images/chetiya.gif"/>
+    <tree text="08. 바러카라니여왔고 (1min.), 342p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 9004, 9066);" icon="images/chetiya.gif"/>
+    <tree text="09. 에스나왔고 (1min.), 342p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 9066, 9141);" icon="images/chetiya.gif"/>
+    <tree text="10. 오고왔고 (1min.), 344p" action="javascript:loadYoutubeStart('I97vuE1teNI', 9141);" icon="images/chetiya.gif"/>
+</tree>

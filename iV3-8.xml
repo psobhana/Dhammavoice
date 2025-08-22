@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. 耆婆" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 0, 795);" icon="images/chetiya.gif"/>
+<tree text="02. 長者婦" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 795, 1331);" icon="images/chetiya.gif"/>
+<tree text="03. 洗尼瓶沙王" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 1331, 1532);" icon="images/chetiya.gif"/>
+<tree text="04. 王舍長者" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 1532, 2105);" icon="images/chetiya.gif"/>
+<tree text="05. 長者子" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 2105, 2379);" icon="images/chetiya.gif"/>
+<tree text="06. 波羅殊提王 (" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 2379, 2931);" icon="images/chetiya.gif"/>
+<tree text="07. 尸毘布" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 2931, 3022);" icon="images/chetiya.gif"/>
+<tree text="08. 下劑" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 3022, 3420);" icon="images/chetiya.gif"/>
+<tree text="09. 許願" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 3420, 3678);" icon="images/chetiya.gif"/>
+<tree text="10. 欽婆羅衣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 3678, 3915);" icon="images/chetiya.gif"/>
+<tree text="11. 糞掃衣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 3915, 4150);" icon="images/chetiya.gif"/>
+<tree text="12. 受納人" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 4150, 4358);" icon="images/chetiya.gif"/>
+<tree text="13. 收藏人" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 4358, 4713);" icon="images/chetiya.gif"/>
+<tree text="14. 染色" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 4713, 4984);" icon="images/chetiya.gif"/>
+<tree text="15. 割截衣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 4984, 5138);" icon="images/chetiya.gif"/>
+<tree text="16. 三衣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 5138, 5444);" icon="images/chetiya.gif"/>
+<tree text="17. 蓄長衣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 5444, 5769);" icon="images/chetiya.gif"/>
+<tree text="18. 毘舍佉" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 5769, 6805);" icon="images/chetiya.gif"/>
+<tree text="19. 坐具" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 6805, 7412);" icon="images/chetiya.gif"/>
+<tree text="20. 五種緣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 7412, 7932);" icon="images/chetiya.gif"/>
+<tree text="21. 僧伽" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 7932, 8306);" icon="images/chetiya.gif"/>
+<tree text="22. 優波難陀" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 8306, 8702);" icon="images/chetiya.gif"/>
+<tree text="23. 生病" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 8702, 9253);" icon="images/chetiya.gif"/>
+<tree text="24. 遺物" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 9253, 9662);" icon="images/chetiya.gif"/>
+<tree text="25. 裸形" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 9662, 9766);" icon="images/chetiya.gif"/>
+<tree text="26. 外道相" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 9766, 10000);" icon="images/chetiya.gif"/>
+<tree text="27. 在家相" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 10000, 10182);" icon="images/chetiya.gif"/>
+<tree text="28. 未得衣" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 10182, 10533);" icon="images/chetiya.gif"/>
+<tree text="29. 僧破" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 10533, 10638);" icon="images/chetiya.gif"/>
+<tree text="30. 拿錯" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 10638, 11007);" icon="images/chetiya.gif"/>
+<tree text="31. 八事" action="javascript:loadYoutubeStartStop('bIEtM7o9-P0', 11007, 11123);" icon="images/chetiya.gif"/>
+<tree text="32. Uddānagāthā" action="javascript:loadYoutubeStart('bIEtM7o9-P0', 11123);" icon="images/chetiya.gif"/>
+</tree>

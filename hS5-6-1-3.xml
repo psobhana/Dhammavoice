@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. อุฬารวิมานํ (4min.), 60p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 0, 234);" icon="images/chetiya.gif"/>
+    <tree text="02. อุจฺฉุทายิกาวิมานํ (4min.), 62p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 234, 460);" icon="images/chetiya.gif"/>
+    <tree text="03. ปลฺลงฺกวิมานํ (3min.), 64p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 460, 647);" icon="images/chetiya.gif"/>
+    <tree text="04. ลตาวิมานํ (3min.), 66p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 647, 865);" icon="images/chetiya.gif"/>
+    <tree text="05. คุตฺติลวิมานํ (10min.), 70p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 865, 1540);" icon="images/chetiya.gif"/>
+    <tree text="06. ททฺทลฺลวิมานํ (7min.), 76p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 1540, 1977);" icon="images/chetiya.gif"/>
+    <tree text="07. เสสวตีวิมานํ (4min.), 80p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 1977, 2197);" icon="images/chetiya.gif"/>
+    <tree text="08. มลฺลิกาวิมานํ (3min.), 84p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 2197, 2328);" icon="images/chetiya.gif"/>
+    <tree text="09. วิสาลกฺขีวิมานํ (3min.), 86p" action="javascript:loadYoutubeStartStop('JeVA4LBMrV4', 2328, 2539);" icon="images/chetiya.gif"/>
+    <tree text="10. ปาริจฺฉตฺตกวิมานํ (3min.), 88p" action="javascript:loadYoutubeStart('JeVA4LBMrV4', 2539);" icon="images/chetiya.gif"/>
+</tree>

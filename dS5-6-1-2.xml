@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ទាសីវិមានំ (4min.), 36p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 0, 247);" icon="images/chetiya.gif"/>
+    <tree text="02. លខុមាវិមានំ (4min.), 38p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 247, 472);" icon="images/chetiya.gif"/>
+    <tree text="03. អាចាមទាយិកាវិមានំ (2min.), 40p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 472, 650);" icon="images/chetiya.gif"/>
+    <tree text="04. ចណ្ឌាលីវិមានំ (3min.), 42p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 650, 830);" icon="images/chetiya.gif"/>
+    <tree text="05. ភទ្ទិត្ថិវិមានំ (3min.), 44p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 830, 1008);" icon="images/chetiya.gif"/>
+    <tree text="06. សោណទិន្នាវិមានំ (3min.), 46p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1008, 1210);" icon="images/chetiya.gif"/>
+    <tree text="07. ឧបោសថាវិមានំ (4min.), 48p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1210, 1478);" icon="images/chetiya.gif"/>
+    <tree text="08. សទ្ធាវិមានំ (3min.), 52p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1478, 1669);" icon="images/chetiya.gif"/>
+    <tree text="09. សុនន្ទាវិមានំ (3min.), 54p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1669, 1856);" icon="images/chetiya.gif"/>
+    <tree text="10. ភិក្ខាទាយិកាវិមានំ (2min.), 56p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1856, 1982);" icon="images/chetiya.gif"/>
+    <tree text="11. ទុតិយភិក្ខាទាយិកាវិមានំ (3min.), 56p" action="javascript:loadYoutubeStart('p0_e_H2vOs0', 1982);" icon="images/chetiya.gif"/>
+</tree>

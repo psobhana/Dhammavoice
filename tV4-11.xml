@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. སཾགཱིཏི ནིདཱནཾ (15min.), 544p" action="javascript:loadYoutubeStartStop('s1k0zE4Nl10', 0, 951);" icon="images/chetiya.gif"/>
+<tree text="2. ཁུདྡཱནུཁུདྡཀསིཀྑཱཔདཀཐཱ (10min.), 552p" action="javascript:loadYoutubeStartStop('s1k0zE4Nl10', 951, 1660);" icon="images/chetiya.gif"/>
+<tree text="3. བྲཧྨདཎྜཀཐཱ (10min.), 558p" action="javascript:loadYoutubeStartStop('s1k0zE4Nl10', 1660, 2378);" icon="images/chetiya.gif"/>
+<tree text="4. ཏསྶུདྡཱནཾ (2min.), 564p" action="javascript:loadYoutubeStart('s1k0zE4Nl10', 2378);" icon="images/chetiya.gif"/>
+</tree>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. อมฺพปาลิวคฺโค (50min.), 260p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 0, 3055);" icon="images/chetiya.gif"/>
+    <tree text="02. นาลนฺทาวคฺโค (40min.), 286p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 3055, 5292);" icon="images/chetiya.gif"/>
+    <tree text="03. สีลฏฺิติวคฺโค (25min.), 306p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 5292, 6727);" icon="images/chetiya.gif"/>
+    <tree text="04. อนนุสฺสุตวคฺโค (15min.), 320p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 6727, 7704);" icon="images/chetiya.gif"/>
+    <tree text="05. อมตวคฺโค (20min.), 330p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 7704, 8865);" icon="images/chetiya.gif"/>
+    <tree text="06. คงฺคาเปยฺยาลวคฺโค (1min.), 340p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 8865, 8942);" icon="images/chetiya.gif"/>
+    <tree text="07. อปฺปมาทวคฺโค (1min.), 340p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 8942, 9004);" icon="images/chetiya.gif"/>
+    <tree text="08. พลกรณียวคฺโค (1min.), 342p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 9004, 9066);" icon="images/chetiya.gif"/>
+    <tree text="09. เอสนาวคฺโค (1min.), 342p" action="javascript:loadYoutubeStartStop('I97vuE1teNI', 9066, 9141);" icon="images/chetiya.gif"/>
+    <tree text="10. โอฆวคฺโค (1min.), 344p" action="javascript:loadYoutubeStart('I97vuE1teNI', 9141);" icon="images/chetiya.gif"/>
+</tree>

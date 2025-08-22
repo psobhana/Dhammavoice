@@ -1,0 +1,24 @@
+
+for %f in (?V4-8.xml) do (replace.py "%f" DvUSu2uN4Uo hFUL0pnnw7E)
+
+Use this command. Copy the files to a folder and can use *.xml etc.
+
+===
+
+To add a file list to the command
+for /f "delims=" %f in (filelist.txt) do (replace.py "%f" DvUSu2uN4Uo hFUL0pnnw7E)
+
+---
+filelist.txt
+
+aV4-8.xml
+bV4-8.xml
+cV4-8.xml
+
+----
+
+dir /b *V4-8.xml > filelist.txt
+
+this generates the filelist.txt 
+/b: Uses "bare" format (just filenames, no size/date info).
+

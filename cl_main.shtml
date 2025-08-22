@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--#include file="cl_header.html" -->
+</head>
+<body>
+
+<!-- Side Bar Start -->
+<!--#include file="cl_left_menu.html" -->
+<!-- Side Bar end -->
+
+
+<div id="main">
+
+  <button class="openbtn" onclick="openNav()">☰ </button>
+
+</div>
+
+
+
+<div class="header">
+  <h1>Dhamma Articles</h1>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#f1f1f1;">
+    
+  
+	<div class="container">
+  <img src="images/cl_main.jpg">
+  
+</div>
+  </div>
+  
+  
+  <div class="column" style="background-color:#f1f1f1;">
+   
+    <p>Articles written by various authors.</p>
+	
+  </div>
+</div>
+
+<!-- Article links Start -->
+<div class="footer">
+
+<div class="menu2">
+<ul>
+<li><a href="cl_nayaka_sin.shtml">Madihe Pannaseeha Mahanayaka Thero</a></li>
+<li><a href="cl_dhammavihari_eng.shtml">Professor Dhammavihari Thero</a></li> 
+<li><a href="cl_dhammagaru_eng.shtml">Usgoda Dhammagaru Thero</a></li>
+</ul>
+</div>
+<!-- Article links End -->
+
+
+</div>
+
+</body>
+</html>
+

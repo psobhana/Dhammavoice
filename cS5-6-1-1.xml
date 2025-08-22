@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. Пат̣хамапӣт̣хавима̄нам̣ (2min.), 2p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 0, 145);" icon="images/chetiya.gif"/>
+    <tree text="02. Дутийапӣт̣хавима̄нам̣ (2min.), 2p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 145, 273);" icon="images/chetiya.gif"/>
+    <tree text="03. Татийапӣт̣хавима̄нам̣ (2min.), 4p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 273, 415);" icon="images/chetiya.gif"/>
+    <tree text="04. Чатуттхапӣт̣хавима̄нам̣ (2min.), 6p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 415, 557);" icon="images/chetiya.gif"/>
+    <tree text="05. Кун̃джаравима̄нам̣ (3min.), 8p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 557, 745);" icon="images/chetiya.gif"/>
+    <tree text="06. Пат̣хамана̄ва̄вима̄нам̣ (3min.), 10p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 745, 922);" icon="images/chetiya.gif"/>
+    <tree text="07. Дутийана̄ва̄вима̄нам̣ (3min.), 12p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 922, 1097);" icon="images/chetiya.gif"/>
+    <tree text="08. Татийана̄ва̄вима̄нам̣ (3min.), 14p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1097, 1300);" icon="images/chetiya.gif"/>
+    <tree text="09. Дӣпавима̄нам̣ (3min.), 16p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1300, 1470);" icon="images/chetiya.gif"/>
+    <tree text="10. Тиладаккхин̣а̄вима̄нам̣ (2min.), 18p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1470, 1605);" icon="images/chetiya.gif"/>
+    <tree text="11. Патиббата̄вима̄нам̣ (2min.), 20p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1605, 1751);" icon="images/chetiya.gif"/>
+    <tree text="12. Дутийапатиббата̄вима̄нам̣ (2min.), 22p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1751, 1888);" icon="images/chetiya.gif"/>
+    <tree text="13. Сун̣иса̄вима̄нам̣ (2min.), 24p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 1888, 2026);" icon="images/chetiya.gif"/>
+    <tree text="14. Дутийасун̣иса̄вима̄нам̣ (2min.), 24p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 2026, 2161);" icon="images/chetiya.gif"/>
+    <tree text="15. Уттара̄вима̄нам̣ (4min.), 26p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 2161, 2385);" icon="images/chetiya.gif"/>
+    <tree text="16. Сирима̄вима̄нам̣ (4min.), 28p" action="javascript:loadYoutubeStartStop('MCmLkE330EQ', 2385, 2640);" icon="images/chetiya.gif"/>
+    <tree text="17. Кесака̄рӣвима̄нам̣ (3min.), 32p" action="javascript:loadYoutubeStart('MCmLkE330EQ', 2640);" icon="images/chetiya.gif"/>
+</tree>

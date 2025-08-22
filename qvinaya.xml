@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+   <tree text="1. ᨸᩣᩁᩣᨩᩥᨠᨸᩣᩊᩥ (BJT 1)" src="qV1.xml" />
+   <tree text="2. ᨸᩣᨧᩥᨲ᩠ᨲᩥᨿᨸᩣᩊᩥ (BJT 2-i,ii)" src="qV2.xml" />
+   <tree text="3. ᨾᩉᩣᩅᨣ᩠ᨣᨸᩣᩊᩥ (BJT 3,4)" src="qV3.xml" />
+   <tree text="4. ᨧᩩᩃ᩠ᩃᩅᨣ᩠ᨣᨸᩣᩊᩥ (BJT 5-i,ii)" src="qV4.xml" />
+   <tree text="5. ᨸᩁᩥᩅᩣᩁᨸᩣᩊᩥ (BJT 6-i,ii)" src="qV5.xml" />
+</tree>

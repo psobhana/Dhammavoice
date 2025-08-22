@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. Дхаммасан̇ганиппакаран̣ам̣ (BJT 41)" src="cA1.xml" />
+	<tree text="2. Вибхан̇гаппакаран̣ам̣ (BJT 42, 43)" src="cA2.xml" />
+	<tree text="3. Дха̄тукатха̄ппакаран̣ам̣ (BJT 47)" src="cA3.xml" />
+	<tree text="4. Катха̄ваттхуппакаран̣ам̣ (BJT 44, 45, 46)" src="cA4.xml" />
+	<tree text="5. Пуггалапан̃н̃аттиппакаран̣ам̣ (BJT 47)" src="cA5.xml" />
+	<tree text="6. Йамакаппакаран̣ам̣ (BJT 48, 49i, 49ii)" src="cA6.xml" />
+	<tree text="7. Пат̣т̣ха̄наппакаран̣ам̣ (BJT 50, 51, 52)" src="cA7.xml" />
+</tree>

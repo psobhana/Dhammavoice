@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="01. ཁེཏྟཱུཔམཔེཏཝཏྠུ (1min.), 2p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 0, 67);" icon="images/chetiya.gif"/>
+    <tree text="02. སཱུཀརམུཁཔེཏཝཏྠུ (1min.), 2p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 67, 126);" icon="images/chetiya.gif"/>
+    <tree text="03. པཱུཏིམུཁཔེཏཝཏྠུ (1min.), 4p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 126, 195);" icon="images/chetiya.gif"/>
+    <tree text="04. པིཊྛདྷཱིཏལིཀཔེཏཝཏྠུ (1min.), 4p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 195, 275);" icon="images/chetiya.gif"/>
+    <tree text="05. ཏིརོཀུཌྜཔེཏཝཏྠུ (3min.), 6p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 275, 481);" icon="images/chetiya.gif"/>
+    <tree text="06. པཉྩཔུཏྟཁཱདཀཔེཏཝཏྠུ (2min.), 8p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 481, 634);" icon="images/chetiya.gif"/>
+    <tree text="07. སཏྟཔུཏྟཁཱདཀཔེཏཝཏྠུ (3min.), 8p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 634, 808);" icon="images/chetiya.gif"/>
+    <tree text="08. གོཎཔེཏཝཏྠུ (2min.), 10p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 808, 936);" icon="images/chetiya.gif"/>
+    <tree text="09. མཧཱཔེསཀཱརཔེཏཝཏྠུ (2min.), 12p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 936, 1031);" icon="images/chetiya.gif"/>
+    <tree text="10. ཁལླཱཊིཡཔེཏཝཏྠུ (4min.), 14p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 1031, 1275);" icon="images/chetiya.gif"/>
+    <tree text="11. ནཱགཔེཏཝཏྠུ (4min.), 16p" action="javascript:loadYoutubeStartStop('TdSblrGB3gw', 1275, 1514);" icon="images/chetiya.gif"/>
+    <tree text="12. ཨུརགཔེཏཝཏྠུ (3min.), 18p" action="javascript:loadYoutubeStart('TdSblrGB3gw', 1514);" icon="images/chetiya.gif"/>
+</tree>

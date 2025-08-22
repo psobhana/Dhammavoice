@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ธมฺมสงฺคนิปฺปกรณํ (BJT 41)" src="hA1.xml" />
+	<tree text="2. วิภงฺคปฺปกรณํ (BJT 42, 43)" src="hA2.xml" />
+	<tree text="3. ธาตุกถาปฺปกรณํ (BJT 47)" src="hA3.xml" />
+	<tree text="4. กถาวตฺถุปฺปกรณํ (BJT 44, 45, 46)" src="hA4.xml" />
+	<tree text="5. ปุคฺคลปฺตฺติปฺปกรณํ (BJT 47)" src="hA5.xml" />
+	<tree text="6. ยมกปฺปกรณํ (BJT 48, 49i, 49ii)" src="hA6.xml" />
+	<tree text="7. ปฏฺานปฺปกรณํ (BJT 50, 51, 52)" src="hA7.xml" />
+</tree>

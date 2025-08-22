@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. মাতিকা" src="gA1-1.xml" />
+	<tree text="2. চিত্তুপ্পাদকণ্ডং" src="gA1-2.xml" />
+	<tree text="3. রূপকণ্ডং" src="gA1-3.xml" />
+	<tree text="4. নিক্খেপকণ্ডং" src="gA1-4.xml" />
+	<tree text="5. অট্ঠকথাকণ্ডং" src="gA1-5.xml" />
+</tree>

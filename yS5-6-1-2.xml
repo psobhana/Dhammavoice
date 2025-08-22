@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="01. ﻿دَاسِيفِمَانَمْ (4min.), 36p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 0, 247);" icon="images/chetiya.gif"/>
+<tree text="02. لَكُمَافِمَانَمْ (4min.), 38p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 247, 472);" icon="images/chetiya.gif"/>
+<tree text="03. آتشَامَدَايِكَافِمَانَمْ (2min.), 40p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 472, 650);" icon="images/chetiya.gif"/>
+<tree text="04. تشَنْدَالِيفِمَانَمْ (3min.), 42p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 650, 830);" icon="images/chetiya.gif"/>
+<tree text="05. بَدِّتِّفِمَانَمْ (3min.), 44p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 830, 1008);" icon="images/chetiya.gif"/>
+<tree text="06. سُونَدِنَّافِمَانَمْ (3min.), 46p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1008, 1210);" icon="images/chetiya.gif"/>
+<tree text="07. أُبُوسَتَافِمَانَمْ (4min.), 48p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1210, 1478);" icon="images/chetiya.gif"/>
+<tree text="08. سَدَّافِمَانَمْ (3min.), 52p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1478, 1669);" icon="images/chetiya.gif"/>
+<tree text="09. سُنَنْدَافِمَانَمْ (3min.), 54p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1669, 1856);" icon="images/chetiya.gif"/>
+<tree text="10. بِكَّادَايِكَافِمَانَمْ (2min.), 56p" action="javascript:loadYoutubeStartStop('p0_e_H2vOs0', 1856, 1982);" icon="images/chetiya.gif"/>
+<tree text="11. دُتِيَبِكَّادَايِكَافِمَانَمْ (3min.), 56p" action="javascript:loadYoutubeStart('p0_e_H2vOs0', 1982);" icon="images/chetiya.gif"/>
+</tree>

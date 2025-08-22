@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+<tree text="1. ﻿သမ္မုခါဝိနယော (15min.), 332p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 0, 822);" icon="images/chetiya.gif"/>
+<tree text="2. သတိဝိနယော (30min.), 338p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 822, 2578);" icon="images/chetiya.gif"/>
+<tree text="3. အမူဠှဝိနယော (15min.), 350p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 2578, 3480);" icon="images/chetiya.gif"/>
+<tree text="4. ပဋိညာတကရဏံ (5min.), 356p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 3480, 3878);" icon="images/chetiya.gif"/>
+<tree text="5. ယေဘုယျသိကာ (5min.), 360p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 3878, 4108);" icon="images/chetiya.gif"/>
+<tree text="6. တဿပါပိယျသိကာ (10min.), 362p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 4108, 4721);" icon="images/chetiya.gif"/>
+<tree text="7. တိဏဝတ္ထာရကံ (10min.), 370p" action="javascript:loadYoutubeStartStop('2wO_xnc59Mw', 4721);" icon="images/chetiya.gif"/>
+<tree text="8. စတ္တာရိ အဓိကရဏာနိ" src="bV4-4-1.xml" />
+</tree>

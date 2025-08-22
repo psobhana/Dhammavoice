@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+    <tree text="1. ਸਗਾਥਵਗ੍ਗੋ (SN 1, BJT 13)" src="pS3-1.xml" />
+    <tree text="2. ਨਿਦਾਨਵਗ੍ਗੋ (SN 2, BJT 14)" src="pS3-2.xml" />
+    <tree text="3. ਖਨ੍ਧਕਵਗ੍ਗੋ (SN 3, BJT 15)" src="pS3-3.xml" />
+    <tree text="4. ਸਲ਼ਾਯਤਨਵਗ੍ਗੋ (SN 4, BJT 16)" src="pS3-4.xml" />
+    <tree text="5. ਮਹਾਵਗ੍ਗੋ (SN 5, 6, BJT 17.1, 17.2)" src="pS3-5.xml" />
+</tree>

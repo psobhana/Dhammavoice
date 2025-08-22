@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tree>
+	<tree text="1. ធម្មសង្គនិប្បករណំ (BJT 41)" src="dA1.xml" />
+	<tree text="2. វិភង្គប្បករណំ (BJT 42, 43)" src="dA2.xml" />
+	<tree text="3. ធាតុកថាប្បករណំ (BJT 47)" src="dA3.xml" />
+	<tree text="4. កថាវត្ថុប្បករណំ (BJT 44, 45, 46)" src="dA4.xml" />
+	<tree text="5. បុគ្គលបញ្ញត្តិប្បករណំ (BJT 47)" src="dA5.xml" />
+	<tree text="6. យមកប្បករណំ (BJT 48, 49i, 49ii)" src="dA6.xml" />
+	<tree text="7. បដ្ឋានប្បករណំ (BJT 50, 51, 52)" src="dA7.xml" />
+</tree> 
