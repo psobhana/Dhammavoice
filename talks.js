@@ -1,4 +1,109 @@
 
+//Search begin
+
+// floating search box
+document.addEventListener("DOMContentLoaded", function () {
+  const toggleBtn = document.getElementById("toggleSearchBtn");
+  const floatingBox = document.getElementById("floatingSearch");
+
+  toggleBtn.addEventListener("click", function () {
+    if (floatingBox.style.display === "none") {
+      floatingBox.style.display = "block";
+    } else {
+      floatingBox.style.display = "none";
+    }
+  });
+});
+
+// search
+
+document.addEventListener("DOMContentLoaded", function () {
+  let searchIndex = -1;
+  let matches = [];
+  let searchInput = document.getElementById("searchText");
+  let counter = document.getElementById("counter");
+
+  function clearHighlights() {
+    let marks = document.querySelectorAll("mark.search-highlight");
+    marks.forEach(m => {
+      let parent = m.parentNode;
+      parent.replaceChild(document.createTextNode(m.textContent), m);
+      parent.normalize();
+    });
+  }
+
+  function highlightAll(text) {
+    clearHighlights();
+    matches = [];
+    searchIndex = -1;
+    if (!text) {
+      counter.textContent = "0 of 0";
+      return;
+    }
+
+    let regex = new RegExp(text, "gi");
+    let walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+
+    while (walker.nextNode()) {
+      let node = walker.currentNode;
+      if (node.parentNode && !["SCRIPT", "STYLE"].includes(node.parentNode.nodeName)) {
+        let match;
+        while ((match = regex.exec(node.textContent))) {
+          let mark = document.createElement("mark");
+          mark.className = "search-highlight";
+          let start = match.index;
+          let end = regex.lastIndex;
+          let before = node.textContent.slice(0, start);
+          let middle = node.textContent.slice(start, end);
+          let after = node.textContent.slice(end);
+          let afterNode = document.createTextNode(after);
+          mark.textContent = middle;
+          let frag = document.createDocumentFragment();
+          if (before) frag.appendChild(document.createTextNode(before));
+          frag.appendChild(mark);
+          frag.appendChild(afterNode);
+          node.parentNode.replaceChild(frag, node);
+          walker.currentNode = afterNode;
+          matches.push(mark);
+        }
+      }
+    }
+    counter.textContent = matches.length ? `1 of ${matches.length}` : "0 of 0";
+  }
+
+  function scrollToMatch(i) {
+    if (matches.length > 0) {
+      matches.forEach(m => m.classList.remove("active-match"));
+      matches[i].classList.add("active-match");
+      matches[i].scrollIntoView({ behavior: "smooth", block: "center" });
+      counter.textContent = `${i + 1} of ${matches.length}`;
+    }
+  }
+
+  document.getElementById("btnSearch").addEventListener("click", function () {
+    highlightAll(searchInput.value.trim());
+    if (matches.length > 0) {
+      searchIndex = 0;
+      scrollToMatch(searchIndex);
+    }
+  });
+
+  document.getElementById("btnNext").addEventListener("click", function () {
+    if (matches.length > 0) {
+      searchIndex = (searchIndex + 1) % matches.length;
+      scrollToMatch(searchIndex);
+    }
+  });
+
+  document.getElementById("btnPrev").addEventListener("click", function () {
+    if (matches.length > 0) {
+      searchIndex = (searchIndex - 1 + matches.length) % matches.length;
+      scrollToMatch(searchIndex);
+    }
+  });
+});
+
+//Search end
 
 //Youtube loaders
 

@@ -72,6 +72,21 @@
 <ul>
 <li><a href="tk_dhammagaru_savanata_sin.shtml">සවනට බුදුබණ</a></li>
 <li><a href="tk_dhammagaru.shtml">←</a></li>
+
+<li>
+  <!-- Toggle button -->
+  <button id="toggleSearchBtn">🔍 Search</button>
+
+  <!-- Floating search box, hidden at start -->
+  <div class="search-box" id="floatingSearch" style="display:none;">
+    <input id="searchText" placeholder="Find on page…" />
+    <button id="btnSearch">Search</button>
+    <button id="btnPrev"><</button>
+    <button id="btnNext">></button>
+    <span id="counter">0 of 0</span>
+  </div>
+</li>
+
 </ul>
 </div>
 <!-- Article links End -->
