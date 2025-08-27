@@ -27,7 +27,10 @@ mark.active-match { background: orange; }
   cursor:pointer;
 }
 
-
+.unstyled-button .icon {
+      width: 16px;
+      height: 16px;
+    }
 
 
 /*hiding menu */

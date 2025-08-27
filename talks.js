@@ -1,4 +1,24 @@
 
+//Share icon
+function sharePage(videoID2) {
+      const url = 'https://www.youtube.com/watch?v=' + videoID2;
+
+      if (navigator.share) {
+        navigator.share({
+          title: document.title,
+          text: "",
+          url: url
+        })
+        .then(() => console.log(""))
+        .catch((error) => console.log("Error sharing:", error));
+      } else {
+        navigator.clipboard.writeText(url).then(() => {
+          alert("Link copied to clipboard!");
+        });
+      }
+    }
+
+
 //Search begin
 
 // floating search box

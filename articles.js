@@ -1,3 +1,23 @@
+
+//Share file icon
+function shareFile(fileID) {
+      const url = fileID;
+
+      if (navigator.share) {
+        navigator.share({
+          title: document.title,
+          text: "",
+          url: url
+        })
+        .then(() => console.log(""))
+        .catch((error) => console.log("Error sharing:", error));
+      } else {
+        navigator.clipboard.writeText(url).then(() => {
+          alert("Link copied to clipboard!");
+        });
+      }
+    }
+
 //Search begin
 
 // floating search box

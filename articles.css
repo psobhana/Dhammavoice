@@ -17,6 +17,22 @@ mark.search-highlight { background: yellow; padding: 0; }
 mark.active-match { background: orange; }
 /*search box end*/
 
+
+.unstyled-button {
+  border: none;
+  padding: 0;
+  background: none;
+  font-size: 16px;
+  text-align: left;
+  cursor:pointer;
+}
+
+.unstyled-button .icon {
+      width: 16px;
+      height: 16px;
+    }
+	
+	
 /*hiding menu */
 
 
