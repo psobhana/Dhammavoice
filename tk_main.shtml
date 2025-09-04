@@ -15,17 +15,15 @@
 <div id="main">
 
   <button class="openbtn" onclick="openNav()">☰ </button>
-
+<!--#include file="theme_buttons.html" -->
 </div>
-
-
 
 <div class="header">
   <h1>Dhamma Talks</h1>
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
     
   
 	<div class="container">
@@ -35,7 +33,7 @@
   </div>
   
   
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
    
     <p>Listen to Dhamma talks in Sinhala and English by various renowned Buddhist teachers. Listen to Pirit Chants.</p>
 	

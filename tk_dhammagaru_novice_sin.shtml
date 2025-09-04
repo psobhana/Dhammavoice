@@ -15,19 +15,19 @@
 <div id="main">
 
   <button class="openbtn" onclick="openNav()">☰ </button>
-
+<!--#include file="theme_buttons.html" -->
 </div>
 
 
 
 <div class="header">
-  <h1>උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ</h1>
+   <h1>උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ</h1>
   <p style="font-size:12px">(Royal Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>
   <h2>නවකයන් සඳහා බුදුදහම</h2>
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
     
   
 	<div class="center" class="container">    
@@ -41,7 +41,7 @@
   </div>
   
   
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
    
     <p>
 	

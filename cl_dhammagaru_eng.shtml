@@ -15,7 +15,7 @@
 <div id="main">
 
   <button class="openbtn" onclick="openNav()">☰ </button>
-
+<!--#include file="theme_buttons.html" -->
 </div>
 
 
@@ -27,7 +27,7 @@
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
     
   
 	<div class="container">
@@ -37,7 +37,7 @@
   </div>
   
   
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
    
     <p>
 	
@@ -71,7 +71,8 @@
 <li><a href="tk_dhammagaru.shtml">←</a></li>
 <li>
   <!-- Toggle button -->
-  <button id="toggleSearchBtn">🔍 Search</button>
+  <div class="search-button2">
+<div><button id="toggleSearchBtn">🔍 Search</button></div>
 
   <!-- Floating search box, hidden at start -->
   <div class="search-box" id="floatingSearch" style="display:none;">
@@ -80,7 +81,7 @@
     <button id="btnPrev"><</button>
     <button id="btnNext">></button>
     <span id="counter">0 of 0</span>
-  </div>
+  </div></div>
 </li>
 </ul>
 </div>

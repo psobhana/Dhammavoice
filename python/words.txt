@@ -1,35 +1,35 @@
-01. 01. 01. 01. Phāsuka-Aphāsuka Vihārādikathā
-02. 02. 02. 02. Pavāraṇavidhi Anujānanā
-03. 03. 03. 03. Dve Pavāraṇā
-04. 04. 04. 04. Cattāri Pavāraṇakammāni
-05. 05. 05. 05. Pavāraṇadānaṃ
-06. 06. 06. 06. Chandadānaṃ
-07. 07. 07. 07. Ñātakādiggahaṇaṃ
-08. 08. 08. 08. Saṅghapavāraṇādi Pavāraṇabhedā
-09. 09. 09. 09. Āpattipaṭikammaṃ
-10. 10. 10. 10. Āpatti Āvīkaraṇaṃ
-11. 11. 11. 11. Sabhāgāpattipaṭikammaṃ
-12. 12. 12. 12. Anāpattipaṇṇarasakaṃ
-13. 13. 13. 13. Vaggāvaggasaññīpaṇṇarasakaṃ
-14. 14. 14. 14. Vematikapaṇṇarasakaṃ
-15. 15. 15. 15. Kukkuccapakatapaṇṇarasakaṃ
-16. 16. 16. 16. Bhedapurekkhārapaṇṇarasakaṃ
-17. 17. 17. 17. Sīmokkantikapeyyālaṃ
-18. 18. 18. 18. Cātuddasikādi Divasanānattaṃ
-19. 19. 19. 19. Āvāsikākāra Liṅgādidassanaṃ
-20. 20. 20. 20. Nānāsaṃvāsakādīhi Pavāraṇā
-21. 21. 21. 21. Na Gantabbavārā
-22. 22. 22. 22. Gantabbavārā
-23. 23. 23. 23. Vajjanīyapuggaladassanaṃ
-24. 24. 24. 24. Dvevācikādipavāraṇā
-25. 25. 25. 25. Pavāraṇassa Antarāyā
-26. 26. 26. 26. Pavāraṇaṭṭhapanaṃ
-27. 27. 27. 27. Thullaccayavatthu
-28. 28. 28. 28. Vatthuṭhapanaṃ
-29. 29. 29. 29. Bhaṇḍanakārakavatthu
-30. 30. 30. 30. Phāsuvihārādhigamo
-31. 31. 31. 31. Pavāraṇasaṅgahā
-32. 32. 32. 32. Uddānagāthā
+01. 01. 01. 01. 01. Phāsuka-Aphāsuka Vihārādikathā
+02. 02. 02. 02. 02. Pavāraṇavidhi Anujānanā
+03. 03. 03. 03. 03. Dve Pavāraṇā
+04. 04. 04. 04. 04. Cattāri Pavāraṇakammāni
+05. 05. 05. 05. 05. Pavāraṇadānaṃ
+06. 06. 06. 06. 06. Chandadānaṃ
+07. 07. 07. 07. 07. Ñātakādiggahaṇaṃ
+08. 08. 08. 08. 08. Saṅghapavāraṇādi Pavāraṇabhedā
+09. 09. 09. 09. 09. Āpattipaṭikammaṃ
+10. 10. 10. 10. 10. Āpatti Āvīkaraṇaṃ
+11. 11. 11. 11. 11. Sabhāgāpattipaṭikammaṃ
+12. 12. 12. 12. 12. Anāpattipaṇṇarasakaṃ
+13. 13. 13. 13. 13. Vaggāvaggasaññīpaṇṇarasakaṃ
+14. 14. 14. 14. 14. Vematikapaṇṇarasakaṃ
+15. 15. 15. 15. 15. Kukkuccapakatapaṇṇarasakaṃ
+16. 16. 16. 16. 16. Bhedapurekkhārapaṇṇarasakaṃ
+17. 17. 17. 17. 17. Sīmokkantikapeyyālaṃ
+18. 18. 18. 18. 18. Cātuddasikādi Divasanānattaṃ
+19. 19. 19. 19. 19. Āvāsikākāra Liṅgādidassanaṃ
+20. 20. 20. 20. 20. Nānāsaṃvāsakādīhi Pavāraṇā
+21. 21. 21. 21. 21. Na Gantabbavārā
+22. 22. 22. 22. 22. Gantabbavārā
+23. 23. 23. 23. 23. Vajjanīyapuggaladassanaṃ
+24. 24. 24. 24. 24. Dvevācikādipavāraṇā
+25. 25. 25. 25. 25. Pavāraṇassa Antarāyā
+26. 26. 26. 26. 26. Pavāraṇaṭṭhapanaṃ
+27. 27. 27. 27. 27. Thullaccayavatthu
+28. 28. 28. 28. 28. Vatthuṭhapanaṃ
+29. 29. 29. 29. 29. Bhaṇḍanakārakavatthu
+30. 30. 30. 30. 30. Phāsuvihārādhigamo
+31. 31. 31. 31. 31. Pavāraṇasaṅgahā
+32. 32. 32. 32. 32. Uddānagāthā
 
 
 

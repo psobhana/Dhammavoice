@@ -15,7 +15,7 @@
 <div id="main">
 
   <button class="openbtn" onclick="openNav()">☰ </button>
-
+<!--#include file="theme_buttons.html" -->
 </div>
 
 
@@ -26,7 +26,7 @@
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);"">
     
   
 	<div class="center" class="container">    
@@ -37,7 +37,7 @@
   </div>
   
   
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
    
     <p>
 	මහරගම සිරි වජිරඤාණ ධර්මායතනාධිකාරීව වැඩ විසූ මුන් වහන්සේ අද දින ලොව පුරා මහත් සේවාවක් ඉටු කරන විශාල ශිෂ්‍ය පිරිසක් බිහි කිරීමට සමත් වූහ.

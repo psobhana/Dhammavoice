@@ -1,4 +1,17 @@
 
+//dark mode begin
+   function setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+    }
+
+    // Load saved theme
+    document.addEventListener("DOMContentLoaded", function() {
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      setTheme(savedTheme);
+    });
+//dark mode end
+
 //Share icon
 function sharePage(videoID2) {
       const url = 'https://www.youtube.com/watch?v=' + videoID2;

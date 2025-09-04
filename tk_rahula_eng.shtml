@@ -15,7 +15,7 @@
 <div id="main">
 
   <button class="openbtn" onclick="openNav()">☰ </button>
-
+<!--#include file="theme_buttons.html" -->
 </div>
 
 
@@ -26,7 +26,7 @@
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
     
   
 	<div class="center" class="container">    
@@ -37,7 +37,7 @@
   </div>
   
   
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
    
     <p>
 	Rev. Ampitiye Sri Rahula Thero served as the assistant senior monk at the Bhikkhu Training Center in Maharagama, Sri Lanka. He was the teacher of many monks who are currently serving Buddhist communities globally.

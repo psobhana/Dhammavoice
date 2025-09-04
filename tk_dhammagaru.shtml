@@ -15,7 +15,7 @@
 <div id="main">
 
   <button class="openbtn" onclick="openNav()">☰ </button>
-
+<!--#include file="theme_buttons.html" -->
 </div>
 
 
@@ -27,7 +27,7 @@
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
     
   
 	<div class="container">
@@ -37,7 +37,7 @@
   </div>
   
   
-  <div class="column" style="background-color:#f1f1f1;">
+  <div class="column" style="background-color:var(--bg-primary);">
    
 <p>
 පූජ්‍ය උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ සිංහල විශ්වකෝෂයේ සහකාර කර්තෘවරයකු වශයෙන් මෙන් ම නිට්ටඹුව සාරිපුත්ත අධ්‍යාපන විද්‍යාපීඨයේ කථිකාචාර්යවරයකු වශයෙන් ද  කටයුතු කළ අතර වර්තමානයේ ඇමරිකාවේ ලොස්ඇන්ජලීස් බෞද්ධ විහාරයේ වැඩ වසති.  

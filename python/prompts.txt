@@ -1,0 +1,96 @@
+Write a Python code to
+1. Open a file as a command line argument 
+2. open the file as utf-8
+3. Remove all the text other than src="any variable" in every line. 
+4. Write the output to words.txt file.
+
+
+Write a Python code to
+1. Open a file as a command line argument 
+2. open the file as utf-8
+3. Replace every line with src="any variable" with this string "<li><details><summary>3. Mahāvaggapāḷi (BJT 3,4)</summary><ul></ul></details></li>"
+4. Write the output to output.txt file.
+
+
+
+Change this code to 
+Extract the variables inside javascript:loadYoutubeStartStop('...'); and javascript:loadYoutubeStart('...'); from each line and
+writes all extracted variables line by line to words.txt.
+It is not writing anything to words.txt
+xml-loadYoutubeStartStop-2words.py
+
+<!-- English Special character keyboard doesn't work when copied to .js file --> 
+<!--#include file="keyboard_english.html" -->
+-bak2
+-good
+
+Remove the textarea in this page.
+-bak
+⌨html_english
+Make the keyboard able to type anywhere, even in the browser's search box.
+The keyboard doesn't type.
+Now the keyboard is typing in the  search-box and Regular text input: areas in the page.
+But it Doesn't type in the browser's search box. 
+Create a web page with a html keyboard with these special characters.  
+ā, ī, ū, ṭ, ḍ, ṅ, ṇ, ñ, ṃ, ḷ
+1. Turn the keyboard into a floating keyboard. 
+2. Add a keyboard button to the page and make the keyboard visible only the button is clicked.
+9
+Make the keyboard into a horizontal movable panel with 1 or 2 lines according to the screen.
+ Keyboard is movable horizontally but not vertically 
+use "background: #696 url('chetiya.svg') 0 0;" for the third level and all items beyond that as "background: #696 url('expand-collapse.svg') 0 0;" is used for the first and second level items in the expanding menu in this psge. 
+-good
+8
+Add Sun and moon icons for Light mode and Dark mode and make both of them always visible 
+
+loadYoutube2-2words.py
+It is not showing chetiya.svg
+
+<button class="unstyled-button" onclick="sharePage('ddddddddddd')"><img src="share.svg" alt="Share" class="icon"></button></li>
+
+Write a Python code to
+1. Open a file as a command line argument 
+2. open the file as utf-8
+3. Remove all the text other than the variable text in "javascript:loadYoutube2('JMPtVHXDGNA');" in every line. 
+4. Write the output to words.txt file.
+
+xml-loadYoutube2-2words.py
+xml-text-2words.py
+words2-loadYoutube2-and-share.py
+
+"loadYoutube2('ddddddddddd')"
+"sharePage('ddddddddddd')"
+
+xml-loadYoutube2-2output2.bat
+
+words2loadYoutube2.py
+
+It doesn't replace The variable. 
+Ready the input.txt file with same number of lines as input xml file. Writers the output to output2.txt .
+
+Write a Python code to
+1. Open a file as a command line argument 
+2. open the files as utf-8
+3. Copy lines from word.txt and replace the variables in "loadYoutube2('ddddddddddd')" and "sharePage('ddddddddddd')" in every line of the input file.
+4. Write the output to output2.txt 
+
+<button class="unstyled-button" onclick="loadYoutube2('dck_UB5W-X8')">ධර්ම විනය භික්ෂු සම්භාෂණය, මාතර, 2023</button>
+
+3. copy The variable in href="https://archive.org/download/Index_201704/dh085.pdf" to shareFile('ddddddddddd') in every line. 
+
+1. Don't change numbers to A B C D 
+2. Write the output to output.txt 
+Keep other scripts same
+-good buttons
+xml2words
+<button class="unstyled-button" onclick="shareFile('ddddddddddd')"><img src="share.svg" alt="Share" class="icon"></button></li>
+
+input.txt
+https://archive.org/download/MadihePannasihaMahaNayakaThero2/pa005.pdf
+
+It doesn't work. give me the full JavaScript. 
+
+Expand and display the matching items in the menu <ul class="tree2"> when searching with search-box in index.shtml
+Keyboard doesn't type in browser's Search box. It switches focus back to the text area.
+
+How to add an SVG icon to the <li>Jupiter</li> item? 

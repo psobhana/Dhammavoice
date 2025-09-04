@@ -1,4 +1,17 @@
 
+//dark mode begin
+   function setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+    }
+
+    // Load saved theme
+    document.addEventListener("DOMContentLoaded", function() {
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      setTheme(savedTheme);
+    });
+//dark mode end
+
 //Share file icon
 function shareFile(fileID) {
       const url = fileID;
