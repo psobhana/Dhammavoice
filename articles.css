@@ -43,7 +43,7 @@ button:hover {
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
       z-index: 9999;
       display: none;
-      /* cursor: move;         /* show move cursor */
+       /* cursor: move;         /* show move cursor */
    /* touch-action: none;   /* needed for mobile dragging */
     }
     
@@ -53,9 +53,9 @@ button:hover {
       border: 1px solid #cbd5e0;
       border-radius: 4px;
       margin-right: 5px;
-    background-color: var(--bg-primary);
+background-color: var(--bg-primary);
   color: var(--text-primary);
-  }
+    }
     
     .search-box button {
       padding: 8px 12px;
@@ -107,8 +107,8 @@ button:hover {
       color: red;
     }
 	
-	/*search box end*/
 	
+	/*search box end*/
 	
 
 
@@ -119,23 +119,23 @@ button:hover {
   font-size: 16px;
   text-align: left;
   cursor:pointer;
-  color: var(--text-primary);
+color: var(--text-primary);
   transition: all 0.3s ease;
-}
+  }
 
 .unstyled-button .icon {
       width: 16px;
       height: 16px;
     }
-
+	
 .theme-buttons{
        text-align: right;    
       /*display: flex;*/
       gap: 8px;
       margin: 8px 16px;}
 
+	  
 /*hiding menu */
-
 
 .header {
   /*background-color: #f1f1f1;*/
@@ -223,10 +223,10 @@ transition: all 0.3s ease;
 }
 
 .menu2 li:hover {
-     /*background-color :#ddd;*/
+    /*background-color :#ddd;*/
  background-color: var(--accent-hover);
    cursor:pointer;
-}
+  }
 
 
 
@@ -247,7 +247,7 @@ transition: all 0.3s ease;
       /* color: #000;*/
 	 color: var(--text-primary);
   transition: all 0.3s ease;
-}
+  }
 
 .menu3 li:hover {
     /*background-color :#e3e3e3;*/
@@ -268,9 +268,9 @@ background-color: var(--accent-hover3);
   z-index: 1;
   top: 0;
   left: 0;
-   /* background-color: #e9e9e9;*/
-   background-color: var(--bg-secondary);	
- overflow-x: hidden;
+   /* background-color: #f2f2f2;*/
+  background-color: var(--bg-secondary);	
+  overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
 }
@@ -286,9 +286,9 @@ background-color: var(--accent-hover3);
 }
 
 .sidebar a:hover {
-  /*color: #5556ea;*/
-color: var(--menu-hover);
+  color: var(--menu-hover);
    background-color: var(--bg-secondary);
+
 }
 
 .sidebar .closebtn {
@@ -351,7 +351,6 @@ padding: 8px;
             box-shadow: 0 1px 3px var(--shadow);
             border-radius: 4px;
             transition: all 0.3s ease;
-
 }
 
 .menu li:hover {
@@ -360,7 +359,7 @@ background-color: var(--accent-hover);
 }
 
 .aside {
- /*background-color: #ffffff;*/
+  /*background-color: #ffffff;*/
   background-color: var(--bg-primary);
   color: var(--text-primary);
   padding: 15px;
@@ -455,5 +454,3 @@ background-color: var(--accent-hover);
     width: 100%;
   }
 }
-
-

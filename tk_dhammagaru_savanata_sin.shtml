@@ -85,6 +85,7 @@
     <button id="btnPrev"><</button>
     <button id="btnNext">></button>
     <span id="counter">0 of 0</span>
+	<span class="close-btn" id="closeSearch">×</span>
   </div></div>
 </li>
 

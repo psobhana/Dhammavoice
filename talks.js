@@ -38,15 +38,23 @@ function sharePage(videoID2) {
 document.addEventListener("DOMContentLoaded", function () {
   const toggleBtn = document.getElementById("toggleSearchBtn");
   const floatingBox = document.getElementById("floatingSearch");
+  const closeBtn = document.getElementById("closeSearch");
 
+  // Toggle with the search button
   toggleBtn.addEventListener("click", function () {
-    if (floatingBox.style.display === "none") {
+    if (floatingBox.style.display === "none" || floatingBox.style.display === "") {
       floatingBox.style.display = "block";
     } else {
       floatingBox.style.display = "none";
     }
   });
+
+  // Close with the x button
+  closeBtn.addEventListener("click", function () {
+    floatingBox.style.display = "none";
+  });
 });
+
 
 // search
 
