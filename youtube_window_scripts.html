@@ -1,0 +1,206 @@
+<script>
+//New Youtube PiP winow start
+
+const pip = document.getElementById('pip');
+ const videoArea = document.getElementById('videoArea');
+  const dragSurface = document.getElementById('dragSurface');
+ const moveBtn = document.getElementById('moveBtn');
+
+    // store last position
+    let lastLeft = 20, lastTop = 20;
+
+// Youtube Loaders start
+
+    function loadYoutube2(videoID) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1"
+      allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+    function loadYoutubeStart(videoID, startTime) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1&start=${startTime}"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+
+   function loadYoutubeStartStop(videoID, startTime, stopTime) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1&start=${startTime}&end=${stopTime}"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+
+    function loadYoutubeLoop(videoID, loop = false) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1&loop=1"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+
+    function loadYoutubePlaylistLoop(playlistID, loop = false) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/videoseries?list=${playlistID}&autoplay=1&loop=1"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+// Youtube Loaders end
+
+
+    function closeYoutube() {
+      pip.style.display = 'none';
+      videoArea.innerHTML = '';
+      disableDragSurface();
+    }
+
+    /* --- Drag logic --- */
+    let dragging = false, startX = 0, startY = 0, startLeft = 0, startTop = 0;
+
+    function enableDragSurface()  { dragSurface.classList.add('active'); }
+    function disableDragSurface() { dragSurface.classList.remove('active'); }
+
+    // Desktop: hold Shift to drag
+    window.addEventListener('keydown', (e) => { if (e.key === 'Shift') enableDragSurface(); });
+    window.addEventListener('keyup',   (e) => { if (e.key === 'Shift') disableDragSurface(); });
+
+    // Mobile/desktop: press & hold Move button
+    moveBtn.addEventListener('mousedown', (e) => { e.preventDefault(); enableDragSurface(); startDrag(e); });
+    moveBtn.addEventListener('touchstart', (e) => { enableDragSurface(); startDrag(e); }, {passive:false});
+
+    dragSurface.addEventListener('mousedown', startDrag);
+    dragSurface.addEventListener('touchstart', startDrag, {passive:false});
+
+    function startDrag(e) {
+      e.preventDefault();
+      dragging = true;
+      const rect = pip.getBoundingClientRect();
+
+      pip.style.left = rect.left + 'px';
+      pip.style.top  = rect.top  + 'px';
+      pip.style.right = 'auto';
+      pip.style.bottom = 'auto';
+
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+
+      startX = clientX;
+      startY = clientY;
+      startLeft = rect.left;
+      startTop  = rect.top;
+
+      document.addEventListener('mousemove', onDrag);
+      document.addEventListener('mouseup', endDrag);
+      document.addEventListener('touchmove', onDrag, {passive:false});
+      document.addEventListener('touchend', endDrag);
+    }
+
+    function onDrag(e) {
+      if (!dragging) return;
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+
+      let newLeft = startLeft + (clientX - startX);
+      let newTop  = startTop  + (clientY - startY);
+
+      const maxLeft = window.innerWidth  - pip.offsetWidth;
+      const maxTop  = window.innerHeight - pip.offsetHeight;
+      newLeft = Math.max(0, Math.min(newLeft, maxLeft));
+      newTop  = Math.max(0, Math.min(newTop,  maxTop));
+
+      pip.style.left = newLeft + 'px';
+      pip.style.top  = newTop  + 'px';
+    }
+
+    function endDrag() {
+      dragging = false;
+      // save last position
+      lastLeft = parseInt(pip.style.left, 10);
+      lastTop  = parseInt(pip.style.top, 10);
+
+      document.removeEventListener('mousemove', onDrag);
+      document.removeEventListener('mouseup', endDrag);
+      document.removeEventListener('touchmove', onDrag);
+      document.removeEventListener('touchend', endDrag);
+      disableDragSurface();
+    }
+
+    window.addEventListener('resize', () => {
+      if (pip.style.display !== 'block') return;
+      const rect = pip.getBoundingClientRect();
+      const maxLeft = window.innerWidth  - pip.offsetWidth;
+      const maxTop  = window.innerHeight - pip.offsetHeight;
+      let safeLeft = Math.max(0, Math.min(rect.left, maxLeft));
+      let safeTop  = Math.max(0, Math.min(rect.top,  maxTop));
+      pip.style.left = safeLeft + 'px';
+      pip.style.top  = safeTop  + 'px';
+      pip.style.right = 'auto';
+      pip.style.bottom = 'auto';
+      lastLeft = safeLeft;
+      lastTop  = safeTop;
+    });
+
+
+//New Youtube PiP winow  end
+
+
+</script>

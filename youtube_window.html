@@ -1,20 +1,18 @@
 <div class="row">
-    <div class="col-3 col-s-3 menu">
-      <div id="main">
+      <!-- <div class="col-3 col-s-3 menu"> -->
+    <div class="col-1 col-s-1 menu"> 
+	
+	  <div id="main">
   <button class="openbtn" onclick="openNav()">☰ </button>
 </div>
       
      <!-- Youtube window start -->
-<table style="width:100%; border: none;">
-  <tr>  
-      <th background="pitaka.jpg">
-	  <div class="container" id="player"></div>  </th>
-  </tr>
-  <tr> 
-       <td style="border: none;"><div style="margin-top:2px; text-align:center;">
-        <button id="shareBtn" onclick="shareVideo()" style="display:none;">Share</button> 	
-      </div> </td> 
-  </tr>
-</table>
+<!-- PiP-style popup -->
+  <div class="pip" id="pip">
+    <button class="move-btn" id="moveBtn" title="Hold to move (mobile) or press Shift to move (desktop)">⠿</button>
+    <button class="close-btn" onclick="closeYoutube()" title="Close">✖</button>
+    <div class="drag-surface" id="dragSurface" aria-hidden="true"></div>
+    <div class="video-area" id="videoArea"></div>
+  </div>
 	<!-- Youtube window end -->
     </div>

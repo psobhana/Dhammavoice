@@ -1,54 +1,459 @@
 
+/*dark mode begin*/
+/*Darkmode is in the header file. It doesn't work here /*
+/*dark mode end*/
 
-/*Youtube Iframe table */
 
 
-/* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+.expanding-menu2{
+            line-height: 35px;
 
-.container {
+		}
+		
+.unstyled-button {
+  border: none;
+  padding: 0;
+  background: none;
+  transition: all 0.3s ease;
+  font-size: 16px;
+  text-align: left;
+  cursor:pointer;
+color: var(--text-primary);
+  transition: all 0.3s ease;
+  }
+
+.unstyled-button .icon {
+      width: 16px;
+      height: 16px;
+
+    }
+	
+.theme-buttons{
+       text-align: right;    
+      /*display: flex;*/
+      gap: 8px;
+      margin: 8px 16px;}
+
+/*search-button begin*/
+.search-button{
+       text-align: right;    
+      /*display: flex;*/
+      gap: 12px;
+      margin: 20px 0;}
+/*search-button end*/
+
+
+.normal-button {
+      padding: 10px 16px;
+      background: var(--btn-primary);
+      color: var(--btn-text);
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.2s;
+    }
+    
+.normal-button:hover {
+      background: var(--btn-hover);
+      transform: translateY(-2px);
+    }
+
+	
+
+button {
+  /* padding: 10px 16px;
+      background: var(--btn-primary);
+      color: var(--btn-text);
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.2s;  */
+    }
+    
+button:hover {
+  /*  background: var(--btn-hover);
+      transform: translateY(-2px);  */
+    }
+	
+
+
+
+
+
+
+  /*search box begin*/
+ .search-box {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+       /*background: #fff;*/
+      background-color: var(--search-box);
+	  color: var(--btn-text);
+      border: 1px solid #cbd5e0;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      z-index: 9999;
+      display: none;
+      /*  position: relative; /* so close button can be positioned inside */
+      /* cursor: move;         /* show move cursor */
+   /* touch-action: none;   /* needed for mobile dragging */
+    }
+    
+    .search-box input {
+      width: 180px;
+      padding: 8px;
+      border: 1px solid #cbd5e0;
+      border-radius: 4px;
+      margin-right: 5px;
+background-color: var(--bg-primary);
+  color: var(--text-primary);
+    }
+    
+    .search-box button {
+      padding: 8px 12px;
+      font-size: 14px;
+    }
+    
+    mark.search-highlight {
+      background: rgba(255, 230, 0, 0.5);
+      padding: 0;
+    }
+    
+    mark.active-match {
+      background: orange;
+    }
+	
+	/* Extra small screens - make search-box smaller */
+@media (max-width: 540px) {
+  .search-box {
+    top: 5px;
+    right: 5px;
+    padding: 6px;
+  }
+
+  .search-box input {
+    width: 120px;   /* reduced width */
+    padding: 6px;
+    font-size: 14px;
+  }
+
+  .search-box button {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+
+  .search-box span {
+    font-size: 12px;
+  }
+}
+
+/* Close button */
+    .sh-close-btn {
+      /* position: absolute;*/
+      /* top: 5px;*/
+     /* right: 8px;*/
+/* font-weight: bold;*/
+      cursor: pointer;
+      font-size: 24px;
+      color: var(--btn-text);
+    }
+    .sh-close-btn:hover {
+      color: red;
+    }
+
+	/*search box end*/
+
+
+/*keyboard begin*/
+     :root{
+      /*--bg:#0f1724; --card:#0b1220; --accent:#7dd3fc; --muted:#9aa4b2; --key:#111827;*/
+     --bg:#0f1724; --card:#1E2D44; --accent:#7dd3fc; --muted:#9aa4b2; --key:#111827;
+    
+	}
+  
+  .keyboard {
+  position: fixed;
+  top: 10%;       /* initial vertical position */
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+  flex-wrap: wrap;
+  gap: 8px;
+  background: var(--card);
+  padding: 12px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+  z-index: 10001;
+  cursor: move;
+  max-width: 95%;
+}
+
+	
+    .key{flex:0 0 auto; display:inline-flex; align-items:center; justify-content:center; padding:12px 14px; border-radius:10px; background:var(--key); border:1px solid rgba(255,255,255,0.02); font-size:18px; cursor:pointer; user-select:none; color:#fff}
+    .key:hover{transform:translateY(-3px); box-shadow:0 8px 18px rgba(0,0,0,0.6)}
+    .key.kwide{min-width:100px}
+    .meta{display:flex; gap:8px; margin-top:12px; flex-wrap:wrap}
+    .status{margin-left:auto; color:var(--muted); font-size:13px}
+
+    @media (max-width:540px){ .keyboard{justify-content:center} }
+
+
+/* Close button */
+    .kb-close-btn {
+      /* position: absolute;*/
+      /* top: 5px;*/
+     /* right: 8px;*/
+/* font-weight: bold;*/
+      cursor: pointer;
+      font-size: 24px;
+      color: var(--btn-text);
+    }
+    .kb-close-btn:hover {
+      color: red;
+    }
+
+	/*keyboard end*/
+
+/*New tree start */
+/* https://iamkate.com/code/tree-views/  */
+
+/* Custom properties */
+.tree {
+  --spacing: 1.5rem;
+  --radius: 10px;
+}
+
+
+/* Padding */
+.tree li {
+  display: block;
   position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 56.25%; 
+  padding-left: calc(2 * var(--spacing) - var(--radius) - 2px);
+}
+
+.tree ul {
+  margin-left: calc(var(--radius) - var(--spacing));
+  padding-left: 0;
 }
 
 
-
-/* 4:3 Aspect Ratio */
-/*
-.container {
-  padding-top: 75%; 
+/* Vertical lines */
+.tree ul li {
+  border-left: 2px solid #ddd;
 }
-*/
 
+.tree ul li:last-child {
+  border-color: transparent;
+}
 
-/* Then style the iframe to fit in the container div with full height and width */
-.responsive-iframe {
+/* Horizontal lines */
+.tree ul li::before {
+  content: '';
+  display: block;
   position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
+  top: calc(var(--spacing) / -2);
+  left: -2px;
+  width: calc(var(--spacing) + 2px);
+  height: calc(var(--spacing) + 1px);
+  border: solid #ddd;
+  border-width: 0 0 2px 2px;
 }
 
+/* remove the default styling from summaries */
+.tree summary {
+  display: block;
+  cursor: pointer;
+}
+
+.tree summary::marker,
+.tree summary::-webkit-details-marker {
+  display: none;
+}
+
+.tree summary:focus {
+  outline: none;
+}
+
+.tree summary:focus-visible {
+  outline: 1px dotted #000;
+}
+
+/* Note that we generate markers both for <li> elements 
+(for list items that don’t contain nested lists) and for 
+<summary> elements */
+/* .tree li::after, */
+.tree summary::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: calc(var(--spacing) / 2 - var(--radius));
+  left: calc(var(--spacing) - var(--radius) - 1px);
+  width: calc(2 * var(--radius));
+  height: calc(2 * var(--radius));
+  border-radius: 50%;
+  background: #ddd;
+}
+
+/* Expand and collapse buttons */
+.tree summary::before {
+  z-index: 1;
+  background: #696 url('expand-collapse.svg') 0 0;
+}
+
+.tree details[open] > summary::before {
+  background-position: calc(-2 * var(--radius)) 0;
+}
+
+/* Custom SVG icon for li */
+        .svg-item {
+            display: flex;
+            align-items: center;
+            padding: 0.1rem 0;
+        }
+        
+        .svg-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 5px;
+            filter: drop-shadow(0 0 4px rgba(0, 255, 255, 0.7));
+        }
+
+
+/*New tree end */
+
+
+
+
+/*Youtube PiP-style popup start*/
+
+ /* PiP-style popup */
+    .pip {
+      position: fixed;
+      /* Default: 90% of viewport width on small screens, max 480px */
+      width: min(90vw, 480px);
+      height: calc(min(90vw, 480px) * 0.5625); /* 16:9 aspect ratio */
+      background: #000;
+      display: none;
+      z-index: 9999;
+      border-radius: 10px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+      resize: both;
+      overflow: hidden; /* keep iframe edges clean */
+    }
+
+    .video-area {
+      position: absolute;
+      inset: 0;
+    }
+
+    .responsive-iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    .close-btn, .move-btn {
+      position: absolute;
+      top: 6px;
+      width: 28px;
+      height: 28px;
+      border: 0;
+      border-radius: 999px;
+      font-size: 16px;
+      line-height: 28px;
+      text-align: center;
+      cursor: pointer;
+      opacity: 0.9;
+      background: rgba(0,0,0,0.5);
+      color: #fff;
+      z-index: 3;
+    }
+    .close-btn { right: 6px; }
+    .move-btn  { left: 6px; }
+
+    .drag-surface {
+      position: absolute;
+      inset: 0;
+      z-index: 2;
+      cursor: move;
+      background: transparent;
+      pointer-events: none;
+    }
+    .drag-surface.active {
+      pointer-events: auto;
+    }
+
+    /* Mobile-first responsive sizing */
+    /* Small phones (< 400px wide) */
+    @media (max-width: 399px) {
+      .pip {
+        width: 85vw;
+        height: calc(85vw * 0.5625);
+      }
+    }
+
+    /* Medium screens (400px - 767px) */
+    @media (min-width: 400px) and (max-width: 767px) {
+      .pip {
+        width: 380px;
+        height: 213.75px;
+      }
+    }
+
+    /* Tablets and small laptops (768px - 999px) */
+    @media (min-width: 768px) and (max-width: 999px) {
+      .pip {
+        width: 420px;
+        height: 236.25px;
+      }
+    }
+
+    /* Desktop (1000px - 1399px) */
+    @media (min-width: 1000px) and (max-width: 1399px) {
+      .pip {
+        width: 400px;
+        height: 225px;
+      }
+    }
+
+    /* Large desktop (1400px+) */
+    @media (min-width: 1400px) {
+      .pip {
+        width: 440px;
+        height: 247.5px;
+      }
+    }
+
+    /* Landscape orientation on mobile - make it smaller to fit */
+    @media (max-height: 500px) and (orientation: landscape) {
+      .pip {
+        width: 45vw;
+        height: calc(45vw * 0.5625);
+        max-height: 70vh;
+      }
+    }
+
+/*Youtube PiP-style popup end*/
 
 
 /*hiding menu */
 
-body {
-  font-family: "Lato", sans-serif;
-}
+
 
 .sidebar {
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 1;
+  z-index: 5;
   top: 0;
   left: 0;
-  background-color: #f2f2f2;
+  /* background-color: #f2f2f2;*/
+  background-color: var(--bg-secondary);	
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
@@ -58,13 +463,16 @@ body {
   padding: 1px 8px 12px 10px;
   text-decoration: none;
   font-size: 14px;
-  color: #000000;
+  /*color: #000000;*/
+   color: var(--menu-text);
   display: block;
   transition: 0.3s;
 }
 
 .sidebar a:hover {
-  color: #5556ea;
+  /*color: #5556ea;*/
+  color: var(--menu-hover);
+   background-color: var(--bg-secondary);
 }
 
 .sidebar .closebtn {
@@ -73,19 +481,24 @@ body {
   right: 10px;
   font-size: 36px;
   margin-left: 50px;
+  color: var(--text-primary);
 }
 
 .openbtn {
   font-size: 20px;
   cursor: pointer;
-  background-color: #ffffff;
-  color: black;
+  /* background-color: #ffffff;*/
+   background-color: var(--bg-primary);
+   /* color: black;*/
+  color: var(--text-primary);
   padding: 1px 1px;
   border: none;
+transition: all 0.3s ease;
 }
 
 .openbtn:hover {
-  background-color: #f2f7f5;
+  /* background-color: #f2f7f5;*/
+   background-color: var(--btn-hover);
 }
 
 #main {
@@ -121,9 +534,12 @@ html {
 }
 
 .header {
-  background-color: #ffffff;
-  color: #000000;
+  /*background-color: #ffffff;*/
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+   /*color: #000000;*/
   padding: 1px;
+transition: all 0.3s ease;
 }
 
 .menu ul {
@@ -133,32 +549,47 @@ html {
 }
 
 .menu li {
-  padding: 8px;
+  /*padding: 8px;
   margin-bottom: 7px;
   background-color: #33b5e5;
   color: #ffffff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+*/
+padding: 8px;
+            margin-bottom: 7px;
+            background-color: var(--accent-color);
+          color: white;
+            box-shadow: 0 1px 3px var(--shadow);
+            border-radius: 4px;
+            transition: all 0.3s ease;
 }
 
 .menu li:hover {
-  background-color: #0099cc;
+   /*background-color: #0099cc;*/
+background-color: var(--accent-hover);
 }
 
 .aside {
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
   padding: 15px;
-  color: #000000;
+  /*color: #000000;*/
   text-align: center;
   font-size: 14px;
   box-shadow: 0 0px 0px rgba(0, 0, 0, 0), 0 0px 0px rgba(0, 0, 0, 0);
+transition: all 0.3s ease;
 }
 
 .footer {
-  background-color: #ffffff;
-  color: #000000;
+  /*background-color: #ffffff;*/
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+   /*color: #000000;*/
   text-align: center;
   font-size: 12px;
   padding: 1px;
+transition: all 0.3s ease;
 }
 
 /* For mobile phones: */
@@ -166,7 +597,8 @@ html {
   width: 100%;
 }
 
-@media only screen and (min-width: 600px) {
+/* @media only screen and (min-width: 600px) {*/
+	@media only screen and (min-width: 600px) {
   /* For tablets: */
   .col-s-1 {
     width: 8.33%;
@@ -205,7 +637,8 @@ html {
     width: 100%;
   }
 }
-@media only screen and (min-width: 768px) {
+/* @media only screen and (min-width: 768px) {*/
+	@media only screen and (min-width: 1100px) {
   /* For desktop: */
   .col-1 {
     width: 8.33%;

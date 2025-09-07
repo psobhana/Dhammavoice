@@ -30,7 +30,7 @@
   <div class="column" style="background-color:var(--bg-primary);">
     
   
-	<div class="container">
+	<div class="img-container">
   <img src="images/dhammagaru.jpg">
   
 </div>
@@ -81,7 +81,7 @@
     <button id="btnPrev"><</button>
     <button id="btnNext">></button>
     <span id="counter">0 of 0</span>
-	<span class="close-btn" id="closeSearch">×</span>
+	<span class="sh-close-btn" id="closeSearch">×</span>
   </div></div>
 </li>
 </ul>

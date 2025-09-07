@@ -30,7 +30,7 @@
   <div class="column" style="background-color:var(--bg-primary);">
     
   
-	<div class="center" class="container">    
+	<div class="center" class="img-container">    
 	  <!-- add class="center" here for talks -->
 	  
 	 <!--#include file="tk_youtube_window.html" -->
@@ -80,7 +80,8 @@
 <!-- Article list End -->
 
 </div>
-
+<!-- youtube window doesn't work when copied to .js file --> 
+<!--#include file="youtube_window_scripts.html" -->
 </body>
 </html>
 

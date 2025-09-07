@@ -24,36 +24,75 @@ Header deleted
     
 <!-- Middle column start --> 
     <div class="col-6 col-s-9">
+	
+	<!--#include file="theme_buttons.html" -->
+	
       <td>
 	 <center> <h1>Tipitaka Chanting</h1> </center>
+	 
+	 <div class="search-button">
 	  
-<!-- Expanding Menu Start --><!-- <button onclick="rti.reload()">Reload</button> -->
-<script type="text/javascript">
-/// XP Look
-webFXTreeConfig.rootIcon = "images/xp/folder.png";
-webFXTreeConfig.openRootIcon = "images/xp/openfolder.png";
-webFXTreeConfig.folderIcon = "images/xp/folder.png";
-webFXTreeConfig.openFolderIcon = "images/xp/openfolder.png";
-webFXTreeConfig.fileIcon = "images/xp/file.png";
-webFXTreeConfig.lMinusIcon = "images/xp/Lminus.png";
-webFXTreeConfig.lPlusIcon = "images/xp/Lplus.png";
-webFXTreeConfig.tMinusIcon = "images/xp/Tminus.png";
-webFXTreeConfig.tPlusIcon = "images/xp/Tplus.png";
-webFXTreeConfig.iIcon = "images/xp/I.png";
-webFXTreeConfig.lIcon = "images/xp/L.png";
-webFXTreeConfig.tIcon = "images/xp/T.png";
-//var tree = new WebFXLoadTree("WebFXLoadTree", "tree1.xml");
-//tree.setBehavior("classic");
-var rti;
-var tree = new WebFXTree("Tipiṭakapāḷi");
-tree.add(new WebFXLoadTreeItem("Vinayapiṭakaṃ", "evinaya.xml"));
-tree.add(new WebFXLoadTreeItem("Suttantapiṭakaṃ", "esutta.xml"));
-tree.add(new WebFXLoadTreeItem("Abhidhammapiṭakaṃ", "eabhidhamma.xml"));
-tree.add(new WebFXLoadTreeItem("Ganthāni", "eextra.xml"));
-
-document.write(tree);
-</script>
+	 <div><button class="normal-button" id="toggleKeyboard">⌨ Keyboard</button>
+	 <button class="normal-button" id="toggleSearchBtn">🔍 Search</button></div>
+	 
+	  <!-- Floating Keyboard, hidden at start -->
+      <div class="keyboard" id="keyboard" role="list" aria-label="Special characters keyboard">
+    <button class="key" data-char="ā">ā</button>
+    <button class="key" data-char="ī">ī</button>
+    <button class="key" data-char="ū">ū</button>
+    <button class="key" data-char="ṭ">ṭ</button>
+    <button class="key" data-char="ḍ">ḍ</button>
+    <button class="key" data-char="ṅ">ṅ</button>
+    <button class="key" data-char="ṇ">ṇ</button>
+    <button class="key" data-char="ñ">ñ</button>
+    <button class="key" data-char="ṃ">ṃ</button>
+    <button class="key" data-char="ḷ">ḷ</button>
+    <button class="key kwide" data-char=" ">Space</button>
+    <button class="key" id="del">⌫</button>
+	<span class="kb-close-btn" id="closeKeyboard">×</span>
+  </div>	
+		 
+  <!-- Floating search box, hidden at start -->
+  <div class="search-box" id="floatingSearch" style="display:none;">
+	<input id="searchText" placeholder="Find on page…" />
+    <button id="btnSearch">Search</button>
+    <button id="btnPrev"><</button>
+    <button id="btnNext">></button>
+    <span id="counter">0 of 0</span>
+    <span class="sh-close-btn" id="closeSearch">×</span>
+  </div>
+	 </div>
+	 
+	 
+	 <!-- Expanding Menu Start -->
+	 <div class="expanding-menu2">
+	   <ul class="tree">
+  <li>
+    <details open>
+      <summary>Tipiṭakapāḷi</summary>
+      <ul>
+        <li><details><summary>Vinayapiṭakaṃ</summary><ul>
+			<!--#include file="vinaya_english.html" -->
+        </ul></details></li>
+		
+        <li><details><summary>Suttantapiṭakaṃ</summary><ul>
+			<!--#include file="sutta_english.html" -->
+        </ul></details></li>
+	<li><details><summary>Abhidhammapiṭakaṃ</summary><ul>
+			<!--#include file="abhidhamma_english.html" -->
+        </ul></details></li>
+	<li><details><summary>Ganthāni</summary><ul>
+			<!--#include file="extra_english.html" -->
+        </ul></details></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+	  </div>
+	  
 <!-- Expanding Menu End -->
+
+
 </td>
     </div>
 <!-- Middle column end --> 
@@ -73,7 +112,9 @@ document.write(tree);
 <!-- Bottom end --> 
 
 
-
+  <!-- English Special character keyboard , youtube window
+ floating doesn't work when copied to .js file --> 
+<!--#include file="keyboard_english.html" -->
  
 </body>
 </html>

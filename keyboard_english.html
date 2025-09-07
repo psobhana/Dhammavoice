@@ -1,0 +1,360 @@
+<script>
+
+
+// keyboard begin
+
+// Keyboard toggle + close
+// Keyboard toggle + close
+const keyboard = document.getElementById("keyboard");
+const toggleKeyboard = document.getElementById("toggleKeyboard");
+const closeKeyboard = document.getElementById("closeKeyboard");
+
+function hideKeyboard() {
+  keyboard.style.display = "none";
+}
+
+toggleKeyboard.addEventListener("click", () => {
+  keyboard.style.display = (keyboard.style.display === "flex") ? "none" : "flex";
+});
+
+// Works on desktop + mobile
+closeKeyboard.addEventListener("click", hideKeyboard);
+closeKeyboard.addEventListener("touchstart", (e) => {
+  e.preventDefault(); // prevent ghost click
+  hideKeyboard();
+});
+
+
+// other
+let currentInput = null;
+
+// Universal focus tracking - works with ANY input element
+function trackAllInputs() {
+  // Track focus on any input or textarea
+  document.addEventListener("focus", (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+      currentInput = e.target;
+    }
+  }, true);
+
+  // Also check the currently active element
+  document.addEventListener("click", (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+      currentInput = e.target;
+    }
+  });
+}
+
+// Initialize input tracking
+trackAllInputs();
+
+
+keyboard.querySelectorAll("button.key").forEach(btn => {
+  btn.addEventListener("click", (e) => {
+    e.preventDefault(); // Prevent any default button behavior
+    
+    // If no input is focused, try to find the last active one
+    if (!currentInput) {
+      const activeEl = document.activeElement;
+      if (activeEl && (activeEl.tagName === 'INPUT' || activeEl.tagName === 'TEXTAREA')) {
+        currentInput = activeEl;
+      }
+    }
+    
+    if (btn.id === "del") {
+      if (currentInput) {
+        let start = currentInput.selectionStart || 0;
+        let end = currentInput.selectionEnd || 0;
+        if (start === end && start > 0) start--;
+        const value = currentInput.value || '';
+        currentInput.value = value.slice(0, start) + value.slice(end);
+        currentInput.selectionStart = currentInput.selectionEnd = start;
+        currentInput.focus();
+        // Trigger input event
+        currentInput.dispatchEvent(new Event('input', { bubbles: true }));
+      }
+      return;
+    }
+    
+    const char = btn.getAttribute("data-char");
+    if (currentInput && char) {
+      const start = currentInput.selectionStart || 0;
+      const end = currentInput.selectionEnd || 0;
+      const value = currentInput.value || '';
+      currentInput.value = value.slice(0, start) + char + value.slice(end);
+      const newPos = start + char.length;
+      currentInput.selectionStart = currentInput.selectionEnd = newPos;
+      currentInput.focus();
+      
+      // Trigger input event for frameworks that rely on it
+      currentInput.dispatchEvent(new Event('input', { bubbles: true }));
+    }
+  });
+});
+
+// Drag keyboard
+dragElement(keyboard);
+function dragElement(elmnt) {
+  let pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+
+  // Mouse events
+  elmnt.onmousedown = dragMouseDown;
+  // Touch events
+  elmnt.ontouchstart = dragTouchStart;
+
+  function dragMouseDown(e) {
+    if (e.target.tagName.toLowerCase() === "button") return;
+    e.preventDefault();
+    elmnt.style.transform = "none";
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    document.onmouseup = closeDragElement;
+    document.onmousemove = elementDrag;
+  }
+
+  function dragTouchStart(e) {
+    if (e.target.tagName.toLowerCase() === "button") return;
+    e.preventDefault();
+    elmnt.style.transform = "none";
+    const touch = e.touches[0];
+    pos3 = touch.clientX;
+    pos4 = touch.clientY;
+    document.ontouchend = closeDragElement;
+    document.ontouchmove = elementDragTouch;
+  }
+
+  function elementDrag(e) {
+    e.preventDefault();
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function elementDragTouch(e) {
+    e.preventDefault();
+    const touch = e.touches[0];
+    pos1 = pos3 - touch.clientX;
+    pos2 = pos4 - touch.clientY;
+    pos3 = touch.clientX;
+    pos4 = touch.clientY;
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    document.onmouseup = null;
+    document.onmousemove = null;
+    document.ontouchend = null;
+    document.ontouchmove = null;
+  }
+}
+// keyboard end
+
+//New Youtube PiP winow start
+
+const pip = document.getElementById('pip');
+ const videoArea = document.getElementById('videoArea');
+  const dragSurface = document.getElementById('dragSurface');
+ const moveBtn = document.getElementById('moveBtn');
+
+    // store last position
+    let lastLeft = 20, lastTop = 20;
+
+// Youtube Loaders start
+
+    function loadYoutube2(videoID) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1"
+      allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+    function loadYoutubeStart(videoID, startTime) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1&start=${startTime}"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+
+   function loadYoutubeStartStop(videoID, startTime, stopTime) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1&start=${startTime}&end=${stopTime}"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+
+    function loadYoutubeLoop(videoID, loop = false) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/${videoID}?autoplay=1&loop=1"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+
+    function loadYoutubePlaylistLoop(playlistID, loop = false) {
+  videoArea.innerHTML = `
+    <iframe class="responsive-iframe"
+      src="https://www.youtube.com/embed/videoseries?list=${playlistID}&autoplay=1&loop=1"
+	  allow="autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen></iframe>`;
+  pip.style.display = 'block';
+  // Place PiP window at top-left on first open
+  if (lastLeft === 20 && lastTop === 20) {
+    lastLeft = 40; // small offset from left
+    lastTop  = 10; // small offset from top
+  }
+  pip.style.left = lastLeft + 'px';
+  pip.style.top  = lastTop + 'px';
+  pip.style.right = 'auto';
+  pip.style.bottom = 'auto';
+}
+
+// Youtube Loaders end
+
+
+    function closeYoutube() {
+      pip.style.display = 'none';
+      videoArea.innerHTML = '';
+      disableDragSurface();
+    }
+
+    /* --- Drag logic --- */
+    let dragging = false, startX = 0, startY = 0, startLeft = 0, startTop = 0;
+
+    function enableDragSurface()  { dragSurface.classList.add('active'); }
+    function disableDragSurface() { dragSurface.classList.remove('active'); }
+
+    // Desktop: hold Shift to drag
+    window.addEventListener('keydown', (e) => { if (e.key === 'Shift') enableDragSurface(); });
+    window.addEventListener('keyup',   (e) => { if (e.key === 'Shift') disableDragSurface(); });
+
+    // Mobile/desktop: press & hold Move button
+    moveBtn.addEventListener('mousedown', (e) => { e.preventDefault(); enableDragSurface(); startDrag(e); });
+    moveBtn.addEventListener('touchstart', (e) => { enableDragSurface(); startDrag(e); }, {passive:false});
+
+    dragSurface.addEventListener('mousedown', startDrag);
+    dragSurface.addEventListener('touchstart', startDrag, {passive:false});
+
+    function startDrag(e) {
+      e.preventDefault();
+      dragging = true;
+      const rect = pip.getBoundingClientRect();
+
+      pip.style.left = rect.left + 'px';
+      pip.style.top  = rect.top  + 'px';
+      pip.style.right = 'auto';
+      pip.style.bottom = 'auto';
+
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+
+      startX = clientX;
+      startY = clientY;
+      startLeft = rect.left;
+      startTop  = rect.top;
+
+      document.addEventListener('mousemove', onDrag);
+      document.addEventListener('mouseup', endDrag);
+      document.addEventListener('touchmove', onDrag, {passive:false});
+      document.addEventListener('touchend', endDrag);
+    }
+
+    function onDrag(e) {
+      if (!dragging) return;
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+
+      let newLeft = startLeft + (clientX - startX);
+      let newTop  = startTop  + (clientY - startY);
+
+      const maxLeft = window.innerWidth  - pip.offsetWidth;
+      const maxTop  = window.innerHeight - pip.offsetHeight;
+      newLeft = Math.max(0, Math.min(newLeft, maxLeft));
+      newTop  = Math.max(0, Math.min(newTop,  maxTop));
+
+      pip.style.left = newLeft + 'px';
+      pip.style.top  = newTop  + 'px';
+    }
+
+    function endDrag() {
+      dragging = false;
+      // save last position
+      lastLeft = parseInt(pip.style.left, 10);
+      lastTop  = parseInt(pip.style.top, 10);
+
+      document.removeEventListener('mousemove', onDrag);
+      document.removeEventListener('mouseup', endDrag);
+      document.removeEventListener('touchmove', onDrag);
+      document.removeEventListener('touchend', endDrag);
+      disableDragSurface();
+    }
+
+    window.addEventListener('resize', () => {
+      if (pip.style.display !== 'block') return;
+      const rect = pip.getBoundingClientRect();
+      const maxLeft = window.innerWidth  - pip.offsetWidth;
+      const maxTop  = window.innerHeight - pip.offsetHeight;
+      let safeLeft = Math.max(0, Math.min(rect.left, maxLeft));
+      let safeTop  = Math.max(0, Math.min(rect.top,  maxTop));
+      pip.style.left = safeLeft + 'px';
+      pip.style.top  = safeTop  + 'px';
+      pip.style.right = 'auto';
+      pip.style.bottom = 'auto';
+      lastLeft = safeLeft;
+      lastTop  = safeTop;
+    });
+
+
+//New Youtube PiP winow  end
+
+
+</script>

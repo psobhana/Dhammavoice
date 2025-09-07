@@ -11,6 +11,23 @@
       }
 		
 button {
+      /*padding: 10px 16px;
+      background: var(--btn-primary);
+      color: var(--btn-text);
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.2s; */
+    }
+    
+button:hover {
+     /* background: var(--btn-hover);
+      transform: translateY(-2px); */
+    }
+
+
+.normal-button {
       padding: 10px 16px;
       background: var(--btn-primary);
       color: var(--btn-text);
@@ -21,7 +38,7 @@ button {
       transition: all 0.2s;
     }
     
-button:hover {
+.normal-button:hover {
       background: var(--btn-hover);
       transform: translateY(-2px);
     }
@@ -97,13 +114,13 @@ background-color: var(--bg-primary);
 
 
 /* Close button */
-    .close-btn {
+    .sh-close-btn {
       cursor: pointer;
       font-size: 24px;
       color: var(--btn-text);
     }
 	
-    .close-btn:hover {
+    .sh-close-btn:hover {
       color: red;
     }
 	
@@ -177,11 +194,11 @@ transition: all 0.3s ease;
 
 /*Image*/
 
-.container {
+.img-container {
   width: 100%;
-  max-width: 200px; /* You can change this value */
-  margin: 0 auto;
-}
+  max-width: 200px; /*You can change this value */
+  margin: 0 auto; 
+} 
 
 img {
   width: 100%;
