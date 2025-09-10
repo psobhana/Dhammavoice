@@ -11,16 +11,11 @@
 <!--#include file="tk_left_menu.html" -->
 <!-- Side Bar end -->
 
+<!-- Heading start --> 
+<!--#include file="heading.html" -->
+<!-- Heading end --> 
 
-<div id="main">
-
-  <button class="openbtn" onclick="openNav()">☰ </button>
-<!--#include file="theme_buttons.html" -->
-</div>
-
-
-
-<div class="header">
+<div class="header2">
   <h1>උස්ගොඩ ධම්‍මගරු හිමි</h1>
   <h1>Ven. Usgoda Dhammagaru</h1>
   <p style="font-size:12px">(Royal Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>

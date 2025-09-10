@@ -11,14 +11,9 @@
 <!--#include file="tk_left_menu.html" -->
 <!-- Side Bar end -->
 
-
-<div id="main">
-
-  <button class="openbtn" onclick="openNav()">☰ </button>
-<!--#include file="theme_buttons.html" -->
-</div>
-
-
+<!-- Heading start --> 
+<!--#include file="heading.html" -->
+<!-- Heading end --> 
 
 <div class="header">
    <h1>උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ</h1>

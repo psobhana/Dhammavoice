@@ -14,70 +14,60 @@
   <!--#include file="left_menu.html" -->
   <!-- Side Bar end -->
   
-	<!-- 
-Header deleted 
-
-  <div class="header">
-    <h1>Tipitaka Chanting</h1>
-  </div>
--->
-  
+  <!-- Heading start --> 
+  <!--#include file="heading.html" -->
+   <!-- Heading end --> 
   
   <!-- Left column start --> 
   <!--#include file="youtube_window.html" -->
   <!-- Left column end --> 
-    
+     
 <!-- Middle column start --> 
-    <div class="col-6 col-s-9">
+    <div class="col-8 col-s-9">
       <td>
 	 <center> <h1>트리피타카(삼장 - 三藏) 난독</h1> </center>
-	  
-<!-- Expanding Menu Start --><!-- <button onclick="rti.reload()">Reload</button> -->
-<script type="text/javascript">
-/// XP Look
-webFXTreeConfig.rootIcon = "images/xp/folder.png";
-webFXTreeConfig.openRootIcon = "images/xp/openfolder.png";
-webFXTreeConfig.folderIcon = "images/xp/folder.png";
-webFXTreeConfig.openFolderIcon = "images/xp/openfolder.png";
-webFXTreeConfig.fileIcon = "images/xp/file.png";
-webFXTreeConfig.lMinusIcon = "images/xp/Lminus.png";
-webFXTreeConfig.lPlusIcon = "images/xp/Lplus.png";
-webFXTreeConfig.tMinusIcon = "images/xp/Tminus.png";
-webFXTreeConfig.tPlusIcon = "images/xp/Tplus.png";
-webFXTreeConfig.iIcon = "images/xp/I.png";
-webFXTreeConfig.lIcon = "images/xp/L.png";
-webFXTreeConfig.tIcon = "images/xp/T.png";
-//var tree = new WebFXLoadTree("WebFXLoadTree", "tree1.xml");
-//tree.setBehavior("classic");
-var rti;
-var tree = new WebFXTree("트리피타카 팔리 - 삼장(三藏)");
-tree.add(new WebFXLoadTreeItem("비나야 비타캉 - 율장(律藏 )", "rvinaya.xml"));
-tree.add(new WebFXLoadTreeItem("숫타 비타캉 - 경장(經藏 )", "rsutta.xml"));
-tree.add(new WebFXLoadTreeItem("아비달마 비타캉 - 논장(論藏 )", "rabhidhamma.xml"));
-tree.add(new WebFXLoadTreeItem("간타니", "rextra.xml"));
 
-document.write(tree);
-</script>
-<!-- Expanding Menu End -->
+<!-- Expanding Menu Start -->
+	 <div class="expanding-menu2">
+	   <ul class="tree">
+  <li>
+    <details open>
+      <summary>트리피타카 팔리 - 삼장(三藏)</summary>
+      <ul>
+        <li><details><summary>비나야 비타캉 - 율장(律藏 )</summary><ul>
+			<!--#include file="vinaya_korean.html" -->
+        </ul></details></li>
+		
+        <li><details><summary>숫타 비타캉 - 경장(經藏 )</summary><ul>
+			<!--#include file="sutta_korean.html" -->
+        </ul></details></li>
+	<li><details><summary>아비달마 비타캉 - 논장(論藏 )</summary><ul>
+			<!--#include file="abhidhamma_korean.html" -->
+        </ul></details></li>
+	<li><details><summary>간타니</summary><ul>
+			<!--#include file="extra_korean.html" -->
+        </ul></details></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+	  </div>
+<!-- Expanding Menu End -->	  
+
 </td>
     </div>
-<!-- Middle column end --> 
-    
-    
-    <!-- Right column start --> 
-	<!--#include file="right_text_korean.html" -->
-    <!-- Right column end --> 
+<!-- Middle column end -->  
+     
+  <!-- Right column start --> 
+ <!--#include file="right_text_korean.html" -->
+ <!-- Right column end --> 
       
-   <!--    
-    </div>
-  </div>
-  <!--  
-  
-    <!-- Bottom start --> 
- 	<!--#include file="bottom_text.html" -->
-<!-- Bottom end --> 
+ <!-- Bottom start --> 
+ <!--#include file="bottom_text.html" -->
+ <!-- Bottom end --> 
 
-
- 
+  <!-- English Special character keyboard , youtube window
+ floating doesn't work when copied to .js file --> 
+<!--#include file="youtube_window_scripts.html" -->
 </body>
 </html>

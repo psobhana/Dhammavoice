@@ -4,7 +4,7 @@
 // keyboard begin
 
 // Keyboard toggle + close
-// Keyboard toggle + close
+
 const keyboard = document.getElementById("keyboard");
 const toggleKeyboard = document.getElementById("toggleKeyboard");
 const closeKeyboard = document.getElementById("closeKeyboard");
@@ -13,14 +13,14 @@ function hideKeyboard() {
   keyboard.style.display = "none";
 }
 
+// Toggle keyboard
 toggleKeyboard.addEventListener("click", () => {
   keyboard.style.display = (keyboard.style.display === "flex") ? "none" : "flex";
 });
 
-// Works on desktop + mobile
-closeKeyboard.addEventListener("click", hideKeyboard);
-closeKeyboard.addEventListener("touchstart", (e) => {
-  e.preventDefault(); // prevent ghost click
+// Use pointerdown so it works on both mobile & desktop without double firing
+closeKeyboard.addEventListener("pointerdown", (e) => {
+  e.preventDefault();
   hideKeyboard();
 });
 
@@ -355,6 +355,5 @@ const pip = document.getElementById('pip');
 
 
 //New Youtube PiP winow  end
-
 
 </script>

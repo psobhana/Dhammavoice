@@ -6,74 +6,65 @@
 </head>
 
 <body>
-  <!-- Side Bar Start -->
+ <!-- Side Bar Start -->
   <!--#include file="left_menu.html" -->
   <!-- Side Bar end -->
   
-	<!-- 
-Header deleted 
-
-  <div class="header">
-    <h1>Tipitaka Chanting</h1>
-  </div>
--->
-  
+  <!-- Heading start --> 
+  <!--#include file="heading.html" -->
+   <!-- Heading end --> 
   
   <!-- Left column start --> 
   <!--#include file="youtube_window.html" -->
   <!-- Left column end --> 
+     
     
 <!-- Middle column start --> 
-    <div class="col-6 col-s-9">
+    <div class="col-8 col-s-9">
       <td>
 	 <center> <h1 class="punjabifont">ਤ੍ਰੀਪਿਟੀਕਾ ਜਾਪ</h1> </center>
-	  
-<!-- Expanding Menu Start --><!-- <button onclick="rti.reload()">Reload</button> -->
-<script type="text/javascript">
-/// XP Look
-webFXTreeConfig.rootIcon = "images/xp/folder.png";
-webFXTreeConfig.openRootIcon = "images/xp/openfolder.png";
-webFXTreeConfig.folderIcon = "images/xp/folder.png";
-webFXTreeConfig.openFolderIcon = "images/xp/openfolder.png";
-webFXTreeConfig.fileIcon = "images/xp/file.png";
-webFXTreeConfig.lMinusIcon = "images/xp/Lminus.png";
-webFXTreeConfig.lPlusIcon = "images/xp/Lplus.png";
-webFXTreeConfig.tMinusIcon = "images/xp/Tminus.png";
-webFXTreeConfig.tPlusIcon = "images/xp/Tplus.png";
-webFXTreeConfig.iIcon = "images/xp/I.png";
-webFXTreeConfig.lIcon = "images/xp/L.png";
-webFXTreeConfig.tIcon = "images/xp/T.png";
-//var tree = new WebFXLoadTree("WebFXLoadTree", "tree1.xml");
-//tree.setBehavior("classic");
-var rti;
-var tree = new WebFXTree("ਤਿਪਿਟਕਪਾਲ਼ਿ");
-tree.add(new WebFXLoadTreeItem("ਵਿਨਯਪਿਟਕਂ", "pvinaya.xml"));
-tree.add(new WebFXLoadTreeItem("ਸੁਤ੍ਤਨ੍ਤਪਿਟਕਂ", "psutta.xml"));
-tree.add(new WebFXLoadTreeItem("ਅਭਿਧਮ੍ਮਪਿਟਕਂ", "pabhidhamma.xml"));
-tree.add(new WebFXLoadTreeItem("ਗਨ੍ਥਾਨਿ", "pextra.xml"));
 
-document.write(tree);
-</script>
-<!-- Expanding Menu End -->
+<!-- Expanding Menu Start -->
+	 <div class="expanding-menu2">
+	   <ul class="tree">
+  <li>
+    <details open>
+      <summary>ਤਿਪਿਟਕਪਾਲ਼ਿ</summary>
+      <ul>
+        <li><details><summary>ਵਿਨਯਪਿਟਕਂ</summary><ul>
+			<!--#include file="vinaya_punjabi.html" -->
+        </ul></details></li>
+		
+        <li><details><summary>ਸੁਤ੍ਤਨ੍ਤਪਿਟਕਂ</summary><ul>
+			<!--#include file="sutta_punjabi.html" -->
+        </ul></details></li>
+	<li><details><summary>ਅਭਿਧਮ੍ਮਪਿਟਕਂ</summary><ul>
+			<!--#include file="abhidhamma_punjabi.html" -->
+        </ul></details></li>
+	<li><details><summary>ਗਨ੍ਥਾਨਿ</summary><ul>
+			<!--#include file="extra_punjabi.html" -->
+        </ul></details></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+	  </div>
+<!-- Expanding Menu End -->		  
+
 </td>
     </div>
 <!-- Middle column end --> 
-    
-    
-    <!-- Right column start --> 
-	<!--#include file="right_text_punjabi.html" -->
-    <!-- Right column end --> 
       
-   <!--    
-    </div>
-  </div>
-  <!--  
-  
-    <!-- Bottom start --> 
- 	<!--#include file="bottom_text.html" -->
-<!-- Bottom end --> 
+  <!-- Right column start --> 
+ <!--#include file="right_text_punjabi.html" -->
+ <!-- Right column end --> 
+      
+ <!-- Bottom start --> 
+ <!--#include file="bottom_text.html" -->
+ <!-- Bottom end --> 
 
-
- 
+  <!-- English Special character keyboard , youtube window
+ floating doesn't work when copied to .js file --> 
+<!--#include file="youtube_window_scripts.html" -->
 </body>
 </html>

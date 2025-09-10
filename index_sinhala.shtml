@@ -10,70 +10,61 @@
   <!--#include file="left_menu.html" -->
   <!-- Side Bar end -->
   
-	<!-- 
-Header deleted 
-
-  <div class="header">
-    <h1>Tipitaka Chanting</h1>
-  </div>
--->
-  
+  <!-- Heading start --> 
+  <!--#include file="heading.html" -->
+   <!-- Heading end --> 
   
   <!-- Left column start --> 
   <!--#include file="youtube_window.html" -->
   <!-- Left column end --> 
-    
+     
 <!-- Middle column start --> 
-    <div class="col-6 col-s-9">
+    <div class="col-8 col-s-9">
       <td>
 	 <center> <h1 class="sinhalafont">ත්‍රිපිටක සජ්‍ඣායනය</h1> </center>
-	  
-<!-- Expanding Menu Start --><!-- <button onclick="rti.reload()">Reload</button> -->
-<script type="text/javascript">
-/// XP Look
-webFXTreeConfig.rootIcon = "images/xp/folder.png";
-webFXTreeConfig.openRootIcon = "images/xp/openfolder.png";
-webFXTreeConfig.folderIcon = "images/xp/folder.png";
-webFXTreeConfig.openFolderIcon = "images/xp/openfolder.png";
-webFXTreeConfig.fileIcon = "images/xp/file.png";
-webFXTreeConfig.lMinusIcon = "images/xp/Lminus.png";
-webFXTreeConfig.lPlusIcon = "images/xp/Lplus.png";
-webFXTreeConfig.tMinusIcon = "images/xp/Tminus.png";
-webFXTreeConfig.tPlusIcon = "images/xp/Tplus.png";
-webFXTreeConfig.iIcon = "images/xp/I.png";
-webFXTreeConfig.lIcon = "images/xp/L.png";
-webFXTreeConfig.tIcon = "images/xp/T.png";
-//var tree = new WebFXLoadTree("WebFXLoadTree", "tree1.xml");
-//tree.setBehavior("classic");
-var rti;
-var tree = new WebFXTree("තිපිටකපාළි");
-tree.add(new WebFXLoadTreeItem("විනයපිටකං", "vinaya.xml"));
-tree.add(new WebFXLoadTreeItem("සුත‍්තන‍්තපිටකං", "sutta.xml"));
-tree.add(new WebFXLoadTreeItem("අභිධම‍්මපිටකං", "abhidhamma.xml"));
-tree.add(new WebFXLoadTreeItem("ගන්‍ථානි", "extra.xml"));
 
-document.write(tree);
-</script>
-<!-- Expanding Menu End -->
+<!-- Expanding Menu Start -->
+	 <div class="expanding-menu2">
+	   <ul class="tree">
+  <li>
+    <details open>
+      <summary>තිපිටකපාළි</summary>
+      <ul>
+        <li><details><summary>විනයපිටකං</summary><ul>
+			<!--#include file="vinaya_sinhala.html" -->
+        </ul></details></li>
+		
+        <li><details><summary>සුත‍්තන‍්තපිටකං</summary><ul>
+			<!--#include file="sutta_sinhala.html" -->
+        </ul></details></li>
+	<li><details><summary>අභිධම‍්මපිටකං</summary><ul>
+			<!--#include file="abhidhamma_sinhala.html" -->
+        </ul></details></li>
+	<li><details><summary>ගන්‍ථානි</summary><ul>
+			<!--#include file="extra_sinhala.html" -->
+        </ul></details></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+	  </div>
+<!-- Expanding Menu End -->	  	  
+
 </td>
     </div>
 <!-- Middle column end --> 
     
-    
-    <!-- Right column start --> 
-	<!--#include file="right_text_sinhala.html" -->
-    <!-- Right column end --> 
+  <!-- Right column start --> 
+ <!--#include file="right_text_sinhala.html" -->
+ <!-- Right column end --> 
       
-   <!--    
-    </div>
-  </div>
-  <!--  
-  
-    <!-- Bottom start --> 
- 	<!--#include file="bottom_text.html" -->
-<!-- Bottom end --> 
+ <!-- Bottom start --> 
+ <!--#include file="bottom_text.html" -->
+ <!-- Bottom end --> 
 
+  <!-- English Special character keyboard , youtube window
+ floating doesn't work when copied to .js file --> 
+<!--#include file="youtube_window_scripts.html" -->
 
- 
 </body>
 </html>

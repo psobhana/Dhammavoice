@@ -11,16 +11,11 @@
 <!--#include file="cl_left_menu.html" -->
 <!-- Side Bar end -->
 
-
-<div id="main">
-
-  <button class="openbtn" onclick="openNav()">☰ </button>
-<!--#include file="theme_buttons.html" -->
-</div>
-
-
-
-<div class="header">
+<!-- Heading start --> 
+<!--#include file="heading.html" -->
+<!-- Heading end --> 
+  
+<div class="header2">
   <h1>Usgoda Dhammagaru Thero</h1>
   <p style="font-size:12px">(Royal Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>
   <h2>English Articles</h2>
@@ -69,21 +64,6 @@
 <li><a href="cl_dhammagaru_sin.shtml">සිංහල ලිපි</a></li>
 <li><a href="cl_dhammagaru_gra.shtml">ව්‍යාකරණ</a></li>
 <li><a href="tk_dhammagaru.shtml">←</a></li>
-<li>
-  <!-- Toggle button -->
-  <div class="search-button2">
-<div><button id="toggleSearchBtn">🔍 Search</button></div>
-
-  <!-- Floating search box, hidden at start -->
-  <div class="search-box" id="floatingSearch" style="display:none;">
-    <input id="searchText" placeholder="Find on page…" />
-    <button id="btnSearch">Search</button>
-    <button id="btnPrev"><</button>
-    <button id="btnNext">></button>
-    <span id="counter">0 of 0</span>
-	<span class="sh-close-btn" id="closeSearch">×</span>
-  </div></div>
-</li>
 </ul>
 </div>
 <!-- Article links End -->

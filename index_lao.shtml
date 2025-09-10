@@ -6,74 +6,63 @@
 </head>
 
 <body>
-  <!-- Side Bar Start -->
+ <!-- Side Bar Start -->
   <!--#include file="left_menu.html" -->
   <!-- Side Bar end -->
   
-	<!-- 
-Header deleted 
-
-  <div class="header">
-    <h1>Tipitaka Chanting</h1>
-  </div>
--->
-  
+  <!-- Heading start --> 
+  <!--#include file="heading.html" -->
+   <!-- Heading end --> 
   
   <!-- Left column start --> 
   <!--#include file="youtube_window.html" -->
   <!-- Left column end --> 
-    
+  
 <!-- Middle column start --> 
-    <div class="col-6 col-s-9">
+    <div class="col-8 col-s-9">
       <td>
 	 <center> <h1 class="laofont">ຕິປິຏກປາຬິ</h1> </center>
-	  
-<!-- Expanding Menu Start --><!-- <button onclick="rti.reload()">Reload</button> -->
-<script type="text/javascript">
-/// XP Look
-webFXTreeConfig.rootIcon = "images/xp/folder.png";
-webFXTreeConfig.openRootIcon = "images/xp/openfolder.png";
-webFXTreeConfig.folderIcon = "images/xp/folder.png";
-webFXTreeConfig.openFolderIcon = "images/xp/openfolder.png";
-webFXTreeConfig.fileIcon = "images/xp/file.png";
-webFXTreeConfig.lMinusIcon = "images/xp/Lminus.png";
-webFXTreeConfig.lPlusIcon = "images/xp/Lplus.png";
-webFXTreeConfig.tMinusIcon = "images/xp/Tminus.png";
-webFXTreeConfig.tPlusIcon = "images/xp/Tplus.png";
-webFXTreeConfig.iIcon = "images/xp/I.png";
-webFXTreeConfig.lIcon = "images/xp/L.png";
-webFXTreeConfig.tIcon = "images/xp/T.png";
-//var tree = new WebFXLoadTree("WebFXLoadTree", "tree1.xml");
-//tree.setBehavior("classic");
-var rti;
-var tree = new WebFXTree("ຕິປິຏກປາຬິ");
-tree.add(new WebFXLoadTreeItem("ວິນຍປິຏກໍ", "ovinaya.xml"));
-tree.add(new WebFXLoadTreeItem("ສຸຕ຺ຕນ຺ຕປິຏກໍ", "osutta.xml"));
-tree.add(new WebFXLoadTreeItem("ອຠິຘມ຺ມປິຏກໍ", "oabhidhamma.xml"));
-tree.add(new WebFXLoadTreeItem("ຄນ຺ຖານິ", "oextra.xml"));
 
-document.write(tree);
-</script>
-<!-- Expanding Menu End -->
+<!-- Expanding Menu Start -->
+	 <div class="expanding-menu2">
+	   <ul class="tree">
+  <li>
+    <details open>
+      <summary>ຕິປິຏກປາຬິ</summary>
+      <ul>
+        <li><details><summary>ວິນຍປິຏກໍ</summary><ul>
+			<!--#include file="vinaya_lao.html" -->
+        </ul></details></li>
+		
+        <li><details><summary>ສຸຕ຺ຕນ຺ຕປິຏກໍ</summary><ul>
+			<!--#include file="sutta_lao.html" -->
+        </ul></details></li>
+	<li><details><summary>ອຠິຘມ຺ມປິຏກໍ</summary><ul>
+			<!--#include file="abhidhamma_lao.html" -->
+        </ul></details></li>
+	<li><details><summary>ຄນ຺ຖານິ</summary><ul>
+			<!--#include file="extra_lao.html" -->
+        </ul></details></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+	  </div>
+<!-- Expanding Menu End -->		  
 </td>
     </div>
-<!-- Middle column end --> 
-    
-    
-    <!-- Right column start --> 
-	<!--#include file="right_text_lao.html" -->
-    <!-- Right column end --> 
+<!-- Middle column end -->  
+     
+  <!-- Right column start --> 
+ <!--#include file="right_text_lao.html" -->
+ <!-- Right column end --> 
       
-   <!--    
-    </div>
-  </div>
-  <!--  
-  
-    <!-- Bottom start --> 
- 	<!--#include file="bottom_text.html" -->
-<!-- Bottom end --> 
+ <!-- Bottom start --> 
+ <!--#include file="bottom_text.html" -->
+ <!-- Bottom end --> 
 
-
- 
+  <!-- English Special character keyboard , youtube window
+ floating doesn't work when copied to .js file --> 
+<!--#include file="youtube_window_scripts.html" -->
 </body>
 </html>

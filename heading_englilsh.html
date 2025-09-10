@@ -1,0 +1,52 @@
+<div class="header">
+<table>
+  <tr>
+      <td> <div id="main">
+  <button id="menuBtn"class="openbtn" onclick="toggleNav()">☰ </button>
+</div></td>
+
+      <td><div class="theme-buttons">
+  <button class="unstyled-button" onclick="setTheme('dark')">🌙</button>
+  <button class="unstyled-button" onclick="setTheme('light')">☀️</button>
+</div></td>
+  </tr>
+  
+   <tr>
+   
+  <th  colspan="2">
+   <div class="search-button">
+	  
+	 <div><button class="normal-button" id="toggleKeyboard">⌨ Keyboard</button>
+	 <button class="normal-button" id="toggleSearchBtn">🔍 Search</button></div>
+	 
+	  <!-- Floating Keyboard, hidden at start -->
+      <div class="keyboard" id="keyboard" role="list" aria-label="Special characters keyboard">
+    <button class="key" data-char="ā">ā</button>
+    <button class="key" data-char="ī">ī</button>
+    <button class="key" data-char="ū">ū</button>
+    <button class="key" data-char="ṭ">ṭ</button>
+    <button class="key" data-char="ḍ">ḍ</button>
+    <button class="key" data-char="ṅ">ṅ</button>
+    <button class="key" data-char="ṇ">ṇ</button>
+    <button class="key" data-char="ñ">ñ</button>
+    <button class="key" data-char="ṃ">ṃ</button>
+    <button class="key" data-char="ḷ">ḷ</button>
+    <button class="key kwide" data-char=" ">Space</button>
+    <button class="key" id="del">⌫</button>
+	<span class="kb-close-btn" id="closeKeyboard">×</span>
+  </div>	
+		 
+  <!-- Floating search box, hidden at start -->
+  <div class="search-box" id="floatingSearch" style="display:none;">
+	<input id="searchText" placeholder="Find on page…" />
+    <button id="btnSearch">Search</button>
+    <button id="btnPrev"><</button>
+    <button id="btnNext">></button>
+    <span id="counter">0 of 0</span>
+    <span class="sh-close-btn" id="closeSearch">×</span>
+  </div>
+	 </div>
+  </th></tr>
+</table>
+
+  </div>
