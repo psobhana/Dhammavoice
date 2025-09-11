@@ -67,7 +67,7 @@ const pip = document.getElementById('pip');
 }
 
 
-    function loadYoutubeLoop(videoID, loop = false) {
+    function loadYoutubeLoop(videoID) {
   videoArea.innerHTML = `
     <iframe class="responsive-iframe"
       src="https://www.youtube.com/embed/${videoID}?autoplay=1&loop=1"
@@ -86,7 +86,7 @@ const pip = document.getElementById('pip');
 }
 
 
-    function loadYoutubePlaylistLoop(playlistID, loop = false) {
+    function loadYoutubePlaylistLoop(playlistID) {
   videoArea.innerHTML = `
     <iframe class="responsive-iframe"
       src="https://www.youtube.com/embed/videoseries?list=${playlistID}&autoplay=1&loop=1"
