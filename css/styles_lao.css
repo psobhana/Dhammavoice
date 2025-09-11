@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/LaoPaliAlpha-Regular.woff') format('woff'); font-weight: normal; font-family: 'lao'; }
+
+.laofont{
+    font-family: lao;
+}
+
+
+.webfx-tree-item {
+  font-family: lao;
+  font-size: 14px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: lao;
+	font-size: 14px;
+}
+	
+

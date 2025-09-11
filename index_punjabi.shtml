@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
-  <link type="text/css" rel="stylesheet" href="styles_punjabi.css">
+  <!--#include file="include/header.html" -->
+  <link type="text/css" rel="stylesheet" href="css/styles_punjabi.css">
 </head>
 
 <body>
  <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
      
     
@@ -32,17 +32,17 @@
       <summary>ਤਿਪਿਟਕਪਾਲ਼ਿ</summary>
       <ul>
         <li><details><summary>ਵਿਨਯਪਿਟਕਂ</summary><ul>
-			<!--#include file="vinaya_punjabi.html" -->
+			<!--#include file="pitaka/vinaya_punjabi.html" -->
         </ul></details></li>
 		
         <li><details><summary>ਸੁਤ੍ਤਨ੍ਤਪਿਟਕਂ</summary><ul>
-			<!--#include file="sutta_punjabi.html" -->
+			<!--#include file="pitaka/sutta_punjabi.html" -->
         </ul></details></li>
 	<li><details><summary>ਅਭਿਧਮ੍ਮਪਿਟਕਂ</summary><ul>
-			<!--#include file="abhidhamma_punjabi.html" -->
+			<!--#include file="pitaka/abhidhamma_punjabi.html" -->
         </ul></details></li>
 	<li><details><summary>ਗਨ੍ਥਾਨਿ</summary><ul>
-			<!--#include file="extra_punjabi.html" -->
+			<!--#include file="pitaka/extra_punjabi.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -56,15 +56,15 @@
 <!-- Middle column end --> 
       
   <!-- Right column start --> 
- <!--#include file="right_text_punjabi.html" -->
+ <!--#include file="use/right_text_punjabi.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>

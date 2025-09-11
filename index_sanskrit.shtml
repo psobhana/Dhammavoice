@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
-  <link type="text/css" rel="stylesheet" href="styles_nagari.css">
+  <!--#include file="include/header.html" -->
+  <link type="text/css" rel="stylesheet" href="css/styles_nagari.css">
 
 </head>
 
 <body>
   <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
   
 <!-- Middle column start --> 
@@ -32,17 +32,17 @@
       <summary>तिपिटकपाळि</summary>
       <ul>
         <li><details><summary>विनयपिटकं</summary><ul>
-			<!--#include file="vinaya_nagari.html" -->
+			<!--#include file="pitaka/vinaya_nagari.html" -->
         </ul></details></li>
 		
         <li><details><summary>सुत्तन्तपिटकं</summary><ul>
-			<!--#include file="sutta_nagari.html" -->
+			<!--#include file="pitaka/sutta_nagari.html" -->
         </ul></details></li>
 	<li><details><summary>अभिधम्मपिटकं</summary><ul>
-			<!--#include file="abhidhamma_nagari.html" -->
+			<!--#include file="pitaka/abhidhamma_nagari.html" -->
         </ul></details></li>
 	<li><details><summary>गन्थानि</summary><ul>
-			<!--#include file="extra_nagari.html" -->
+			<!--#include file="pitaka/extra_nagari.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -55,15 +55,15 @@
 <!-- Middle column end -->   
       
   <!-- Right column start --> 
- <!--#include file="right_text_sanskrit.html" -->
+ <!--#include file="use/right_text_sanskrit.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>

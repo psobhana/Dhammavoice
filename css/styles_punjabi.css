@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/NotoSerifGurmukhi-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'punjabi'; }
+
+.punjabifont{
+    font-family: punjabi;
+}
+
+
+.webfx-tree-item {
+  font-family: punjabi;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: punjabi;
+	font-size: 16px;
+}
+	
+

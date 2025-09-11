@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
-  <link type="text/css" rel="stylesheet" href="styles_lao.css">
+  <!--#include file="include/header.html" -->
+  <link type="text/css" rel="stylesheet" href="css/styles_lao.css">
 </head>
 
 <body>
  <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
   
 <!-- Middle column start --> 
@@ -31,17 +31,17 @@
       <summary>ຕິປິຏກປາຬິ</summary>
       <ul>
         <li><details><summary>ວິນຍປິຏກໍ</summary><ul>
-			<!--#include file="vinaya_lao.html" -->
+			<!--#include file="pitaka/vinaya_lao.html" -->
         </ul></details></li>
 		
         <li><details><summary>ສຸຕ຺ຕນ຺ຕປິຏກໍ</summary><ul>
-			<!--#include file="sutta_lao.html" -->
+			<!--#include file="pitaka/sutta_lao.html" -->
         </ul></details></li>
 	<li><details><summary>ອຠິຘມ຺ມປິຏກໍ</summary><ul>
-			<!--#include file="abhidhamma_lao.html" -->
+			<!--#include file="pitaka/abhidhamma_lao.html" -->
         </ul></details></li>
 	<li><details><summary>ຄນ຺ຖານິ</summary><ul>
-			<!--#include file="extra_lao.html" -->
+			<!--#include file="pitaka/extra_lao.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -54,15 +54,15 @@
 <!-- Middle column end -->  
      
   <!-- Right column start --> 
- <!--#include file="right_text_lao.html" -->
+ <!--#include file="use/right_text_lao.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>

@@ -3,16 +3,16 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--#include file="tk_header.html" -->
+<!--#include file="include/tk_header.html" -->
 </head>
 <body>
 
 <!-- Side Bar Start -->
-<!--#include file="tk_left_menu.html" -->
+<!--#include file="include/tk_left_menu.html" -->
 <!-- Side Bar end -->
 
 <!-- Heading start --> 
-<!--#include file="heading.html" -->
+<!--#include file="include/heading.html" -->
 <!-- Heading end --> 
 
 <div class="header2">

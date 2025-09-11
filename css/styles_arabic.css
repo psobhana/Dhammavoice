@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/NotoNaskhArabic-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'arabic'; }
+
+.arabicfont{
+    font-family: arabic;
+}
+
+
+.webfx-tree-item {
+  font-family: arabic;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: arabic;
+	font-size: 16px;
+}
+	
+

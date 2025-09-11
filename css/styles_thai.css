@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/THSarabunNew.ttf') format('truetype'); font-weight: normal; font-family: 'thai'; }
+
+.thaifont{
+    font-family: thai;
+}
+
+
+.webfx-tree-item {
+  font-family: thai;
+  font-size: 24px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: thai;
+	font-size: 24px;
+}
+	
+

@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
+  <!--#include file="include/header.html" -->
   
   <!--
-  <link type="text/css" rel="stylesheet" href="styles_korean.css">
+  <link type="text/css" rel="stylesheet" href="css/styles_korean.css">
   -->
   
 </head>
 
 <body>
   <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
      
 <!-- Middle column start --> 
@@ -35,17 +35,17 @@
       <summary>트리피타카 팔리 - 삼장(三藏)</summary>
       <ul>
         <li><details><summary>비나야 비타캉 - 율장(律藏 )</summary><ul>
-			<!--#include file="vinaya_korean.html" -->
+			<!--#include file="pitaka/vinaya_korean.html" -->
         </ul></details></li>
 		
         <li><details><summary>숫타 비타캉 - 경장(經藏 )</summary><ul>
-			<!--#include file="sutta_korean.html" -->
+			<!--#include file="pitaka/sutta_korean.html" -->
         </ul></details></li>
 	<li><details><summary>아비달마 비타캉 - 논장(論藏 )</summary><ul>
-			<!--#include file="abhidhamma_korean.html" -->
+			<!--#include file="pitaka/abhidhamma_korean.html" -->
         </ul></details></li>
 	<li><details><summary>간타니</summary><ul>
-			<!--#include file="extra_korean.html" -->
+			<!--#include file="pitaka/extra_korean.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -59,15 +59,15 @@
 <!-- Middle column end -->  
      
   <!-- Right column start --> 
- <!--#include file="right_text_korean.html" -->
+ <!--#include file="use/right_text_korean.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>

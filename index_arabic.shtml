@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
-  <link type="text/css" rel="stylesheet" href="styles_arabic.css">
+  <!--#include file="include/header.html" -->
+  <link type="text/css" rel="stylesheet" href="css/styles_arabic.css">
 </head>
 
 <body>
   <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
     
 <!-- Middle column start --> 
@@ -31,17 +31,17 @@
       <summary>تِبِتَكَبَالِ</summary>
       <ul>
         <li><details><summary>فِنَيَبِتَكَمْ</summary><ul>
-			<!--#include file="vinaya_arabic.html" -->
+			<!--#include file="pitaka/vinaya_arabic.html" -->
         </ul></details></li>
 		
         <li><details><summary>سُتَّنْتَبِتَكَمْ</summary><ul>
-			<!--#include file="sutta_arabic.html" -->
+			<!--#include file="pitaka/sutta_arabic.html" -->
         </ul></details></li>
 	<li><details><summary>أَبِدَمَّبِتَكَمْ</summary><ul>
-			<!--#include file="abhidhamma_arabic.html" -->
+			<!--#include file="pitaka/abhidhamma_arabic.html" -->
         </ul></details></li>
 	<li><details><summary>غَنْتَانِ</summary><ul>
-			<!--#include file="extra_arabic.html" -->
+			<!--#include file="pitaka/extra_arabic.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -55,16 +55,16 @@
 <!-- Middle column end --> 
     
  <!-- Right column start --> 
- <!--#include file="right_text_arabic.html" -->
+ <!--#include file="use/right_text_arabic.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
  
 </body>
 </html>

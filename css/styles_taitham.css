@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/NotoSansTaiTham-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'taitham'; }
+
+.taithamfont{
+    font-family: taitham;
+}
+
+
+.webfx-tree-item {
+  font-family: taitham;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: taitham;
+	font-size: 16px;
+}
+	
+

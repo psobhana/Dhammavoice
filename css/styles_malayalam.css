@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/NotoSerifMalayalam-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'malayalam'; }
+
+.malayalamfont{
+    font-family: malayalam;
+}
+
+
+.webfx-tree-item {
+  font-family: malayalam;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: malayalam;
+	font-size: 16px;
+}
+	
+

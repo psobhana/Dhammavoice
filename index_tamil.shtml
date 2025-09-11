@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
-  <link type="text/css" rel="stylesheet" href="styles_tamil.css">
+  <!--#include file="include/header.html" -->
+  <link type="text/css" rel="stylesheet" href="css/styles_tamil.css">
 </head>
 
 <body>
   <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
     
 <!-- Middle column start --> 
@@ -31,17 +31,17 @@
       <summary>திரிப்பிட்டகப் பாளி</summary>
       <ul>
         <li><details><summary>வினயபிடகம்ʼ</summary><ul>
-			<!--#include file="vinaya_tamil.html" -->
+			<!--#include file="pitaka/vinaya_tamil.html" -->
         </ul></details></li>
 		
         <li><details><summary>ஸுத்தந்தபிடகம்ʼ</summary><ul>
-			<!--#include file="sutta_tamil.html" -->
+			<!--#include file="pitaka/sutta_tamil.html" -->
         </ul></details></li>
 	<li><details><summary>அபி⁴த⁴ம்மபிடகம்ʼ</summary><ul>
-			<!--#include file="abhidhamma_tamil.html" -->
+			<!--#include file="pitaka/abhidhamma_tamil.html" -->
         </ul></details></li>
 	<li><details><summary>க³ந்தா²னி</summary><ul>
-			<!--#include file="extra_tamil.html" -->
+			<!--#include file="pitaka/extra_tamil.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -55,16 +55,16 @@
 <!-- Middle column end -->  
      
   <!-- Right column start --> 
- <!--#include file="right_text_tamil.html" -->
+ <!--#include file="use/right_text_tamil.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 
 </body>
 </html>

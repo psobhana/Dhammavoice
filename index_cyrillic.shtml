@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="header.html" -->
+  <!--#include file="include/header.html" -->
 </head>
 
 <body>
   <!-- Side Bar Start -->
-  <!--#include file="left_menu.html" -->
+  <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="heading.html" -->
+  <!--#include file="include/heading.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
-  <!--#include file="youtube_window.html" -->
+  <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
 
 <!-- Middle column start --> 
@@ -30,17 +30,17 @@
       <summary>Типит̣акапа̄л̣и</summary>
       <ul>
         <li><details><summary>Винайапит̣акам̣</summary><ul>
-			<!--#include file="vinaya_cyrillic.html" -->
+			<!--#include file="pitaka/vinaya_cyrillic.html" -->
         </ul></details></li>
 		
         <li><details><summary>Суттантапит̣акам̣</summary><ul>
-			<!--#include file="sutta_cyrillic.html" -->
+			<!--#include file="pitaka/sutta_cyrillic.html" -->
         </ul></details></li>
 	<li><details><summary>Абхидхаммапит̣акам̣</summary><ul>
-			<!--#include file="abhidhamma_cyrillic.html" -->
+			<!--#include file="pitaka/abhidhamma_cyrillic.html" -->
         </ul></details></li>
 	<li><details><summary>Гантха̄ни</summary><ul>
-			<!--#include file="extra_cyrillic.html" -->
+			<!--#include file="pitaka/extra_cyrillic.html" -->
         </ul></details></li>
       </ul>
     </details>
@@ -54,15 +54,15 @@
 <!-- Middle column end --> 
       
   <!-- Right column start --> 
- <!--#include file="right_text_russian.html" -->
+ <!--#include file="use/right_text_russian.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
- <!--#include file="bottom_text.html" -->
+ <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>

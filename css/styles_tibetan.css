@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/NotoSansTibetan-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'tibetan'; }
+
+.tibetanfont{
+    font-family: tibetan;
+}
+
+
+.webfx-tree-item {
+  font-family: tibetan;
+  font-size: 14px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: tibetan;
+	font-size: 16px;
+}
+	
+

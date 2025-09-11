@@ -1,0 +1,20 @@
+
+@font-face { src: url('../fonts/NotoSerifBengali-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'assamese'; }
+
+.assamesefont{
+    font-family: assamese;
+}
+
+
+.webfx-tree-item {
+  font-family: assamese;
+  font-size: 16px;
+}
+  
+  
+.webfx-tree-item a {
+	font-family: assamese;
+	font-size: 16px;
+}
+	
+

@@ -3,16 +3,16 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--#include file="tk_header.html" -->
+<!--#include file="include/tk_header.html" -->
 </head>
 <body>
 
 <!-- Side Bar Start -->
-<!--#include file="tk_left_menu.html" -->
+<!--#include file="include/tk_left_menu.html" -->
 <!-- Side Bar end -->
 
 <!-- Heading start --> 
-<!--#include file="heading.html" -->
+<!--#include file="include/heading.html" -->
 <!-- Heading end --> 
 
 <div class="header2">
@@ -27,7 +27,7 @@
 	<div class="center" class="img-container">    
 	  <!-- add class="center" here for talks -->
 	  
-	 <!--#include file="tk_youtube_window.html" -->
+	 <!--#include file="include/tk_youtube_window.html" -->
 </div>
   </div>
   
@@ -61,10 +61,10 @@
 <!-- Article links End -->
 
 <!-- Article list Start -->
-<!--#include file="tk_rahula_eng_list.html" -->
+<!--#include file="lists/tk_rahula_eng_list.html" -->
 <!-- Article list End -->
 </div>
 <!-- youtube window doesn't work when copied to .js file --> 
-<!--#include file="youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>
