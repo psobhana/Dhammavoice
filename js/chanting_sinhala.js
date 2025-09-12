@@ -35,39 +35,79 @@ document.addEventListener("click", function(event) {
 
 //Search begin
 
-// floating search box
-
-
 document.addEventListener("DOMContentLoaded", function () {
   const toggleBtn = document.getElementById("toggleSearchBtn");
   const floatingBox = document.getElementById("floatingSearch");
-const closeBtn = document.getElementById("closeSearch");
-  
- 
+  const closeBtn = document.getElementById("closeSearch");
+  const searchInput = document.getElementById("searchText");
+  const replaceOutput = document.getElementById("replaceTextOutput");
+  const counter = document.getElementById("counter");
 
-  // Toggle with the search button
-  toggleBtn.addEventListener("click", function () {
-    if (floatingBox.style.display === "none" || floatingBox.style.display === "") {
-      floatingBox.style.display = "block";
-    } else {
-      floatingBox.style.display = "none";
+  // =========================
+  // Floating Search Box Toggle
+  // =========================
+  toggleBtn.addEventListener("click", () => {
+    floatingBox.style.display =
+      (floatingBox.style.display === "none" || floatingBox.style.display === "")
+        ? "block" : "none";
+  });
+  closeBtn.addEventListener("click", () => floatingBox.style.display = "none");
+
+  // =========================
+  // Replace Function
+  // =========================
+  function replaceText() {
+    const a = "\u0DCA"; // Sinhala sign (්)
+    const b = "\u200D"; // Zero Width Joiner (‍)
+    
+    const specialCombinations = [
+      "\u0D9A\u0DCA\u0D9A", // ක්ක
+      "\u0D9A\u0DCA\u0DC2", // ක්ෂ
+      "\u0DAD\u0DCA\u0DAE", // ත්ථ
+      "\u0DAD\u0DCA\u0DC0", // ත්ව
+      "\u0DB1\u0DCA\u0DC0", // න්ව
+      "\u0DB1\u0DCA\u0DAD", // න්ථ
+      "\u0DB1\u0DCA\u0DAF", // න්ද
+      "\u0DB1\u0DCA\u0DB0"  // න්ධ
+    ];
+
+    const currentText = searchInput.value.normalize("NFD");
+    let replacedText = currentText;
+    let replacementCount = 0;
+
+    for (const combination of specialCombinations) {
+      const pattern = combination.normalize("NFD");
+      const regex = new RegExp(pattern, "g");
+      const matches = replacedText.match(regex);
+      if (matches) replacementCount += matches.length;
+      replacedText = replacedText.replace(regex, pattern.replace(a, a + b));
     }
-  });
 
-  // Close with the x button
-  closeBtn.addEventListener("click", function () {
-    floatingBox.style.display = "none";
-  });
-});
+    const remainingViramaRegex = new RegExp(a + "(?!" + b + ")", "g");
+    const remainingMatches = replacedText.match(remainingViramaRegex);
+    if (remainingMatches) {
+      replacementCount += remainingMatches.length;
+      replacedText = replacedText.replace(remainingViramaRegex, b + a);
+    }
 
+    replaceOutput.value = replacedText.normalize("NFC");
 
+    if (replacementCount > 0) {
+      counter.textContent = `${replacementCount} replacements made`;
+    } else {
+      counter.textContent = "No ◌් found";
+    }
 
-// search
-document.addEventListener("DOMContentLoaded", function () {
+    setTimeout(() => { counter.textContent = "0 of 0"; }, 2000);
+  }
+
+  document.getElementById("btnReplace").addEventListener("click", replaceText);
+
+  // =========================
+  // Search & Highlight
+  // =========================
   let searchIndex = -1;
   let matches = [];
-  let searchInput = document.getElementById("searchText");
-  let counter = document.getElementById("counter");
 
   function clearHighlights() {
     let marks = document.querySelectorAll("mark.search-highlight");
@@ -93,7 +133,6 @@ document.addEventListener("DOMContentLoaded", function () {
       NodeFilter.SHOW_TEXT, 
       {
         acceptNode: function(node) {
-          // Skip script and style elements
           if (node.parentNode.tagName === 'SCRIPT' || 
               node.parentNode.tagName === 'STYLE') {
             return NodeFilter.FILTER_REJECT;
@@ -125,7 +164,6 @@ document.addEventListener("DOMContentLoaded", function () {
         walker.currentNode = afterNode;
         matches.push(mark);
 
-        // Expand parent tree menus
         expandParentTreeMenus(mark);
       }
     }
@@ -136,11 +174,8 @@ document.addEventListener("DOMContentLoaded", function () {
   function expandParentTreeMenus(element) {
     let parent = element.parentNode;
     while (parent) {
-      // Expand any UL with class tree2
       if (parent.tagName === "UL" && parent.classList.contains("tree2")) {
         parent.classList.add("expanded");
-        
-        // Also expand parent LI elements to show the expanded tree
         let liParent = parent.parentNode;
         while (liParent && liParent.tagName === "LI") {
           liParent.classList.add("expanded");
@@ -150,12 +185,9 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         }
       }
-      
-      // Expand details elements
       if (parent.tagName === "DETAILS") {
         parent.open = true;
       }
-      
       parent = parent.parentNode;
     }
   }
@@ -169,6 +201,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+/*
   document.getElementById("btnSearch").addEventListener("click", function () {
     highlightAll(searchInput.value.trim());
     if (matches.length > 0) {
@@ -176,7 +209,16 @@ document.addEventListener("DOMContentLoaded", function () {
       scrollToMatch(searchIndex);
     }
   });
+*/
 
+  document.getElementById("btnSearch").addEventListener("click", function () {
+    highlightAll(replaceOutput.value.trim());
+    if (matches.length > 0) {
+      searchIndex = 0;
+      scrollToMatch(searchIndex);
+    }
+  });
+  
   document.getElementById("btnNext").addEventListener("click", function () {
     if (matches.length > 0) {
       searchIndex = (searchIndex + 1) % matches.length;
@@ -191,6 +233,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+
 
 //Search end
 

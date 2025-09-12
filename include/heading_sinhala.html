@@ -1,0 +1,43 @@
+<div class="header">
+<table>
+  <tr>
+      <td> <div id="main">
+  <button id="menuBtn" class="openbtn" onclick="toggleNav()">☰</button>
+</div></td>
+
+      <td><div class="theme-buttons">
+  <button class="unstyled-button" onclick="setTheme('dark')">🌙</button>
+  <button class="unstyled-button" onclick="setTheme('light')">☀️</button>
+  <button class="unstyled-button" id="toggleSearchBtn">🔍</button>
+</div></td>
+
+
+  <!-- Floating Search Box -->
+  <div class="search-box" id="floatingSearch">
+    <div class="input-group">
+      <label for="searchText">Search for:</label>
+      <input type="text" id="searchText" placeholder="Search text..." />
+    </div>
+    
+    <div class="input-group">
+      <label for="replaceTextOutput">Output (with ZWJ added):</label>
+      <textarea id="replaceTextOutput" placeholder="Output will appear here..."></textarea>
+    </div>
+    
+    <div class="button-group">
+      <button id="btnReplace">Join</button>
+      <button id="btnSearch">Search</button>
+      <button id="btnPrev">⬆ Prev</button>
+      <button id="btnNext">⬇ Next</button>
+      <span id="counter">0 of 0</span>
+      <button id="closeSearch">✖</button>
+    </div>
+  </div>
+  
+  
+  </tr>
+
+</table>
+
+  </div>
+  

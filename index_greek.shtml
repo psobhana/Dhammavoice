@@ -62,7 +62,7 @@
 
   <!-- English Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="js/youtube_window_scripts.html" -->
+<!--#include file="js/keyboard_english_scripts.html" -->
  
 </body>
 </html>

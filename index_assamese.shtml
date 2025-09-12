@@ -25,24 +25,24 @@
 	 <center> <h1 class="assamesefont">তিপিটকপাল়ি</h1> </center>
 
 <!-- Expanding Menu Start -->
-	 <div class="expanding-menu2">
+	 <div class="webfx-tree-item">
 	   <ul class="tree">
   <li>
     <details open>
       <summary>তিপিটকপাল়ি</summary>
       <ul>
         <li><details><summary>ৰিনযপিটকং</summary><ul>
-			<!--#include file="pitaka/vinaya_assamese.html" -->
+			<!--#include file="pitaka/vinaya_bengali.html" -->
         </ul></details></li>
 		
         <li><details><summary>সুত্তন্তপিটকং</summary><ul>
-			<!--#include file="pitaka/sutta_assamese.html" -->
+			<!--#include file="pitaka/sutta_bengali.html" -->
         </ul></details></li>
 	<li><details><summary>অভিধম্মপিটকং</summary><ul>
-			<!--#include file="pitaka/abhidhamma_assamese.html" -->
+			<!--#include file="pitaka/abhidhamma_bengali.html" -->
         </ul></details></li>
 	<li><details><summary>গন্থানি</summary><ul>
-			<!--#include file="pitaka/extra_assamese.html" -->
+			<!--#include file="pitaka/extra_bengali.html" -->
         </ul></details></li>
       </ul>
     </details>

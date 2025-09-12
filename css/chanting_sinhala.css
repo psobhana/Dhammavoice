@@ -90,48 +90,97 @@ button:hover {
 
 
   /*search box begin*/
- .search-box {
+  .search-box {
       position: fixed;
-      top: 40px;
+      top: 20px;
       right: 20px;
-       /*background: #fff;*/
+      /* background: #fff; */
       background-color: var(--search-box);
-	  color: var(--btn-text);
       border: 1px solid #cbd5e0;
-      padding: 10px;
+      padding: 15px;
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-      z-index: 9999;
+      z-index: 10000;
       display: none;
-      /*  position: relative; /* so close button can be positioned inside */
-      /* cursor: move;         /* show move cursor */
-   /* touch-action: none;   /* needed for mobile dragging */
+      min-width: 320px;
     }
     
- .search-box input {
-      width: 180px;
+    .input-group {
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .input-group label {
+      font-size: 12px;
+      margin-bottom: 4px;
+      color: #4a5568;
+    }
+    
+    .search-box input, .search-box textarea {
+      width: calc(100% - 18px);
       padding: 8px;
       border: 1px solid #cbd5e0;
       border-radius: 4px;
-      margin-right: 5px;
-background-color: var(--bg-primary);
-  color: var(--text-primary);
+      margin-bottom: 8px;
+      resize: vertical;
     }
     
- .search-box button {
-      padding: 8px 12px;
+    .search-box textarea {
+      min-height: 60px;
+      font-family: monospace;
+    }
+    
+    .button-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-bottom: 8px;
+    }
+    
+    .search-box button {
+      padding: 6px 10px;
       font-size: 14px;
+      background: #f7fafc;
+      border: 1px solid #cbd5e0;
+      border-radius: 4px;
+      cursor: pointer;
     }
     
-    mark.search-highlight {
-      background: rgba(255, 230, 0, 0.5);
-      padding: 0;
+    .search-box button:hover {
+      background: #edf2f7;
     }
     
-    mark.active-match {
-      background: orange;
+    #btnReplace {
+      background: #4299e1;
+      color: white;
+      border-color: #3182ce;
     }
-	
+    
+    #btnReplace:hover {
+      background: #3182ce;
+    }
+    
+    #counter {
+      font-size: 12px;
+      color: #718096;
+      margin: 0 5px;
+      line-height: 30px;
+    }
+    
+    #closeSearch {
+      background: #e53e3e;
+      color: white;
+      border-color: #c53030;
+    }
+    
+    #closeSearch:hover {
+      background: #c53030;
+    }
+    
+    mark.search-highlight { background: rgba(255,230,0,0.5); }
+    mark.active-match { background: orange; }
+  
 	/* Extra small screens - make search-box smaller */
 @media (max-width: 540px) {
   .search-box {

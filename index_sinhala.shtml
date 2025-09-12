@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--#include file="include/header.html" -->
+  <!--#include file="include/header_sinhala.html" -->
   <link type="text/css" rel="stylesheet" href="css/styles_sinhala.css">
 </head>
 
@@ -11,7 +11,7 @@
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="include/heading.html" -->
+  <!--#include file="include/heading_sinhala.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
@@ -24,7 +24,7 @@
 	 <center> <h1 class="sinhalafont">ත්‍රිපිටක සජ්‍ඣායනය</h1> </center>
 
 <!-- Expanding Menu Start -->
-	 <div class="expanding-menu2">
+	 <div class="webfx-tree-item">
 	   <ul class="tree">
   <li>
     <details open>
@@ -62,7 +62,7 @@
  <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
-  <!-- English Special character keyboard , youtube window
+  <!-- youtube window
  floating doesn't work when copied to .js file --> 
 <!--#include file="js/youtube_window_scripts.html" -->
 
