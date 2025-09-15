@@ -11,7 +11,7 @@
   <!-- Side Bar end -->
   
   <!-- Heading start --> 
-  <!--#include file="include/heading.html" -->
+  <!--#include file="include/heading_tamil.html" -->
    <!-- Heading end --> 
   
   <!-- Left column start --> 
@@ -62,9 +62,9 @@
  <!--#include file="include/bottom_text.html" -->
  <!-- Bottom end --> 
 
-  <!-- English Special character keyboard , youtube window
+  <!-- Special character keyboard , youtube window
  floating doesn't work when copied to .js file --> 
-<!--#include file="js/youtube_window_scripts.html" -->
+<!--#include file="js/youtube_window_keyboard_scripts.html" -->
 
 </body>
 </html>

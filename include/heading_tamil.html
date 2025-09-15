@@ -1,0 +1,47 @@
+<div class="header">
+<table>
+  <tr>
+      <td> <div id="main">
+  <button id="menuBtn"class="openbtn" onclick="toggleNav()">☰ </button>
+</div></td>
+
+      <td><div class="theme-buttons">
+  <button class="unstyled-button" onclick="setTheme('dark')">🌙</button>
+  <button class="unstyled-button" onclick="setTheme('light')">☀️</button>
+<button class="unstyled-button" id="toggleKeyboard">⌨</button>
+<button class="unstyled-button" id="toggleSearchBtn">🔍</button>
+</div></td>
+<!-- Floating Keyboard, hidden at start -->
+      <div class="keyboard" id="keyboard" role="list" aria-label="Special characters keyboard">
+    <button class="key" data-char="க²">க²</button>
+    <button class="key" data-char="க³">க³</button>
+    <button class="key" data-char="க⁴">க⁴</button>
+    <button class="key" data-char="ட²">ட²</button>
+    <button class="key" data-char="ட³">ட³</button>
+    <button class="key" data-char="ட⁴">ட⁴</button>
+    <button class="key" data-char="ப²">ப²</button>
+    <button class="key" data-char="ப³">ப³</button>
+    <button class="key" data-char="ப⁴">ப⁴</button>
+    <button class="key" data-char="த²">த²</button>
+    <button class="key" data-char="த³">த³</button>
+    <button class="key" data-char="த⁴">த⁴</button>
+    <button class="key" data-char="ச²">ச²</button>
+    <button class="key" data-char="ஜ²">ஜ²</button>
+    <button class="key kwide" data-char=" ">Space</button>
+    <button class="key" id="del">⌫</button>
+	<span class="kb-close-btn" id="closeKeyboard">×</span>
+  </div>	
+		 
+  <!-- Floating search box, hidden at start -->
+  <div class="search-box" id="floatingSearch" style="display:none;">
+	<input id="searchText" placeholder="Find on page…" />
+    <button id="btnSearch">Search</button>
+    <button id="btnPrev"><</button>
+    <button id="btnNext">></button>
+    <span id="counter">0 of 0</span>
+    <span class="sh-close-btn" id="closeSearch">×</span>
+  </div>
+  </tr>
+
+</table>
+  </div>
