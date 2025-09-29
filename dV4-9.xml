@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-<tree text="1. បាតិមោក្ខុទ្ទេសយាចន (5min), 424p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 0, 352);" icon="images/chetiya.gif"/>
-<tree text="2. មហាសមុទ្ទេ អដ្ឋ អច្ឆរិយា (5min), 426p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 352, 741);" icon="images/chetiya.gif"/>
-<tree text="3. ធម្មវិនយេ អដ្ឋ អច្ឆរិយា (1h.15min.), 430p" action="javascript:loadYoutubeStartStop('5oGjDdhldeo', 741, 5144);" icon="images/chetiya.gif"/>
-<tree text="4. តស្សុទ្ទានំ (5min.), 464p" action="javascript:loadYoutubeStart('5oGjDdhldeo', 5144);" icon="images/chetiya.gif"/>
-</tree>
