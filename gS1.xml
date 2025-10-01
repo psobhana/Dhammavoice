@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-	<tree text="1. সীলক্খন্ধৰগ্গো (DN 1, BJT 7)" src="gS1-1.xml" />
-	<tree text="2. মহাৰগ্গো (DN 2, BJT 8)" src="gS1-2.xml" />
-	<tree text="3. পাথিকৰগ্গো (DN 3, BJT 9)" src="gS1-3.xml" />
-	
-</tree>
