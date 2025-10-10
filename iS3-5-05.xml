@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-    <tree text="01. 恒河中略品 (5min.), 426p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 0, 279);" icon="images/chetiya.gif"/>
-    <tree text="02. 不放逸中略品 (1min.), 428p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 279, 332);" icon="images/chetiya.gif"/>
-    <tree text="03. 力量所作品 (3min.), 430p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 332, 502);" icon="images/chetiya.gif"/>
-    <tree text="04. 尋求品 (2min.), 430p" action="javascript:loadYoutubeStartStop('FhmS6rJpT-I', 502, 624);" icon="images/chetiya.gif"/>
-    <tree text="05. 暴流品 (3min.), 432p" action="javascript:loadYoutubeStart('FhmS6rJpT-I', 624);" icon="images/chetiya.gif"/>
-</tree>

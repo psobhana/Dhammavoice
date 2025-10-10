@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-	<tree text="1. 三藏文獻" src="iX1.xml" />
-	<tree text="2. 餘分文獻" src="iX2.xml" />
-	<tree text="3. 重複說" src="iX3.xml" />
-</tree>
