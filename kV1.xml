@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-	<tree text="1. ವೇರಞ್ಜಕಣ್ಡೋ" src="kV1-1.xml" />
-	<tree text="2. ಪಾರಾಜಿಕಕಣ್ಡೋ" src="kV1-2.xml" />
-	<tree text="3. ಸಙ್ಘಾದಿಸೇಸಕಣ್ಡೋ" src="kV1-3.xml" />
-	<tree text="4. ಅನಿಯತಕಣ್ಡೋ" src="kV1-4.xml" />
-	<tree text="5. ನಿಸ್ಸಗ್ಗಿಯಕಣ್ಡೋ" src="kV1-5.xml" />
-</tree>
