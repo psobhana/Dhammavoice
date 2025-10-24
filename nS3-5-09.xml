@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-    <tree text="01. गङ्गापेय्यालवग्गो (3min.), 84p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 0, 226);" icon="images/chetiya.gif"/>
-    <tree text="02. अप्पमादवग्गो (1min.), 86p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 226, 273);" icon="images/chetiya.gif"/>
-    <tree text="03. बलकरणीयवग्गो (1min.), 86p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 273, 321);" icon="images/chetiya.gif"/>
-    <tree text="04. एसनावग्गो (1min.), 86p" action="javascript:loadYoutubeStartStop('hCiiqRhgQ2I', 321,. 370);" icon="images/chetiya.gif"/>
-    <tree text="05. ओघवग्गो (2min.), 88p" action="javascript:loadYoutubeStart('hCiiqRhgQ2I', 370);" icon="images/chetiya.gif"/>
-</tree>

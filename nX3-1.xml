@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-	<tree text="1. पाराजिकपाळि (BJT 1, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgom18N4S8yUjBJ57U6R3kzmg', true);" icon="images/chetiya.gif"/>
-	<tree text="2. पाचित्तियपाळि - भिक्खुविभङ्गो (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomXgI2RC-pD55dHuLIq5PfR', true);" icon="images/chetiya.gif"/>
-	<tree text="3. भिक्खुनीविभङ्गो (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomEfkzytDgd9tohpPj8KbI-', true);" icon="images/chetiya.gif"/>
-	<tree text="4. महावग्गपाळि (BJT 3,4, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomm8ucb3SpYzAiWYkuMqQMT', true);" icon="images/chetiya.gif"/>
-	<tree text="5. चुल्लवग्गपाळि (BJT 5-i,ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok1h2_O-GMps0eQaySf1xVJ', true);" icon="images/chetiya.gif"/>
-</tree>

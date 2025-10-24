@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-<tree text="1. संगीति निदानं (15min.), 544p" action="javascript:loadYoutubeStartStop('s1k0zE4Nl10', 0, 951);" icon="images/chetiya.gif"/>
-<tree text="2. खुद्दानुखुद्दकसिक्खापदकथा (10min.), 552p" action="javascript:loadYoutubeStartStop('s1k0zE4Nl10', 951, 1660);" icon="images/chetiya.gif"/>
-<tree text="3. ब्रह्मदण्डकथा (10min.), 558p" action="javascript:loadYoutubeStartStop('s1k0zE4Nl10', 1660, 2378);" icon="images/chetiya.gif"/>
-<tree text="4. तस्सुद्दानं (2min.), 564p" action="javascript:loadYoutubeStart('s1k0zE4Nl10', 2378);" icon="images/chetiya.gif"/>
-</tree>
-
