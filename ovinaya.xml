@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-<tree text="1. ປາຣາຊິກປາຬິ (BJT 1)" src="oV1.xml" />
-<tree text="2. ປາຈິຕ຺ຕິຍປາຬິ (BJT 2-i,ii)" src="oV2.xml" />
-<tree text="3. ມຫາວຄ຺ຄປາຬິ (BJT 3,4)" src="oV3.xml" />
-<tree text="4. ຈຸລ຺ລວຄ຺ຄປາຬິ (BJT 5-i,ii)" src="oV4.xml" />
-<tree text="5. ປຣິວາຣປາຬິ (BJT 6-i,ii)" src="oV5.xml" />
-</tree>
