@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-	<tree text="1. 비나야 비타캉 - 율장(律藏 )" src="rX3-1.xml" />
-	<tree text="2. 숫타 비타캉 - 경장(經藏 )" src="rX3-2.xml" />
-	<tree text="3. 아비달마 비타캉 - 논장(論藏 )" src="rX3-3.xml" />
-	<tree text="4. 아디레거간타니" src="rX3-4.xml" />
-</tree>
