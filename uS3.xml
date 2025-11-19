@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-    <tree text="1. સગાથવગ્ગો (SN 1, BJT 13)" src="uS3-1.xml" />
-    <tree text="2. નિદાનવગ્ગો (SN 2, BJT 14)" src="uS3-2.xml" />
-    <tree text="3. ખન્ધકવગ્ગો (SN 3, BJT 15)" src="uS3-3.xml" />
-    <tree text="4. સળાયતનવગ્ગો (SN 4, BJT 16)" src="uS3-4.xml" />
-    <tree text="5. મહાવગ્ગો (SN 5, 6, BJT 17.1, 17.2)" src="uS3-5.xml" />
-</tree>

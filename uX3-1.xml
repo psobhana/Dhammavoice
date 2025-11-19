@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-	<tree text="01. પારાજિકપાળિ (BJT 1, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgom18N4S8yUjBJ57U6R3kzmg', true);" icon="images/chetiya.gif"/>
-	<tree text="02. પાચિત્તિયપાળિ - ભિક્ખુવિભઙ્ગો (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomXgI2RC-pD55dHuLIq5PfR', true);" icon="images/chetiya.gif"/>
-	<tree text="03. ભિક્ખુનીવિભઙ્ગો (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomEfkzytDgd9tohpPj8KbI-', true);" icon="images/chetiya.gif"/>
-	<tree text="04. મહાવગ્ગપાળિ (BJT 3,4, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomm8ucb3SpYzAiWYkuMqQMT', true);" icon="images/chetiya.gif"/>
-	<tree text="05. ચુલ્લવગ્ગપાળિ (BJT 5-i,ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok1h2_O-GMps0eQaySf1xVJ', true);" icon="images/chetiya.gif"/>
-</tree>
