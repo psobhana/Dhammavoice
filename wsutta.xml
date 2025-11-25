@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-<tree text="1. Trường Bộ Kinh" src="wS1.xml" />
-<tree text="2. Trung Bộ Kinh" src="wS2.xml" />
-<tree text="3. Tương Ưng Bộ Kinh" src="wS3.xml" />
-<tree text="4. Tăng Chi Bộ Kinh" src="wS4.xml" />
-<tree text="5. Tiểu Bộ Kinh" src="wS5.xml" />
-</tree>

@@ -5,7 +5,7 @@
 </head>
 
 <body>
-   <!-- Side Bar Start -->
+  <!-- Side Bar Start -->
   <!--#include file="include/left_menu.html" -->
   <!-- Side Bar end -->
   
@@ -16,12 +16,12 @@
   <!-- Left column start --> 
   <!--#include file="include/youtube_window.html" -->
   <!-- Left column end --> 
-  
+    
 <!-- Middle column start --> 
     <div class="col-8 col-s-9">
       <td>
-	 <center> <h1>Cantus Tipiṭakæ</h1> </center>
-	  
+	 <center> <h1>Recytowanie Tipitaka</h1> </center>
+
 	 <!-- Expanding Menu Start -->
 	 <div class="expanding-menu2">
 	   <ul class="tree">
@@ -48,13 +48,14 @@
 </ul>
 	  </div>
 	  
-<!-- Expanding Menu End -->
+<!-- Expanding Menu End -->	  
+
 </td>
     </div>
 <!-- Middle column end --> 
-   
+     
   <!-- Right column start --> 
- <!--#include file="use/right_text_latin.html" -->
+ <!--#include file="use/right_text_polish.html" -->
  <!-- Right column end --> 
       
  <!-- Bottom start --> 
