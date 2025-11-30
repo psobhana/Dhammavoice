@@ -23,6 +23,7 @@
       <td>
 	 <center> <h1 class="arabicfont">تِرِبتا كا سَجّاينيا</h1> </center>
 	  
+
 <!-- Expanding Menu Start -->
 	 <div class="webfx-tree-item">
 	   <ul class="tree">
@@ -36,6 +37,7 @@
 		
         <li><details><summary>سُتَّنْتَبِتَكَمْ</summary><ul>
 			<!--#include file="pitaka/sutta_arabic.html" -->
+			
         </ul></details></li>
 	<li><details><summary>أَبِدَمَّبِتَكَمْ</summary><ul>
 			<!--#include file="pitaka/abhidhamma_arabic.html" -->
@@ -49,6 +51,9 @@
 </ul>
 	  </div>
 <!-- Expanding Menu End -->
+
+
+
 
 </td>
     </div>
