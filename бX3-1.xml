@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<tree>
-<tree text="1. ﻿پَارَاجِکَپَالِ (BJT 1, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgom18N4S8yUjBJ57U6R3kzmg', true);" icon="images/chetiya.gif"/>
-<tree text="2. پَاچِتِّیَپَالِ - بھِکھُّوِبھَنْگو (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomXgI2RC-pD55dHuLIq5PfR', true);" icon="images/chetiya.gif"/>
-<tree text="3. بھِکھُّنِیوِبھَنْگو (BJT 2.i, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomEfkzytDgd9tohpPj8KbI-', true);" icon="images/chetiya.gif"/>
-<tree text="4. مَہَاوَگَّپَالِ (BJT 3,4, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgomm8ucb3SpYzAiWYkuMqQMT', true);" icon="images/chetiya.gif"/>
-<tree text="5. چُلَّوَگَّپَالِ (BJT 5-i,ii, Repeat)" action="javascript:loadYoutubePlaylistLoop('PL5_Ax8uKjgok1h2_O-GMps0eQaySf1xVJ', true);" icon="images/chetiya.gif"/>
-</tree>
