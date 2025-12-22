@@ -41,7 +41,7 @@ def main():
 
             f_out.write(new_line)
 
-    print("Done! Output written to output.txt")
+    print("Done! Output written to output.html")
 
 if __name__ == "__main__":
     main()
