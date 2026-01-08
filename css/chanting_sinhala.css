@@ -365,13 +365,16 @@ button:hover {
             padding: 0.1rem 0;
         }
         
-        .svg-icon {
+ 		 .svg-icon {
+            display: block;
+            position: absolute;
+            top: calc(var(--spacing) / 2 - var(--radius));
+            left: calc(var(--spacing) - var(--radius) - 1px);
             width: 24px;
             height: 24px;
             margin-right: 5px;
             filter: drop-shadow(0 0 4px rgba(0, 255, 255, 0.7));
         }
-
 
 /*New tree end */
 
