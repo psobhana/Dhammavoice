@@ -64,14 +64,14 @@
 
 <div class="menu2">
 <ul>
-<li><a href="tk_dhammagaru_meditation_eng.shtml">Meditation Programs</a></li>
+<li><a href="tk_dhammagaru_bhavanasoc_eng.shtml">Bhavana Society, WV Dhamma Talks</a></li>
 <li><a href="tk_dhammagaru.shtml">←</a></li>
 </ul>
 </div>
 <!-- Article links End -->
 
 <!-- Article list Start -->
-<!--#include file="lists/tk_dhammagaru_meditation_eng_list.html" -->
+<!--#include file="lists/tk_dhammagaru_bhavanasoc_eng_list.html" -->
 <!-- Article list End -->
 
 </div>

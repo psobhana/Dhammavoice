@@ -3,12 +3,12 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--#include file="include/cl_header.html" -->
+<!--#include file="include/tk_header.html" -->
 </head>
 <body>
 
 <!-- Side Bar Start -->
-<!--#include file="include/cl_left_menu.html" -->
+<!--#include file="include/tk_left_menu.html" -->
 <!-- Side Bar end -->
 
 <!-- Heading start --> 
@@ -18,15 +18,20 @@
 <div class="header2">
   <h1>උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ</h1>
   <p style="font-size:12px">(Royal Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>
-  <h2>දහම් ලිපි</h2>
+  <h2>භික්ඛු දේශනා</h2>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:var(--bg-primary);">
     
   
-	<div class="img-container">
-  <img src="images/dhammagaru.jpg">
+	<div class="center" class="img-container">  
+	
+	  <!-- add class="center" here for talks -->
+	  
+	 <!--#include file="include/tk_youtube_window.html" -->
+	
+   <!-- <img src="images/dhammagaru.jpg"> -->
   
 </div>
   </div>
@@ -34,8 +39,11 @@
   
   <div class="column" style="background-color:var(--bg-primary);">
    
-<p>පූජ්‍ය උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ සිංහල විශ්වකෝෂයේ සහකාර කර්තෘවරයකු වශයෙන් මෙන් ම නිට්ටඹුව සාරිපුත්ත අධ්‍යාපන විද්‍යාපීඨයේ කථිකාචාර්යවරයකු වශයෙන් ද  කටයුතු කළ අතර වර්තමානයේ ඇමරිකාවේ ලොස්ඇන්ජලීස් බෞද්ධ විහාරයේ වැඩ වසති.</p>
-<p>මෙම ලිපි සකස් කිරීමේදී කෘත්‍රිම බුද්ධිය (AI) භාවිතා කර නොමැත.</p>
+    <p>
+	
+	පූජ්‍ය උස්ගොඩ ධම්‍මගරු හිමිපාණන් වහන්සේ සිංහල විශ්වකෝෂයේ සහකාර කර්තෘවරයකු වශයෙන් මෙන් ම නිට්ටඹුව සාරිපුත්ත අධ්‍යාපන විද්‍යාපීඨයේ කථිකාචාර්යවරයකු වශයෙන් ද  කටයුතු කළ අතර වර්තමානයේ ඇමරිකාවේ ලොස්ඇන්ජලීස් බෞද්ධ විහාරයේ වැඩ වසති.  
+	
+	</p>
 	
 <div class="menu2">
 <ul>
@@ -46,7 +54,7 @@
 </div>
 
 	<p style="font-size:12px">
-	YouTube වීඩියෝ වල description එක තුලින් ද මෙම ලිපි බාගත කරගත හැකිය.
+	YouTube වීඩියෝ වල description එක තුලින් ද ලිපි බාගත කරගත හැකිය.
 	</p>
 	
   </div>
@@ -57,20 +65,19 @@
 
 <div class="menu2">
 <ul>
-<li><a href="cl_dhammagaru_eng.shtml">English Articles</a></li>
-<li><a href="cl_dhammagaru_sin.shtml">සිංහල ලිපි</a></li>
-<li><a href="cl_dhammagaru_gra.shtml">ව්‍යාකරණ</a></li>
+<li><a href="tk_dhammagaru_mmctvusa_sin.shtml">MMC TV USA ධර්ම දේශනා</a></li>
 <li><a href="tk_dhammagaru.shtml">←</a></li>
 </ul>
 </div>
 <!-- Article links End -->
 
 <!-- Article list Start -->
-<!--#include file="lists/cl_dhammagaru_sin_list.html" -->
+<!--#include file="lists/tk_dhammagaru_mmctvusa_sin_list.html" -->
 <!-- Article list End -->
 
 </div>
-
+<!-- youtube window doesn't work when copied to .js file --> 
+<!--#include file="js/youtube_window_scripts.html" -->
 </body>
 </html>
 
