@@ -15,10 +15,10 @@
 <!--#include file="include/heading.html" -->
 <!-- Heading end --> 
 
-<div class="header">
-   <h1>උස්ගොඩ ධම්‍මගරු හිමි</h1>
+<div class="header2">
+  <h1>උස්ගොඩ ධම්‍මගරු හිමි</h1>
   <p style="font-size:12px">(Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>
-  <h2>සදහම් මග සවිස්තරාත්මකව</h2>
+  <h2>Leicester Buddhist Vihara, UK ධර්ම දේශනා</h2>
 </div>
 
 <div class="row">
@@ -48,7 +48,6 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgolUb_U3OTRNjWHS2dSuDvJu" target="_blank">YouTube: Dhamma Talks in English</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgom96jmEgAhzgYbPHCSof1Ls" target="_blank">YouTube: සිංහල ධර්ම දේශනා</a></li>
-<li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgol6yGrh_QxhicAORmmN-40W" target="_blank">YouTube: සදහම් මග සවිස්තරාත්මකව</a></li>
 <li><a href="https://archive.org/details/Index_201704" target="_blank">Archive: Usgoda Dhammagaru Thero</a></li>
 </ul>
 </div>
@@ -65,14 +64,14 @@
 
 <div class="menu2">
 <ul>
-<li><a href="tk_dhammagaru_sadahammaga_sin.shtml">සදහම් මග සවිස්තරාත්මකව</a></li>
+<li><a href="tk_dhammagaru_leicesterbv_sin.shtml">Leicester Buddhist Vihara, UK ධර්ම දේශනා</a></li>
 <li><a href="tk_dhammagaru.shtml">←</a></li>
 </ul>
 </div>
 <!-- Article links End -->
 
 <!-- Article list Start -->
-<!--#include file="lists/tk_dhammagaru_sadahammaga_sin_list.html" -->
+<!--#include file="lists/tk_dhammagaru_leicesterbv_sin_list.html" -->
 <!-- Article list End -->
 
 </div>
