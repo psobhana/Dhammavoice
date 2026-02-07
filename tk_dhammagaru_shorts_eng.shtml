@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--#include file="include/tk_header.html" -->
+</head>
+<body>
+
+<!-- Side Bar Start -->
+<!--#include file="include/tk_left_menu.html" -->
+<!-- Side Bar end -->
+
+<!-- Heading start --> 
+<!--#include file="include/heading.html" -->
+<!-- Heading end --> 
+
+<div class="header2">
+   <h1>Rev. Usgoda Dhammagaru Thero</h1>
+  <p style="font-size:12px">(Pandit, BA Hons, MA, MEd, MSSc, MPhil)</p>
+  <h2>Shorts</h2>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:var(--bg-primary);">
+    
+  
+	<div class="center" class="img-container">    
+	  <!-- add class="center" here for talks -->
+	  
+	 <!--#include file="include/tk_youtube_window.html" -->
+	
+   <!-- <img src="images/dhammagaru.jpg"> -->
+  
+</div>
+  </div>
+  
+  
+  <div class="column" style="background-color:var(--bg-primary);">
+   
+    <p>
+	
+	Rev. Usgoda Dhammagaru Thero lives in Los Angeles Buddhist Vihara, California, USA. He was an Assistant Editor in Sinhala Encyclopaedia and a former Lecturer of Sariputta National College of Education in Nittambuwa.
+
+	</p>
+	
+<div class="menu2">
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgolUb_U3OTRNjWHS2dSuDvJu" target="_blank">YouTube: Dhamma Talks in English</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5_Ax8uKjgom96jmEgAhzgYbPHCSof1Ls" target="_blank">YouTube: සිංහල ධර්ම දේශනා</a></li>
+<li><a href="https://archive.org/details/Index_201704" target="_blank">Archive: Usgoda Dhammagaru Thero</a></li>
+</ul>
+</div>
+
+	<p style="font-size:12px">
+	Dhamma articles are available for download through the links provided in YouTube video descriptions.
+	</p>
+	
+  </div>
+</div>
+
+<!-- Article links Start -->
+<div class="footer">
+
+<div class="menu2">
+<ul>
+<li><a href="tk_dhammagaru_shorts_eng.shtml">Shorts</a></li>
+<li><a href="tk_dhammagaru.shtml">←</a></li>
+</ul>
+</div>
+<!-- Article links End -->
+
+<!-- Article list Start -->
+<!--#include file="lists/tk_dhammagaru_shorts_eng_list.html" -->
+<!-- Article list End -->
+
+</div>
+<!-- youtube window doesn't work when copied to .js file --> 
+<!--#include file="js/youtube_window_scripts.html" -->
+</body>
+</html>
+
