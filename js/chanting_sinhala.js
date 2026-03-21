@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const b = "\u200D"; // Zero Width Joiner (‍)
     
     const specialCombinations = [
-      "\u0D9A\u0DCA\u0D9A", // ක්ක
+    //  "\u0D9A\u0DCA\u0D9A", // ක්ක
       "\u0D9A\u0DCA\u0DC2", // ක්ෂ
       "\u0DAD\u0DCA\u0DAE", // ත්ථ
       "\u0DAD\u0DCA\u0DC0", // ත්ව
