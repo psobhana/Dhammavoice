@@ -28,19 +28,19 @@
 	   <ul class="tree">
   <li>
     <details open>
-      <summary>תפׄתכפׄאל</summary>
+      <summary>טִפִּטַכַּפָּלִה</summary>
       <ul>
-        <li><details><summary>בניפׄתכמ</summary><ul>
+        <li><details><summary>וִנַיַפִּטַכַּם</summary><ul>
 			<!--#include file="pitaka/vinaya_hebrew.html" -->
         </ul></details></li>
 		
-        <li><details><summary>סתתנתפׄתכמ</summary><ul>
+        <li><details><summary>סֻטַּנְטַפִּטַכַּם</summary><ul>
 			<!--#include file="pitaka/sutta_hebrew.html" -->
         </ul></details></li>
-	<li><details><summary>אבדממפׄתכמ</summary><ul>
+	<li><details><summary>אַבִּדַמַּפִּטַכַּם</summary><ul>
 			<!--#include file="pitaka/abhidhamma_hebrew.html" -->
         </ul></details></li>
-	<li><details><summary>גׄנתאנ</summary><ul>
+	<li><details><summary>גַנְטָנִה</summary><ul>
 			<!--#include file="pitaka/extra_hebrew.html" -->
         </ul></details></li>
       </ul>
