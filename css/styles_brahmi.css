@@ -1,0 +1,21 @@
+
+@font-face { src: url('../fonts/NotoSansBrahmi-Regular.ttf') format('truetype'); font-weight: normal; font-family: 'brahmi'; }
+
+.brahmifont{
+    font-family: brahmi;
+}
+
+
+.webfx-tree-item {
+	line-height: 35px;
+  font-family: brahmi;
+  font-size: 16px;
+}
+  
+.webfx-tree-item button,
+.webfx-tree-item a {
+	font-family: brahmi;
+	font-size: 16px;
+}
+	
+

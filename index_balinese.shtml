@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--#include file="include/header.html" -->
+  <link type="text/css" rel="stylesheet" href="css/styles_balinese.css">
+</head>
+
+<body>
+  <!-- Side Bar Start -->
+  <!--#include file="include/left_menu.html" -->
+  <!-- Side Bar end -->
+  
+  <!-- Heading start --> 
+  <!--#include file="include/heading.html" -->
+   <!-- Heading end --> 
+  
+  <!-- Left column start --> 
+  <!--#include file="include/youtube_window.html" -->
+  <!-- Left column end --> 
+    
+<!-- Middle column start --> 
+    <div class="col-8 col-s-9">
+      <td>
+	 <center> <h1 class="balinesefont">Tipitaka Chanting</h1> </center>
+
+<!-- Expanding Menu Start -->
+	 <div class="webfx-tree-item">
+	   <ul class="tree">
+  <li>
+    <details open>
+      <summary>ᬢᬶᬧᬶᬝᬓᬧᬵᬮ᬴ᬶ</summary>
+      <ul>
+        <li><details><summary>ᬯᬶᬦᬬᬧᬶᬝᬓᬂ</summary><ul>
+			<!--#include file="pitaka/vinaya_balinese.html" -->
+        </ul></details></li>
+       <li><details><summary>ᬲᬸᬢ᭄ᬢᬦ᭄ᬢᬧᬶᬝᬓᬂ</summary><ul>
+			<!--#include file="pitaka/sutta_balinese.html" -->
+        </ul></details></li>
+	<li><details><summary>ᬅᬪᬶᬥᬫ᭄ᬫᬧᬶᬝᬓᬂ</summary><ul>
+			<!--#include file="pitaka/abhidhamma_balinese.html" -->
+        </ul></details></li>
+	<li><details><summary>ᬕᬦ᭄ᬣᬵᬦᬶ</summary><ul>
+			<!--#include file="pitaka/extra_balinese.html" -->
+        </ul></details></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+	  </div>
+<!-- Expanding Menu End -->
+
+</td>
+    </div>
+<!-- Middle column end --> 
+    
+<!-- Right column start --> 
+ <!--#include file="use/right_text_balinese.html" -->
+ <!-- Right column end --> 
+      
+ <!-- Bottom start --> 
+ <!--#include file="include/bottom_text.html" -->
+ <!-- Bottom end --> 
+
+  <!-- English Special character keyboard , youtube window
+ floating doesn't work when copied to .js file --> 
+<!--#include file="js/youtube_window_scripts.html" -->
+ 
+</body>
+</html>
